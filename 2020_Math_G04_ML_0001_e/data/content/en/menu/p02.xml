@@ -1,0 +1,697 @@
+﻿<?xml version="1.0"?>
+<root>
+  <elements>
+    <object id="L7" template="CONTENT">
+      <i_content>
+        <node><![CDATA[&nbsp;]]></node>
+      </i_content>
+    </object>
+    <object id="L24" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<table width="100%" height="100%" cellpadding="0" cellspacing="0" class="c_stage" onclick="ed_getinterfacestyle(event,this)">
+            <tr><td valign="top" align="center">Course Holder(including Top Bar, Content Area and Bottom Bar), Click here to set Box shadow</td>
+            </tr>
+          </table>]]></node>
+      </i_content>
+    </object>
+    <object id="L32" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+          <div class="c_modbtndiv" onclick="ed_getinterfacestyle(event,this)">Module Button Holder, Click here to adjust margins between buttons</div>
+          <br>
+          <table width="100%" cellpadding="0" cellspacing="0" class="c_modbtndiv">
+            <tr><td valign="middle" class="c_modulebtn0" onclick="ed_getinterfacestyle(event,this)">Module Button - Inactive</td>
+            <td width="1" valign="middle" align="center"><div class="c_modstat0" onclick="ed_getinterfacestyle(event,this)"><img src="skin0/i_modstat0.png"></div></td><td width="70" valign="middle" align="center">Not visited State</td>
+            </tr>
+          </table>
+          <table width="100%" cellpadding="0" cellspacing="0" class="c_modbtndiv">
+            <tr><td valign="middle" class="c_modulebtn1" onclick="ed_getinterfacestyle(event,this)">Module Button - Normal</td>
+            <td width="1" valign="middle" align="center"><div class="c_modstat1" onclick="ed_getinterfacestyle(event,this)"><img src="skin0/i_modstat1.png"></div></td><td width="70" valign="middle" align="center">Incomplete State</td>
+            </tr>
+          </table>
+          <table width="100%" cellpadding="0" cellspacing="0" class="c_modbtndiv">
+            <tr><td valign="middle" class="c_modulebtn1 c_modulebtn1:hover" onclick="ed_getinterfacestyle(event,this)">Module Button - Hover</td>
+            <td width="1" valign="middle" align="center"><div class="c_modstat1" onclick="ed_getinterfacestyle(event,this)"><img src="skin0/i_modstat1.png"></div></td><td width="70" valign="middle" align="center">Incomplete State</td>
+            </tr>
+          </table>
+          <table width="100%" cellpadding="0" cellspacing="0" class="c_modbtndiv">
+            <tr><td valign="middle" class="c_modulebtn2" onclick="ed_getinterfacestyle(event,this)">Module Button - Completed</td>
+            <td width="1" valign="middle" align="center"><div class="c_modstat2" onclick="ed_getinterfacestyle(event,this)"><img src="skin0/i_modstat2.png"></div></td><td width="70" valign="middle" align="center">Completed State</td>
+            </tr>
+          </table>
+          <table width="100%" cellpadding="0" cellspacing="0" class="c_modbtndiv">
+            <tr><td valign="middle" class="c_modulebtn2 c_modulebtn2:hover" onclick="ed_getinterfacestyle(event,this)">Module Button - Hover Completed</td>
+            <td width="1" valign="middle" align="center"><div class="c_modstat2" onclick="ed_getinterfacestyle(event,this)"><img src="skin0/i_modstat2.png"></div></td><td width="70" valign="middle" align="center">Completed State</td>
+            </tr>
+          </table>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L8" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+          <div style="width:100%"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td width="1" class="c_pgtitlearrow" onclick="ed_getinterfacestyle(event,this)">&#xf0c9;</td><td width="2000" class="c_pgtitle" onclick="ed_getinterfacestyle(event,this)">Page Title Text</td></tr></table></div>
+            
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L5" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+            <div class="c_indexbg" style="opacity:1; display:block; width:100%; height:300px; text-align:right; color:#ffffff; padding-right:10px" onclick="ed_getinterfacestyle(event,this)">
+              <br><br><br><br><br><br><br><br><br>
+             Index Background<br><b>Click here to change the<Br>properties of this box</b></div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L33" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+              <div class="c_index" style="display:block; height:250px; width:100%" onclick="ed_getinterfacestyle(event,this)">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+             <b>Click here to change the properties of this box</b>
+            </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L6" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+            <div class="c_indxbtn0" onclick="ed_getinterfacestyle(event,this)">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">1</td>
+                <td valign="middle">Button - Locked State</td>
+                </tr>
+              </tbody></table>      
+            </div>
+            <div class="c_indxbtn1" onclick="ed_getinterfacestyle(event,this)">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">2</td>
+                <td valign="middle">Button - Clickable State</td>
+                </tr>
+              </tbody></table>      
+            </div>
+            <div class="c_indxbtn1 c_indxbtn1:hover" onclick="ed_getinterfacestyle(event,this)">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">2</td>
+                <td valign="middle">Button - Hover State</td>
+                </tr>
+              </tbody></table>      
+            </div>
+            <div class="c_indxbtn2" onclick="ed_getinterfacestyle(event,this)">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">3</td>
+                <td valign="middle">Button - Visited State</td>
+                </tr>
+              </tbody></table>      
+            </div>
+            <div class="c_indxbtn2 c_indxbtn2:hover" onclick="ed_getinterfacestyle(event,this)">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">2</td>
+                <td valign="middle">Button - Hover State(Visited)</td>
+                </tr>
+              </tbody></table>      
+            </div>
+            <div class="c_indxbtn3" onclick="ed_getinterfacestyle(event,this)">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">4</td>
+                <td valign="middle">Button - Currently Loaded state</td>
+                </tr>
+              </tbody></table>      
+            </div><br>
+            <div class="c_indxbtndiv" onclick="ed_getinterfacestyle(event,this)">
+             <b>Click here to adjust spacing between buttons</b>
+            </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L3" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+          <div class="c_tbi" onclick="ed_getinterfacestyle(event,this)"><b>Tab Holder</b> Click here to change its appearance.
+            <div class="c_tabbuttons">
+              <div class="c_tab">
+                <div class="c_tabbtn" onclick="ed_getinterfacestyle(event,this)" style="position:relative"><i_button>Button - Normal</i_button></div>
+              </div>
+              <div class="c_tab">
+                <div class="c_tabbtn c_tabbtn:hover" onclick="ed_getinterfacestyle(event,this)" style="position:relative"><i_button>Button - Hover</i_button></div>
+              </div>
+              <div class="c_tab">
+                <div class="c_tabbtn_hilite" onclick="ed_getinterfacestyle(event,this)" style="position:relative"><i_button>Button - Clicked</i_button></div>
+              </div>
+              <div class="c_tab">
+                <div class="c_tabbtn c_tabbtn_disabled" onclick="ed_getinterfacestyle(event,this)" style="position:relative"><i_button>Button - Disabled</i_button></div>
+              </div>
+            </div>
+            <div style="clear:both;"></div>
+            <div class="c_tabcontholder">
+              <div class="c_tabcontent" style="position:relative; display:block;" onclick="ed_getinterfacestyle(event,this)">
+                <i_content><b>Content Area</b>, Click here to change its appearance</i_content>
+              </div>
+            </div>
+          </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L13" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+          <div class="c_tbi">
+            <div class="c_tabbuttonsV" onclick="ed_getinterfacestyle(event,this)"><b>All Buttons Holder</b><br><br>
+              <div class="c_tabV" style="position:relative" onclick="ed_getinterfacestyle(event,this)"><b>Button Holder</b></div><br>
+              <div class="c_tabV">
+                <div class="c_tabbtn" style="position:relative" onclick="ed_getinterfacestyle(event,this)"><i_button>Button 1</i_button></div>
+              </div>
+              <br>
+              <div class="c_tabV">
+                <div class="c_tabbtn_hilite" style="position:relative" onclick="ed_getinterfacestyle(event,this)"><i_button>Button 2</i_button></div>
+              </div>
+            </div>
+            <div class="c_tabcontholderV" onclick="ed_getinterfacestyle(event,this)" style="position: absolute;top: 15px;left: 155px;height: 95px;">
+              <div class="c_tabcontentV" style="position:relative; display:block">
+                <i_content><b>Content Holder</b> Click here to change its appearance</i_content>
+              </div>
+            </div>
+          </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L16" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+          <div class="c_expando" onclick="ed_getinterfacestyle(event,this)"><b>Expando Holder</b> click here to change its appearance<br>
+            <div>
+              <div class="c_expbutton_clicked" style="position:relative" onclick="ed_getinterfacestyle(event,this)">
+                <div class="c_expopen" onclick="ed_getinterfacestyle(event,this)">
+                  <table width="100%" style="height:100%;" border="0" cellspacing="0" cellpadding="0">
+                    <tr><td valign="middle" align="center"><img src="skin0/i_expando0.png"></td></tr>
+                  </table>
+                </div><i_button>Button - Clicked</i_button>
+              </div>
+              <div class="c_expcontent" style="height: 50px;" onclick="ed_getinterfacestyle(event,this)"><div style="position:relative"><i_content><b>Content Area</b> click here to edit the appearance.</i_content></div></div>
+            </div>
+          
+            <div>
+              <div class="c_expbutton" style="position:relative" onclick="ed_getinterfacestyle(event,this)">
+                <div class="c_expclosed" onclick="ed_getinterfacestyle(event,this)">
+                  <table width="100%" style="height:100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr><td valign="middle" align="center"><img src="skin0/i_expando0.png"></td></tr>
+                  </table>
+                </div><i_button>Button - Normal</i_button>
+              </div>
+              <div class="c_expbutton c_expbutton:hover" style="position:relative" onclick="ed_getinterfacestyle(event,this)">
+                <div class="c_expclosed" onclick="ed_getinterfacestyle(event,this)">
+                  <table width="100%" style="height:100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr><td valign="middle" align="center"><img src="skin0/i_expando0.png"></td></tr>
+                  </table>
+                </div><i_button>Button - Hover</i_button>
+              </div>
+              <div class="c_expbutton c_expbutton_disabled" style="position:relative" onclick="ed_getinterfacestyle(event,this)">
+                <div class="c_expclosed" onclick="ed_getinterfacestyle(event,this)">
+                  <table width="100%" style="height:100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr><td valign="middle" align="center"><img src="skin0/i_expando0.png"></td></tr>
+                  </table>
+                </div><i_button>Button - Disable</i_button>
+              </div>
+            </div>
+          </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L21" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+          <div class="c_alert" style="display: block; height: 100%; opacity: 1; top: 0px;" onclick="ed_getinterfacestyle(event,this)"><span style="color:#ffffff"><b>Alert Holder</b></span>
+<br><br><br>
+          <div class="c_popupholder" onclick="ed_getinterfacestyle(event,this)"><b>Popup Holder</b></div>
+            <table cellspacing="0" cellpadding="0" align="center">
+                <tr><td>
+                  <div class="c_popupholder" style="width: 685px; top: 116px;">
+                    <div>
+                    <table width="100%" cellpadding="0" cellspacing="0">
+                      <tr class="c_poptitlebg" onclick="ed_getinterfacestyle(event,this)">
+                      <td><div class="c_poptitle" style="position:relative; display:table-cell" onclick="ed_getinterfacestyle(event,this)"><i_button>Popup Title</i_button></div></td>
+                      <td class="c_poptitlebg" onclick="ed_getinterfacestyle(event,this)"><b>Title BG</b></td>
+                      </tr>
+                      <tr><td><div class="c_popcontent" style="position:relative" onclick="ed_getinterfacestyle(event,this)"><i_content>Content Area for the popup</i_content></div></td>
+                      </tr>
+                    </table>
+                    <div onClick="ed_getinterfacestyle(event,this)" alt="Close Button" class="c_popclose" tabIndex="0" style="position:absolute;right:0px;top:0px;text-align:center;vertical-align:middle;display:table-cell;">X</div>
+                  </div>
+                </div>
+              </td></tr>
+            </table>
+        </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L29" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+          <div class="c_quizbox" onclick="ed_getinterfacestyle(event,this)"><b>Quiz Holder</b><br><br>
+            <div class="c_question" onclick="ed_getinterfacestyle(event,this)"><div ondblclick="ed_edittext(event, this.children[0],'i_quiz')"><i_question><b>Question text</b> click to change style</i_question></div><div class="c_instruction" onclick="ed_getinterfacestyle(event,this)"><div ondblclick="ed_edittext(event, this.children[0],'i_quiz')"><i_instruction><b>Instruction Text</b> click to change style</i_instruction></div><br></div> </div>
+            <div class="c_optionslist" onclick="ed_getinterfacestyle(event,this)"><b>Options holder</b> click to change style
+              <div style="position:relative">
+                <div class="c_option" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <input class="c_input" type="radio" onclick="ed_quiz_coroption(this.parentNode)"><i_option style="margin-left: 20px;"><b>Option Normal State</b> click to change style</i_option>
+                </div>
+              </div>
+              <div style="position:relative">
+                <div class="c_option c_option_select" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <input class="c_input" type="radio" onclick="ed_quiz_coroption(this.parentNode)"><i_option style="margin-left: 20px;"><b>Option Selected State</b> click to change style</i_option>
+                </div>
+              </div>
+              <div style="position:relative">
+                <div class="c_option c_option:hover" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <input class="c_input" type="radio" onclick="ed_quiz_coroption(this.parentNode)"><i_option style="margin-left: 20px;"><b>Option Hover State</b> click to change style</i_option>
+                </div>
+              </div>
+              <div style="position:relative">
+                <div class="c_option c_option_incor" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <input class="c_input" type="radio" onclick="ed_quiz_coroption(this.parentNode)"><i_option style="margin-left: 20px;"><b>Option Incorrect State</b> click to change style</i_option>
+                </div>
+              </div>
+              <div style="position:relative">
+                <div class="c_option c_option_show" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <input class="c_input" type="radio" onclick="ed_quiz_coroption(this.parentNode)"><i_option style="margin-left: 20px;"><b>Option Correct/Show State</b> click to change style</i_option>
+                </div>
+              </div>
+              <div style="position:relative">
+                <div class="c_option c_option_disable" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <input class="c_input" type="radio" onclick="ed_quiz_coroption(this.parentNode)"><i_option style="margin-left: 20px;"><b>Option Disabled State</b> click to change style</i_option>
+                </div>
+              </div>
+            </div>
+            <div class="c_quizbtn_align" onclick="ed_getinterfacestyle(event,this)" style="position:relative;padding:10px;color:#000000;font-size:14px">Quiz Button Holder
+            <table width="100%" cellpadding="0" cellspacing="0" class="c_quizbtn_holder">
+            <tbody><tr>
+              <td width="100%">
+                <input type="button" onclick="ed_getinterfacestyle(event,this)" class="c_quizbtn c_quizbtn:hover" value="Button - Hover">
+                <input type="button" onclick="ed_getinterfacestyle(event,this)" class="c_quizbtn" value="Button - Enabled">
+                <input type="button" onclick="ed_getinterfacestyle(event,this)" class="c_quizbtn c_quizbtn_disabled" value="Button - Disabled"></td>
+            </tr>
+            </tbody></table></div>
+            <div class="c_fdbck" onclick="ed_getinterfacestyle(event,this)">
+              <div><table><tbody><tr><td valign="top"><div class="c_quizcorimg"></div></td><td style="position:relative"><i_corfdbck><b>Feedback Area</b> click to change style</i_corfdbck></td></tr></tbody></table></div>
+            </div>
+          </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L30" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<b><font><span style="font-size: 24px;">Edit the appearance&nbsp;of Index and Page title Bar</span></font></b><br>Placed below are the individual elements of Page Title and Index, click on any of these to edit its style. <br><b>Image: indxarrow.png</b><br>If you want to change the Arrow icon, please download the skin using the icon&nbsp;<img id="icon_download" style="-webkit-user-drag: none; max-width: 26px; ;" ondblclick="ed_openimagelib(this)" src="../../../../editor/images/icon_download.png">, on the left hand side toolbar. You can upload the skin back after you are done with your changes.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="L26" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<b><font><span style=" font-size:20px;">Edit the appearance&nbsp;of Tabbed Interactive<br></span></font></b>There are two type of Tab Interactive templates, 1. Buttons align horizontally, 2. Buttons align vertically. The elements include:<br><ol style=""><li style=""><b>Button - Normal&nbsp; &nbsp; &nbsp; : </b>This is common for both templates</li><li style=""><b>Button - Clicked&nbsp; &nbsp; &nbsp;: </b>This is common for both templates</li><li style=""><b>Tab Holder&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : </b>This is common for both templates</li><li style=""><b>Content Area&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : </b>This is applicable only for Horizontal tabs</li><li style=""><b style="">Button Holder&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: </b>This is applicable only for Vertical tabs</li><li style=""><b>Content Holder&nbsp; &nbsp; &nbsp; &nbsp;: </b>This is applicable only for Vertical tabs</li><li style=""><b>Vertical Tab Button&nbsp;:</b> This is applicable only for Vertical tabs</li></ol>If you want to change the icon of a button, please download the skin using the icon&nbsp;<img id="icon_download" style="-webkit-user-drag: initial; max-width: 26px; pointer-events: auto; cursor: default;" ondblclick="ed_openmedialib(this)" src="../../../../editor/images/icon_download.png">, on the left hand side toolbar. You can upload the skin back after you are done with your changes.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="L1" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<b><font><span style=" font-size:20px;">Edit the appearance&nbsp;of Accordion Interactive<br></span></font></b>This template has following styleable elements<br><ol><li style=""><b>Button - Normal &nbsp; &nbsp; &nbsp;: </b>This is common for both templates</li><li style=""><b>Button - Clicked &nbsp; &nbsp; &nbsp;: </b>This is common for both templates</li><li style=""><b>Accordion Holder &nbsp; : </b>This is common for both templates</li><li style=""><b>Content Area &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : </b>Content Area</li><li style=""><b>Arrow &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : </b>Arrow icon displayed against each button, <b>image: i_expando0.png</b></li><li><b>Arrow Holder &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : </b>This holds the arrow image</li></ol>If you want to change the icon of a button, please download the skin using the icon&nbsp;<img id="icon_download" style="-webkit-user-drag: initial; max-width: 26px; pointer-events: auto; cursor: default;" ondblclick="ed_openmedialib(this)" src="../../../../editor/images/icon_download.png">, on the left hand side toolbar. You can upload the skin back after you are done with your changes.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="L14" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<b><font><span style=" font-size:20px;">Edit the appearance&nbsp;of Popup Template<br></span></font></b>Popup template is displayed on click of a button, elements of this template include<br><ol><li style=""><b>Alert Holder &nbsp; &nbsp; &nbsp; : </b>This is the overlay BG displayed behind the popup</li><li style=""><b>Popup Holder &nbsp; &nbsp;: </b>Holds the complete popup element</li><li style=""><b>Title BG &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: </b>This is the top bar of the Popup that holds title<br></li><li style=""><b>Popup Title &nbsp; &nbsp; &nbsp; &nbsp;:</b> This is the title of the popup</li><li style=""><b>Close button &nbsp; &nbsp; &nbsp;: </b>The <b>X</b> button on the right of popup</li><li style=""><b>Content Area &nbsp; &nbsp; : </b>Holds the content that is displayed inside popup</li></ol><br>]]></node>
+      </i_content>
+    </object>
+    <object id="L15" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<b><font><span style=" font-size:20px;">Edit the appearance&nbsp;of Quiz Template<br></span></font></b>Quiz template is made of following elements:<br><ol><li style=""><b>Quiz Holder,&nbsp;</b>This is the overlay BG displayed behind the popup<br><br></li><li style=""><b>Question Text,&nbsp;</b>Holds the complete popup element<br><br></li><li style=""><b>Instruction Text,&nbsp;</b>This is the top bar of the Popup that holds title<br><br></li><li><b>Options Holder,&nbsp;</b>This is the title of the popup<br><br></li><li><b>Option,&nbsp;</b>Options have 6 states, Disabled, Normal, Hover, Selected, Correct and Incorrect<br><br></li><li><b>Quiz Buttons - Enabled,&nbsp;</b>Quiz buttons when enabled<br><br></li><li><b>Quiz Buttons - Disabled,&nbsp;</b>Quiz buttons when disabled<br><br></li><li><b>Feedback Area,&nbsp;</b>Feedback area displays all feedback text, it includes <b>image: i_quiz.png used as spritesheet<br></b></li></ol><div>If you want to change the icon of a button, please download the skin using the icon <img id="icon_download" style="-webkit-user-drag: initial; max-width: 26px; pointer-events: auto; cursor: default;" src="../../../../editor/images/icon_download.png">, on the left hand side toolbar. You can upload the skin back after you are done with your changes.</div>]]></node>
+      </i_content>
+    </object>
+    <object id="L2" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+          <div><b>Review Buttons - Result Page</b>
+               <table cellpadding="10" cellspacing="0" class="c_qreview" onclick="ed_getinterfacestyle(event,this)"><tr><td valign="middle">Q. 1</td><td align="center" valign="middle"><div class="c_qreview1"></div></td></tr></table>
+          </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L4" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<b><font><span style=" font-size:20px;">Edit the appearance&nbsp;of Review Button on result page</span></font></b><br>
+        <ol>
+          <li style=""><b>Question Number:</b> Display the question number</li>
+          <li style=""><b>Icon: </b> i_scrpgtick.png, used as spritesheet</li>
+        </ol>
+        <br>If you want to change the icon of a button, please download the skin using the icon&nbsp;<img id="icon_download" style="-webkit-user-drag: initial; max-width: 26px; pointer-events: auto; cursor: default;" ondblclick="ed_openmedialib(this)" src="../../../../editor/images/icon_download.png">, on the left hand side toolbar. You can upload the skin back after you are done with your changes.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="L9" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<span style="font-size:20px;"><b><font><span style="">Edit the appearance&nbsp;of Module List</span></font></b><br></span>Module list template consists of various elements, below are all the elements of the Module list. Click on any of these to edit its style. <br><br><b>Image references</b><br><ol><li style="">i_modstat0.png</li><li style="">i_modstat1.png</li><li style="">i_modstat2.png</li></ol>If you want to change the completion icon, please download the skin using the icon&nbsp;<img id="icon_download" style="-webkit-user-drag: initial; max-width: 26px; pointer-events: auto; cursor: default;" ondblclick="ed_openmedialib(this)" src="../../../../editor/images/icon_download.png">, on the left hand side toolbar. You can upload the skin back after you are done with your changes.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="L10" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+            <div class="c_mindxbtn0" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">1</td>
+                <td valign="middle">Module Button - Locked State</td>
+                </tr>
+              </tbody></table>
+              <div style="width:50%;position:absolute;bottom:1px" class="c_modprogress">
+              </div>    
+            </div>
+            <div class="c_mindxbtn1" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">2</td>
+                <td valign="middle">Module Button - Clickable State</td>
+                </tr>
+              </tbody></table>      
+              <div style="width:50%;position:absolute;bottom:1px" class="c_modprogress">
+              </div>    
+            </div>
+            <div class="c_mindxbtn1 c_indxbtn1:hover" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">2</td>
+                <td valign="middle">Module Button - Hover State</td>
+                </tr>
+              </tbody></table>      
+              <div style="width:50%;position:absolute;bottom:1px" class="c_modprogress">
+              </div>    
+            </div>
+            <div class="c_mindxbtn2" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">3</td>
+                <td valign="middle">Module Button - Visited State</td>
+                </tr>
+              </tbody></table>      
+              <div style="width:50%;position:absolute;bottom:1px" class="c_modprogress">
+              </div>    
+            </div>
+            <div class="c_mindxbtn2 c_indxbtn2:hover" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">2</td>
+                <td valign="middle">Module Button - Hover State(Visited)</td>
+                </tr>
+              </tbody></table>      
+              <div style="width:50%;position:absolute;bottom:1px" class="c_modprogress">
+              </div>    
+            </div>
+            <div class="c_mindxbtn3" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+              <table cellpadding="5" cellspacing="0" class="c_indxbtndiv">
+                <tbody><tr>
+                <td width="10" align="right">4</td>
+                <td valign="middle">Module Button - Currently Loaded state</td>
+                </tr>
+              </tbody></table>
+              <div style="width:50%;position:absolute;bottom:1px" class="c_modprogress" onclick="ed_getinterfacestyle(event,this)">
+                Progress Bar
+              </div> 
+            </div><br>
+            <div class="c_mindxbtndiv" onclick="ed_getinterfacestyle(event,this)">
+             <b>Click here to adjust spacing between Module buttons</b>
+            </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L11" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+              <div class="c_index" style="display:block; height:250px; width:300px">
+                <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L12" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<table width="100%" height="100%" cellpadding="0" cellspacing="0" class="c_main" onclick="ed_getinterfacestyle(event,this)">
+            <tr><td valign="middle" align="center">Content Area Holder, Click here to set Box shadow</td>
+            </tr>
+          </table>]]></node>
+      </i_content>
+    </object>
+    <object id="L17" template="CONTENT">
+      <i_content>
+        <node><![CDATA[<b><font><span style=" font-size:20px;">Edit the appearance&nbsp;of Quiz Template<br></span></font></b>Quiz template is made of following elements:<br><ol style=""><li style=""><b>Quiz Holder,&nbsp;</b>This is the overlay BG displayed behind the popup<br><br></li><li style=""><b>Question Text,&nbsp;</b>Holds the complete popup element<br><br></li><li style=""><b style="">Instruction Text,&nbsp;</b>This is the top bar of the Popup that holds title<br><br></li><li style=""><b style="">Options Holder,&nbsp;</b>This is the title of the popup<br><br></li><li style=""><b>Option,&nbsp;</b>Options have 6 states, Disabled, Normal, Hover, Selected, Correct and Incorrect<br><br></li><li style=""><b>Quiz Buttons - Enabled,&nbsp;</b>Quiz buttons when enabled<br><br></li><li><b>Quiz Buttons - Disabled,&nbsp;</b>Quiz buttons when disabled<br><br></li><li><b>Feedback Area,&nbsp;</b>Feedback area displays all feedback text, it includes <b>image: i_quiz.png used as spritesheet<br></b></li></ol><div>If you want to change the icon of a button, please download the skin using the icon <img id="icon_download" style="-webkit-user-drag: initial; max-width: 26px; pointer-events: auto; cursor: default;" src="../../../../editor/images/icon_download.png">, on the left hand side toolbar. You can upload the skin back after you are done with your changes.</div>]]></node>
+      </i_content>
+    </object>
+    <object id="L18" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+          <div class="c_quizbox" onclick="ed_getinterfacestyle(event,this)"><b>Quiz Holder</b><br><br>
+            <div class="c_question" onclick="ed_getinterfacestyle(event,this)"><div ondblclick="ed_edittext(event, this.children[0],'i_quiz')"><i_question><b>Question text</b> click to change style</i_question></div><div class="c_instruction" onclick="ed_getinterfacestyle(event,this)"><div ondblclick="ed_edittext(event, this.children[0],'i_quiz')"><i_instruction><b>Instruction Text</b> click to change style</i_instruction></div><br></div> </div>
+            <div class="c_optionslistH" onclick="ed_getinterfacestyle(event,this)"><div><b>Options holder</b> click to change style</div>
+              <div style="display:inline-block;margin:10px">
+                <div class="c_optionH" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <i_option><img id="plcholder" style="-webkit-user-drag: initial; max-width: 40px; width: 100%; pointer-events: none;" src="../data/media/common/plcholder.jpg?rnd=1528895166993"><br><b>Option Normal State</b><br>click to change style</i_option><br><input  type="radio">
+                </div>
+              </div>
+              <div style="display:inline-block;margin:10px">
+                <div class="c_optionH c_optionH_select" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <i_option><img id="plcholder" style="-webkit-user-drag: initial; max-width: 40px; width: 100%; pointer-events: none;" src="../data/media/common/plcholder.jpg?rnd=1528895166993"><br><b>Option Selected State</b><br>click to change style</i_option><br><input  type="radio">
+                </div>
+              </div>
+              <div style="display:inline-block;margin:10px">
+                <div class="c_optionH c_optionH:hover" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <i_option><img id="plcholder" style="-webkit-user-drag: initial; max-width: 40px; width: 100%; pointer-events: none;" src="../data/media/common/plcholder.jpg?rnd=1528895166993"><br><b>Option Hover State</b><br>click to change style</i_option><br><input  type="radio">
+                </div>
+              </div>
+              <div style="display:inline-block;margin:10px">
+                <div class="c_optionH c_optionH_incor" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <i_option><img id="plcholder" style="-webkit-user-drag: initial; max-width: 40px; width: 100%; pointer-events: none;" src="../data/media/common/plcholder.jpg?rnd=1528895166993"><br><b>Option Incorrect State</b><br>click to change style</i_option><br><input  type="radio">
+                </div>
+              </div>
+              <div style="display:inline-block;margin:10px">
+                <div class="c_optionH c_optionH_show" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                  <i_option><img id="plcholder" style="-webkit-user-drag: initial; max-width: 40px; width: 100%; pointer-events: none;" src="../data/media/common/plcholder.jpg?rnd=1528895166993"><br><b>Option Correct State</b><br>click to change style</i_option><br><input  type="radio">
+                </div>
+              </div>
+              <div style="display:inline-block;margin:10px">
+                <div class="c_optionH c_optionH_disable" onclick="ed_getinterfacestyle(event,this)" style="position:relative">
+                 <i_option><img id="plcholder" style="-webkit-user-drag: initial; max-width: 40px; width: 100%; pointer-events: none;" src="../data/media/common/plcholder.jpg?rnd=1528895166993"><br><b>Option Disable State</b><br>click to change style</i_option><br><input  type="radio">
+                </div>
+              </div>
+            </div>
+            <div class="c_quizbtn_align" onclick="ed_getinterfacestyle(event,this)" style="position:relative;padding:10px;color:#000000;font-size:14px">Quiz Button Holder
+            <table width="100%" cellpadding="0" cellspacing="0" class="c_quizbtn_holder">
+            <tbody><tr>
+              <td width="100%">
+                <input type="button" onclick="ed_getinterfacestyle(event,this)" class="c_quizbtn c_quizbtn:hover" value="Button - Hover">
+                <input type="button" onclick="ed_getinterfacestyle(event,this)" class="c_quizbtn" value="Button - Enabled">
+                <input type="button" onclick="ed_getinterfacestyle(event,this)" class="c_quizbtn c_quizbtn_disabled" value="Button - Disabled"></td>
+            </tr>
+            </tbody></table></div>
+            <div class="c_fdbck" onclick="ed_getinterfacestyle(event,this)">
+              <div><table><tbody><tr><td valign="top"><div class="c_quizcorimg"></div></td><td style="position:relative"><i_corfdbck><b>Feedback Area</b> click to change style</i_corfdbck></td></tr></tbody></table></div>
+            </div>
+          </div>
+      ]]></node>
+      </i_content>
+    </object>
+    <object id="L19" template="CONTENT">
+      <i_content>
+        <node><![CDATA[
+            <div id="d_loader" class="c_loader" style="opacity:1;height:100%;" onclick="ed_getinterfacestyle(event,this)"> Loading Box BG
+                <div id="d_loaderbox" class="c_loadbox" style="margin-top:10px;margin-bottom:10px">
+                    <div id="d_loadbarbg" class="c_loadbarbg"></div>
+                    <div id="d_loadbar" class="c_loadbar"></div>
+                    <div id="d_loadtext" class="c_loadtext">Loading...0%</div>
+                </div>
+                <table width="300" border="1" cellpadding="10" cellspacing="0" align="center">
+                  <tr bgcolor="#ffffff"><td align="right"><b>Progress Box:</b></td><td><div id="d_loaderbox" class="c_loadbox" onclick="ed_getinterfacestyle(event,this)"></div></td></tr>
+                  <tr bgcolor="#e8e8e8"><td align="right"><b>Progress Bar BG:</b></td><td style="position: relative;"><div id="d_loadbarbg" style="min-height:10px" class="c_loadbarbg" onclick="ed_getinterfacestyle(event,this)"></div></td></tr>
+                  <tr bgcolor="#ffffff"><td align="right"><b>Progress Bar:</b></td><td style="position: relative;"><div id="d_loadbar" class="c_loadbar" style="min-height:10px" onclick="ed_getinterfacestyle(event,this)"></div></td></tr>
+                  <tr bgcolor="#e8e8e8"><td align="right"><b>Loading Text:</b></td><td><div id="d_loadtext" class="c_loadtext" onclick="ed_getinterfacestyle(event,this)">Loading...0%</div></td></tr>
+              </table>
+            </div>
+      ]]></node>
+      </i_content>
+    </object>
+  </elements>
+  <timeline fps="15">
+    <label>
+      <frm num="45" name="index"/>
+      <frm num="53" name="tbi_template"/>
+      <frm num="66" name="accordian_template"/>
+      <frm num="82" name="popuptemplate"/>
+      <frm num="95" name="quiz_template"/>
+      <frm num="126" name="score_page"/>
+      <frm num="32" name="module_buttons"/>
+      <frm num="109" name="quiz_image_template"/>
+      <frm num="2" name="course_content_bg"/>
+      <frm num="19" name="loading_screen"/>
+    </label>
+    <layer id="L0" type="ACTIONS">
+      <span ac="Stop;">
+        <frm num="137"/>
+        <frm num="137"/>
+      </span>
+    </layer>
+    <layer id="L7" type="CONTENT" lock="1">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="1010" h="576" class="" bgC="rgba(85, 195, 240, 1)" bgT="0,0">
+        <frm num="1" x="0" y="-1" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="153" x="0" y="-1" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L24" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="1005" h="574" class="" fl="0" yreg="top">
+        <frm num="2" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="10" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L12" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="1005" h="502" class="" fl="0">
+        <frm num="2" x="1" y="35" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="10" x="1" y="35" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L19" type="CONTENT" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="921" h="298" class="" yreg="top">
+        <frm num="20" x="2" y="110" o="1" rX="0" rY="0" sX="1" sY="1" w="1002" h="374"/>
+        <frm num="30" x="2" y="110" o="1" rX="0" rY="0" sX="1" sY="1" w="1002" h="374"/>
+      </span>
+    </layer>
+    <layer id="L9" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="966" h="" class="int_contentbox" fl="0" yreg="top">
+        <frm num="32" x="40" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="42" x="40" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L32" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="440" h="" class="">
+        <frm num="32" x="259" y="290" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="42" x="259" y="290" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L30" type="CONTENT" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="966" h="" class="int_contentbox" fl="0">
+        <frm num="45" x="20" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="52" x="20" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L5" type="CONTENT" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="921" h="298" class="" yreg="top">
+        <frm num="45" x="" y="170" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="52" x="" y="170" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L33" type="CONTENT" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="378" h="230" class="">
+        <frm num="45" x="53" y="200" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="52" x="53" y="200" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L8" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="918" h="40" class="">
+        <frm num="45" x="20" y="170" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="52" x="20" y="170" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L6" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="272" h="190" class="">
+        <frm num="45" x="56" y="200" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="52" x="56" y="200" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L11" type="CONTENT" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="378" h="230" class="">
+        <frm num="45" x="383" y="200" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="52" x="383" y="200" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L10" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="272" h="190" class="">
+        <frm num="45" x="406" y="200" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="52" x="406" y="200" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L26" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="966" h="" class="int_contentbox" fl="0" yreg="top">
+        <frm num="53" x="20" y="19" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="65" x="20" y="19" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L3" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="428" h="144" class="">
+        <frm num="53" x="40" y="280" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="65" x="40" y="280" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L13" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="428" h="144" class="">
+        <frm num="53" x="480" y="280" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="65" x="480" y="280" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L1" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="966" h="" class="int_contentbox" fl="0" yreg="top">
+        <frm num="66" x="20" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="81" x="20" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L16" type="CONTENT" lb="ExpandoButtons">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="408" h="124" class="">
+        <frm num="66" x="260" y="290" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="81" x="260" y="290" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L14" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="966" h="194" class="int_contentbox" fl="0" yreg="top">
+        <frm num="82" x="20" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="94" x="20" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L21" type="CONTENT" lb="PopupBG">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="968" h="314" class="">
+        <frm num="82" x="20" y="230" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="94" x="20" y="230" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L15" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="486" h="" class="int_contentbox" fl="0" yreg="top">
+        <frm num="95" x="20" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="108" x="20" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L29" type="CONTENT" lb="QuizOptions">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="458" h="374" class="" yreg="top">
+        <frm num="95" x="530" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="108" x="530" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L17" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="486" h="" class="int_contentbox" fl="0" yreg="top">
+        <frm num="109" x="20" y="10" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="119" x="20" y="10" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L18" type="CONTENT" lb="QuizOptions">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="458" h="374" class="" yreg="top">
+        <frm num="109" x="530" y="-10" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="119" x="530" y="-10" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L4" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="966" h="" class="int_contentbox" fl="0" yreg="top">
+        <frm num="127" x="40" y="19" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="137" x="40" y="19" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L2" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="428" h="144" class="">
+        <frm num="127" x="60" y="280" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="137" x="60" y="280" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+  </timeline>
+</root>

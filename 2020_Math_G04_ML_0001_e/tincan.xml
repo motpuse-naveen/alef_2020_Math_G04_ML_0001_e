@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+  <activities>
+    <activity id="CourseID_1600678415410en" type="http://adlnet.gov/expapi/activities/course">
+      <name lang="en-us">2020_Math_G04_ML_0001_e</name>
+      <description lang="en-US">2020_Math_G04_ML_0001_e</description>
+      <launch lang="en-us">shell/interface.html</launch>
+    </activity>
+  </activities>
+</tincan>

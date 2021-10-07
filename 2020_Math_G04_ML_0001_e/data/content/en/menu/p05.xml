@@ -1,0 +1,97 @@
+﻿<?xml version="1.0"?>
+<root>
+  <elements>
+    <object id="L7" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_Button_D" n_styl="btn_Button_A" t_styl="btn_Button_T" s_styl="btn_Button_S" v_styl="" pub="0">
+      <i_content>
+        <node><![CDATA[Launch Course]]></node>
+      </i_content>
+    </object>
+    <object id="L2" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_Button_D" n_styl="btn_Button_A" t_styl="btn_Button_T" s_styl="btn_Button_S" v_styl="" pub="0">
+      <i_content>
+        <node><![CDATA[Bookmark]]></node>
+      </i_content>
+    </object>
+  </elements>
+  <timeline fps="15">
+    <label/>
+    <layer id="L0" type="ACTIONS">
+      <span ac="Stop;">
+        <frm num="6"/>
+        <frm num="6"/>
+      </span>
+    </layer>
+    <layer id="C1" type="CLIP" clipid="C1">
+      <span an="0" ease="0" hd="0" xreg="left" w="" fl="2" h="50" algn="2" mT="80">
+        <frm num="1" x="" y="" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="6" x="" y="" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <dv sz="300">
+        <span xreg="left" w="" fl="2" h="50" algn="2" mT="80">
+          <frm x="" y=""/>
+          <frm x="" y=""/>
+        </span>
+      </dv>
+    </layer>
+  </timeline>
+  <clips>
+    <clip id="C1">
+      <label>
+        <frm num="10" name="l_bkmark"/>
+      </label>
+      <layer id="L0" type="ACTIONS">
+        <span ac="CheckBookmark:l_bkmark;">
+          <frm num="1"/>
+          <frm num="1"/>
+        </span>
+        <span ac="LoadCourse;">
+          <frm num="3"/>
+          <frm num="3"/>
+        </span>
+        <span ac="Stop;">
+          <frm num="9"/>
+          <frm num="9"/>
+        </span>
+        <span ac="LoadBookmark;">
+          <frm num="13"/>
+          <frm num="13"/>
+        </span>
+        <span ac="stop;">
+          <frm num="21"/>
+          <frm num="21"/>
+        </span>
+      </layer>
+      <layer id="L7" type="BUTTON" lb="Launch Button" pub="0">
+        <span an="0" ease="0" ac="SetLanguage:L1;LoadCourse;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="185" h="42" class="" fl="4" dp="1">
+          <frm num="3" x="" y="" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="9" x="" y="" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+        <span an="0" ease="0" ac="SetLanguage:L1;LoadCourse;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="185" h="42" class="" fl="4" dp="1" mT="" mB="">
+          <frm num="13" x="" y="" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="21" x="" y="" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+        <dv sz="550">
+          <span xreg="left" w="185" h="42" fl="4" dp="1">
+            <frm x="" y=""/>
+            <frm x="" y=""/>
+          </span>
+          <span xreg="left" w="185" h="42" fl="2" dp="0" mB="10" mT="10">
+            <frm x="" y=""/>
+            <frm x="" y=""/>
+          </span>
+        </dv>
+      </layer>
+      <layer id="L2" type="BUTTON" lb="Bookmark Button" pub="0">
+        <span an="0" ease="0" ac="SetLanguage:L1;LoadBookmark;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="185" h="42" class="" fl="4" dp="1" mT="" mB="">
+          <frm num="13" x="20" y="" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="21" x="20" y="" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+        <dv sz="550">
+          <span xreg="left" w="185" h="42" fl="2" dp="0" mT="15" mB="">
+            <frm x="" y=""/>
+            <frm x="" y=""/>
+          </span>
+        </dv>
+      </layer>
+    </clip>
+  </clips>
+</root>

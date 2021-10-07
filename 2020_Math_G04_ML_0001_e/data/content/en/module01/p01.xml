@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<root>
+  <elements>
+    <object id="i1" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i23" style="-webkit-user-drag: none; width: 1920px; height: 1080px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/screen_04_01_bg_8.png?rnd=1627313893452" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L7" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[In this lesson, you will learn to write fractions as decimal numbers.]]></node>
+      </i_content>
+    </object>
+    <object id="i4" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i62" style="-webkit-user-drag: none; width: 398px; height: 522px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/lessionobjective.png?rnd=1623926430501" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L1" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Lesson Objective]]></node>
+      </i_content>
+    </object>
+    <object id="L2" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[In this lesson, you will learn to]]></node>
+      </i_content>
+    </object>
+    <object id="L3" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[write fractions as decimal numbers.]]></node>
+      </i_content>
+    </object>
+    <object id="L6" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Review Fractions<br>]]></node>
+      </i_content>
+    </object>
+    <object id="i7" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i217" style="-webkit-user-drag: none; width: 918px; height: 99px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/titel_bar_blue.png?rnd=1626861736829" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="A3" template="AUDIO" src="a32" hTab="0" tts=""/>
+    <object id="i5" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i10" style="-webkit-user-drag: none; width: 255px; height: 414px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/robo_normal1_2x.png?rnd=1627043440936" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i6" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i4" style="-webkit-user-drag: none; width: 248px; height: 338px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/happy_ahmed_inset.png?rnd=1627043392298" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+  </elements>
+  <timeline fps="15">
+    <label/>
+    <layer id="L0" type="ACTIONS">
+      <span ac="stop;" xreg="left" yreg="top">
+        <frm num="97"/>
+        <frm num="97"/>
+      </span>
+    </layer>
+    <layer id="A3" type="AUDIO">
+      <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="6.56" sATL="0">
+        <frm num="11" x="50" y="120"/>
+        <frm num="75" x="50" y="120"/>
+      </span>
+    </layer>
+    <layer id="i1" type="IMAGE" hide="0" lb="BG" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1920" h="1080" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="97" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i7" type="IMAGE" hide="0" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1240" h="98" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="340" y="-1" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="97" x="340" y="-1" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L6" type="CONTENT" hide="0" lock="0" lb="Title">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="int_page_tittle" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;s:40;c:rgb(255, 255, 255);f:frutiger_bold" aS="1000">
+        <frm num="1" x="653" y="14" o="1" rX="0" rY="0" sX="1" sY="1" w="614" h="55"/>
+        <frm num="97" x="653" y="14" o="1" rX="0" rY="0" sX="1" sY="1" w="614" h="55"/>
+      </span>
+    </layer>
+    <layer id="L7" type="CONTENT" lb="Transcript" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+        <frm num="1" x="-490" y="115" o="1" rX="0" rY="0" sX="1" sY="1" w="469" h=""/>
+        <frm num="97" x="-490" y="115" o="1" rX="0" rY="0" sX="1" sY="1" w="469" h=""/>
+      </span>
+    </layer>
+    <layer id="i4" type="IMAGE" lb="Patch_LessionObjective" hide="0">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="884" h="345" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="538" y="341" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="10" x="538" y="341" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="884" h="345" imgs="50" fl="0" yreg="top">
+        <frm num="11" x="538" y="341" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="97" x="538" y="341" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L1" type="CONTENT" lb="Lesson Objective">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:45;a:center;c:rgb(255, 255, 255)">
+        <frm num="1" x="655" y="364" o="1" rX="0" rY="0" sX="1" sY="1" w="650" h=""/>
+        <frm num="10" x="655" y="364" o="1" rX="0" rY="0" sX="1" sY="1" w="650" h=""/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:45;a:center;c:rgb(255, 255, 255)">
+        <frm num="11" x="655" y="364" o="1" rX="0" rY="0" sX="1" sY="1" w="650" h=""/>
+        <frm num="97" x="655" y="364" o="1" rX="0" rY="0" sX="1" sY="1" w="650" h=""/>
+      </span>
+    </layer>
+    <layer id="L2" type="CONTENT" lb="In this lesson, you will learn">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:40;a:center;c:rgb(0, 0, 0)">
+        <frm num="1" x="615" y="512" o="1" rX="0" rY="0" sX="1" sY="1" w="736" h=""/>
+        <frm num="10" x="615" y="512" o="1" rX="0" rY="0" sX="1" sY="1" w="736" h=""/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:40;a:center;c:rgb(0, 0, 0)">
+        <frm num="11" x="615" y="512" o="1" rX="0" rY="0" sX="1" sY="1" w="736" h=""/>
+        <frm num="97" x="615" y="512" o="1" rX="0" rY="0" sX="1" sY="1" w="736" h=""/>
+      </span>
+    </layer>
+    <layer id="L3" type="CONTENT" lb="how to read 2- and 3-digit numbers.">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:40;a:center;c:rgb(0, 0, 0)">
+        <frm num="1" x="615" y="571" o="1" rX="0" rY="0" sX="1" sY="1" w="736" h=""/>
+        <frm num="10" x="615" y="571" o="1" rX="0" rY="0" sX="1" sY="1" w="736" h=""/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:40;a:center;c:rgb(0, 0, 0)">
+        <frm num="11" x="615" y="571" o="1" rX="0" rY="0" sX="1" sY="1" w="736" h=""/>
+        <frm num="97" x="615" y="571" o="1" rX="0" rY="0" sX="1" sY="1" w="736" h=""/>
+      </span>
+    </layer>
+    <layer id="i5" type="IMAGE" lock="0" lb="Robot">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="311" h="504" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="1493" y="201" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="10" x="1493" y="201" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="311" h="504" imgs="50" fl="0" yreg="top">
+        <frm num="11" x="1493" y="201" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="97" x="1493" y="201" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i6" type="IMAGE" lock="0" lb="Ahmed">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="312" h="402" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="131" y="303" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="10" x="131" y="303" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="312" h="402" imgs="50" fl="0" yreg="top">
+        <frm num="11" x="131" y="303" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="97" x="131" y="303" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+  </timeline>
+  <clips/>
+</root>

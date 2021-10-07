@@ -1,0 +1,223 @@
+﻿<?xml version="1.0"?>
+<root>
+  <elements>
+    <object id="L42" template="CONTENT" pub="1" alt="Play">
+      <i_content>
+        <node><![CDATA[<span style="font-family:fontawesome;"></span>]]></node>
+      </i_content>
+    </object>
+    <object id="L43" template="CONTENT" pub="0">
+      <i_content>
+        <node><![CDATA[This Clip is displayed when audio cannot be started automatically and "Show Play button" is checked in page settings.]]></node>
+      </i_content>
+    </object>
+    <object id="H5" template="SHAPE" hTab="0"/>
+    <object id="H2" template="SHAPE" hTab="0" pub="1"/>
+    <object id="H1" template="SHAPE" hTab="0"/>
+    <object id="L4" template="CONTENT" hTab="0" pub="1">
+      <i_content>
+        <node><![CDATA[]]></node>
+      </i_content>
+    </object>
+    <object id="B1" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_a_only_text_btn_D" n_styl="btn_a_only_text_btn_A" t_styl="btn_a_only_text_btn_T" s_styl="btn_a_only_text_btn_S" v_styl="" r_styl="btn_a_only_text_btn_R" x_styl="btn_a_only_text_btn_X" aV="1" alt="exit button" pub="0">
+      <i_content>
+        <node><![CDATA[Exit X]]></node>
+      </i_content>
+    </object>
+    <object id="T1" template="TABLE" asdb="1" hTab="0">
+      <i_content>
+        <node><![CDATA[
+								<table cellspacing="0" cellpadding="10" border="1" bordercolor="#000000" width="100%" contenteditable="false" style="border-collapse: collapse; user-select: none; " spellcheck="false">
+									<tbody><tr style="background-color:#333333;">
+										<td width="50%" align="center" style="color: rgb(255, 255, 255); display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">pageId</td>
+										<td width="50%" align="center" style="color: rgb(255, 255, 255); display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box;  ">pageNum</td>
+									</tr>
+									<tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box;  ">p02</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">1</td>
+									</tr>
+									<tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">p11</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">1</td>
+									</tr>
+									<tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">p01</td><td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box;  ">1</td>
+									</tr><tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">p07</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">2</td>
+									</tr><tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box;  ">p04</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">2</td>
+									</tr><tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box;  ">p09</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">3</td>
+									</tr><tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">p08</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box;">4</td>
+									</tr><tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">p10</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">4</td>
+									</tr><tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">p13</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">4</td>
+									</tr><tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">p12</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">5</td></tr><tr><td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">p06</td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; ">6</td>
+									</tr><tr>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box;"><br></td>
+										<td align="center" style="display: table-cell; border: 1px solid rgb(0, 0, 0); margin: 0px; box-sizing: border-box; "><br></td>
+									</tr>
+								</tbody></table>
+						]]></node>
+      </i_content>
+    </object>
+  </elements>
+  <timeline fps="15">
+    <label>
+      <frm num="3" name="l_pages"/>
+      <frm num="29" name="l_menu"/>
+      <frm num="40" name="l_inactive"/>
+      <frm num="14" name="l_pages_dark"/>
+    </label>
+    <layer id="L0" type="ACTIONS">
+      <span ac="stop;" xreg="left" yreg="top">
+        <frm num="11"/>
+        <frm num="11"/>
+      </span>
+      <span ac="Stop;">
+        <frm num="24"/>
+        <frm num="24"/>
+      </span>
+      <span ac="Stop;" xreg="left" yreg="top">
+        <frm num="34"/>
+        <frm num="34"/>
+      </span>
+      <span ac="stop;" xreg="left" yreg="top">
+        <frm num="42"/>
+        <frm num="42"/>
+      </span>
+    </layer>
+    <layer id="B1" type="BUTTON" lb="exitBtn" pub="0" hide="1">
+      <span an="0" ease="0" ac="ExitCourse;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="150" h="50" class="" imgs="50" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+        <frm num="2" x="1715" y="26" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="11" x="1715" y="26" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="0" ease="0" ac="ExitCourse;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="150" h="50" class="" imgs="50" fl="0" yreg="top" frmt=";c:rgb(72, 92, 0)">
+        <frm num="14" x="1715" y="26" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="24" x="1715" y="26" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="C4" type="CLIP" clipid="C4" lb="course progress bar" hide="0" lock="0">
+      <span an="0" ease="0" hd="0" xreg="left" w="345" h="42" fl="0" mS="1" bnd="0" yreg="top">
+        <frm num="2" x="31" y="30" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="24" x="31" y="30" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <dv sz="900">
+        <span xreg="right" w="155" h="30" fl="0" vdp="1">
+          <frm x="160" y="7"/>
+          <frm x="160" y="7"/>
+        </span>
+      </dv>
+    </layer>
+    <layer id="T1" type="TABLE">
+      <span an="0" ease="0" hd="0" xreg="left" w="300" h="215" class="" imgs="50" fl="0" yreg="top" ldac="CUSTOM:getTotalPages:;" ih="0">
+        <frm num="1" x="-900" y="-400" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="52" x="-900" y="-400" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L4" type="CONTENT" vA="1" hide="0" lock="0" pub="1" lb="a_pageCount">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="int_Page_Counter" imgs="50" fl="0" frmt=";a:left;c:rgb(255, 255, 255);s:20" h="" bnd="0" w="31" yreg="top">
+        <frm num="2" x="46" y="12" o="1" rX="0" rY="0" sX="1" sY="1" w="150" h="30"/>
+        <frm num="11" x="46" y="12" o="1" rX="0" rY="0" sX="1" sY="1" w="150" h="30"/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="" bgR="" class="int_Page_Counter" imgs="50" fl="0" frmt=";a:left;c:rgb(72, 92, 0)" h="" bnd="0" w="31" yreg="top" bgC="">
+        <frm num="14" x="46" y="12" o="1" rX="0" rY="0" sX="1" sY="1" w="150" h="30" bgC=""/>
+        <frm num="24" x="46" y="12" o="1" rX="0" rY="0" sX="1" sY="1" w="150" h="30" bgC=""/>
+      </span>
+    </layer>
+    <layer id="C1" type="CLIP" clipid="C1" lb="patchmc" lock="1">
+      <span an="0" ease="0" hd="0" xreg="left" w="1920" h="60" fl="0" yreg="top">
+        <frm num="2" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="24" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="C10" type="CLIP" clipid="C10" lb="c_initaudio" hide="0" lock="0">
+      <span an="0" ease="0" hd="0" xreg="left" w="-1" h="-1" fl="4" yreg="top">
+        <frm num="1" x="-2" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="52" x="-2" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+  </timeline>
+  <clips>
+    <clip id="C10">
+      <label>
+        <frm num="3" name="l_show"/>
+      </label>
+      <layer id="L0" type="ACTIONS">
+        <span ac="stop;">
+          <frm num="1"/>
+          <frm num="1"/>
+        </span>
+        <span ac="stop;">
+          <frm num="7"/>
+          <frm num="7"/>
+        </span>
+      </layer>
+      <layer id="L42" type="CONTENT" vA="1" pub="1">
+        <span an="0" ease="0" ac="PauseUnpause:1;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" fl="4" frmt=";s:60;a:center;c:rgb(253, 253, 253)" yreg="top" w="70" h="">
+          <frm num="3" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" w="1920" h="1080" bgC="rgba(1, 1, 1, 0.8)" bgT="0,0"/>
+          <frm num="7" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" w="1920" h="1080"/>
+        </span>
+      </layer>
+      <layer id="L43" type="CONTENT" vA="1" pub="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 8, 0);a:center;s:24">
+          <frm num="1" x="-307" y="70" o="1" rX="0" rY="0" sX="1" sY="1" w="290" h="216" bgC="rgba(254, 254, 253, 1)" bgT="0,0"/>
+          <frm num="7" x="-307" y="70" o="1" rX="0" rY="0" sX="1" sY="1" w="290" h="216"/>
+        </span>
+      </layer>
+    </clip>
+    <clip id="C4">
+      <label/>
+      <layer id="L0" type="ACTIONS">
+        <span ac="stop;">
+          <frm num="10"/>
+          <frm num="10"/>
+        </span>
+      </layer>
+      <layer id="H5" type="SHAPE" hide="0">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="202" h="18" class="int_a_progress_bar" fl="0" shp="1" rds="12" mL="" yreg="top" ih="0" bfill="1" bgI="" bgA="" bgR="" bgC="" brds="3">
+          <frm num="1" x="10" y="14" o="1" rX="0" rY="0" sX="1" sY="1" bgC="rgba(180, 223, 38, 1.00)" bgT="0,0" kX="0"/>
+          <frm num="10" x="10" y="14" o="1" rX="0" rY="0" sX="1" sY="1" kX="0" bgC=""/>
+        </span>
+      </layer>
+      <layer id="H2" type="SHAPE" hide="0" lb="Shape" pub="1" lock="0">
+        <span an="0" ease="4" ac="" hd="0" xreg="left" w="2" h="16" class="int_progress_bar" fl="0" shp="1" rds="14" mL="" aO="0% 50%" bgI="" bgA="" bgR="" bgC="" yreg="top" bfill="1">
+          <frm num="1" x="11" y="15" o="1" rX="0" rY="0" sX="1" sY="1" bgC="rgba(72, 92, 0, 1.00)" bgT="0,0" kX="0"/>
+          <frm num="10" x="11" y="15" o="1" rX="0" rY="0" sX="1" sY="1" bgC="" kX="0"/>
+        </span>
+      </layer>
+    </clip>
+    <clip id="C1">
+      <label>
+        <frm num="3" name="show"/>
+      </label>
+      <layer id="L0" type="ACTIONS">
+        <span ac="stop;">
+          <frm num="1"/>
+          <frm num="1"/>
+        </span>
+        <span ac="stop;">
+          <frm num="10"/>
+          <frm num="10"/>
+        </span>
+      </layer>
+      <layer id="H1" type="SHAPE">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="1920" h="130" class="int_Overlay_Top_BG" fl="0" shp="0" rds="22" yreg="top" bgI="" bgA="" bgR="" bgC="" mBlk="1">
+          <frm num="4" x="0" y="-21" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+          <frm num="10" x="0" y="-21" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        </span>
+      </layer>
+    </clip>
+  </clips>
+</root>

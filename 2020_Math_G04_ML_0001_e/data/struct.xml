@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <settings showmenu="1" closedpath="0" id="CourseID_1600678415410en" completionon="ASSESSMENT" startwith="menu" def_lang="en" lang="en" audio="0" bgimg="" bgcol="padding-box rgb(255, 255, 255)" crs_width="1920" crs_height="1080" topbar="2" bottombar="2" pgtitle="0" sniffer="1" skin="skin0" oncomplete="Completed" onpass="Passed" onfail="Failed" crs_font="frutiger_1" bgrepeat="" topbarH="0" btmbarH="0" _ver="v6" c_ver="v6" indxpos="1" crs_mrgL="0" crs_mrgR="0" indxlist="0" crs_fonts="40" bgalign="" bgsize="" fixbars="0" crs_fillmode="3" crs_dfillmode="1" crs_orient="0" crs_hasswipe="1" allowtab="2" vo_assist="0" indxnum="1" bgexpand="1" htmldrp="0" crs_animin="fade-in" crs_animout="fade-in" lms_mode="xAPI" crs_render="1" taborder="0" vo_page="1" crs_perspect="600" crs_preload="2" crs_pause="1" crs_select="0" crs_scalemode="1" crs_animmode="1" sendscore="0" lcl_mod="0" lms_cmt="0" kal="1" pas="0" role="" csimg="" ldr="2" defacs="0" as_cnt="0" ind_modprg="0" toplyr="ftr"/>
+  <modules>
+    <module id="menu" type="MENU">
+      <page id="p01" nxt="" bck="" trk="1" indx="1" type="0" navigbar="0" scrollbar="4" bgimg="" topbar="1" ttlbar="0" btmbar="1" bgA="left top" bgR="repeat" bgS="" tfrm="l_menu" bfrm="l_menu" showplay="0" nomrg="0" hM="0" ytv="0" transid="" pg_in="" pg_out="" shwC="0" trans="zkbym" inav="0" csb="0">
+        <node lang="en" images="i33,i34,i255,i254,i229,i36,i72,i197" audio="" fbx="" video=""/>
+      </page>
+      <page id="p02" nxt="" bck="" trk="0" indx="0" type="" navigbar="0" scrollbar="0" bgimg="" ttlbar="0" tfrm="" bfrm="" showplay="0" nomrg="0" topbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="0" ytv="0" transid="" pg_in="" pg_out="" trans="xtfdw" shwC="0" inav="0" csb="1">
+        <node lang="en" images="" audio="" fbx="" video=""/>
+      </page>
+      <page id="p03" nxt="" bck="" trk="0" indx="0" type="" navigbar="0" scrollbar="4" bgimg="" ttlbar="0" topbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" tfrm="" bfrm="" showplay="0" nomrg="0" hM="0" ytv="0" transid="" pg_in="" pg_out="" shwC="0" trans="sgefg" inav="0" csb="0">
+        <node lang="en" images="" audio="" fbx="" video=""/>
+      </page>
+      <page id="p04" nxt="" bck="" trk="0" indx="0" type="" navigbar="0" scrollbar="4" bgimg="" ttlbar="0" topbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" tfrm="" bfrm="" showplay="0" nomrg="0" hM="0" ytv="0" transid="" pg_in="" pg_out="" shwC="0" trans="hijab" inav="0" csb="0">
+        <node lang="en" images="i226,i227,i13,i224,i225,i220,i221,i455,i235,i236,i456,i233,i234,i222,i223,i458,i250,i248,i249" audio="" fbx="" video=""/>
+      </page>
+      <page id="p05" nxt="" bck="" trk="0" indx="0" type="" navigbar="0" scrollbar="1" bgimg="" ttlbar="0" topbar="0" btmbar="0" bgA="left top" bgR="repeat" bgS="" tfrm="" bfrm="" showplay="0" nomrg="0" hM="0" ytv="0" transid="" pg_in="" pg_out="" trans="kk" hO="kt" csb="1" shwC="0" inav="0">
+        <node lang="en" images="" audio="" fbx="" video=""/>
+      </page>
+    </module>
+    <module id="module01" lock_on="" hidden="0" type="CONTENT" trk="1">
+      <page id="p02" nxt="" bck="" trk="1" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages" bfrm="l_anim" fbx="" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="0" ytv="0" transid="L4" pg_in="" pg_out="" shwC="0" inav="0" trans="wxyz" csb="0">
+        <node lang="en" images="i3,i35,i217,i36,i197,i72,i39" audio="a7,a8,a10,a11" video="" fbx=""/>
+      </page>
+      <page id="p11" nxt="" bck="" trk="0" indx="1" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages_dark" bfrm="l_activity" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="31" ytv="0" transid="L21" pg_in="" pg_out="" shwC="0" trans="wxyz" inav="0" csb="0">
+        <node lang="en" images="i23,i217,i250,i248,i249,i235,i236,i113,i31,i361,i453,i1,i2,i201,i11,i17,i16" audio="a13,a14,a16,a22,a26,a24,a29,a12,a28,a23,a30,a15,a25,a31" fbx="" video=""/>
+      </page>
+      <page id="p01" nxt="" bck="" trk="1" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages_dark" bfrm="l_anim" fbx="" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="0" ytv="0" transid="L7" pg_in="" pg_out="" shwC="0" inav="0" trans="cdefg" csb="0">
+        <node lang="en" images="i23,i62,i217,i10,i4" audio="a32" video="" fbx=""/>
+      </page>
+      <page id="p07" nxt="" bck="" trk="0" indx="1" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages_dark" bfrm="l_activity" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="6" ytv="0" transid="L4" pg_in="" pg_out="" shwC="0" trans="rstuv" inav="0" csb="0">
+        <node lang="en" images="i23,i48,i217,i20,i21,i26,i24,i15,i14,i361,i453,i5,i27,i46,i9,i10,i25" audio="a34,a65,a35,a39,a40,a75,a80,a70,a33,a36,a37,a38,a41,a71" fbx="" video=""/>
+      </page>
+      <page id="p04" nxt="" bck="" trk="1" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages_dark" bfrm="l_anim" fbx="" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="4" ytv="0" transid="L1" pg_in="" pg_out="" shwC="0" inav="0" trans="cdefg" csb="0">
+        <node lang="en" images="i23,i217,i218,i49,i27" audio="a81,a82,a83,a84,a85" video="" fbx=""/>
+      </page>
+      <page id="p09" nxt="" bck="" trk="0" indx="1" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages_dark" bfrm="l_activity" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="21" ytv="0" transid="L3" pg_in="" pg_out="" shwC="0" trans="wxyz" inav="0" csb="0">
+        <node lang="en" images="i91,i235,i236,i1,i23,i361,i453,i250,i248,i249,i113,i31,i2,i210,i201,i51,i50" audio="a86,a89,a87,a99,a100,a91,a92,a93,a88,a94,a96,a95,a90,a98,a101" fbx="" video=""/>
+      </page>
+      <page id="p08" nxt="" bck="" trk="1" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages_dark" bfrm="l_anim" fbx="" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="22" ytv="0" transid="L7" pg_in="" pg_out="" shwC="0" inav="0" trans="cdefg" csb="0">
+        <node lang="en" images="i23,i11,i12,i217,i58" audio="a102,a103,a104" video="" fbx=""/>
+      </page>
+      <page id="p10" nxt="" bck="" trk="0" indx="1" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages_dark" bfrm="l_activity" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="1" ytv="0" transid="L21" pg_in="" pg_out="" shwC="0" trans="hijab" inav="0" csb="0">
+        <node lang="en" images="i23,i57,i217" audio="a109,a108,a105,a106,a107" fbx="" video=""/>
+      </page>
+      <page id="p13" nxt="" bck="" trk="1" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages_dark" bfrm="l_anim" fbx="" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="21" ytv="0" transid="L7" pg_in="" pg_out="" shwC="0" inav="0" trans="hijkl" csb="0">
+        <node lang="en" images="i23,i69,i217,i58,i57" audio="a113,a110,a111,a112" video="" fbx=""/>
+      </page>
+      <page id="p12" nxt="" bck="" trk="0" indx="1" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages_dark" bfrm="l_activity" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="13" ytv="0" transid="L3" pg_in="" pg_out="" shwC="0" trans="mnopq" inav="0" csb="0">
+        <node lang="en" images="i91,i235,i236,i1,i23,i361,i453,i250,i248,i249,i2,i218,i113,i31,i70,i20,i26,i24,i71" audio="a114,a115,a127,a120,a116,a117,a119,a126,a121,a122,a125,a128,a123,a124" fbx="" video=""/>
+      </page>
+      <page id="p06" nxt="" bck="" trk="1" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="4" tfrm="l_pages" bfrm="l_last_page" fbx="" showplay="0" nomrg="0" topbar="1" ttlbar="1" btmbar="1" bgA="left top" bgR="repeat" bgS="" hM="0" ytv="0" transid="L5" pg_in="" pg_out="" shwC="0" inav="0" trans="hijab" csb="0">
+        <node lang="en" images="i197,i217,i8,i7,i215,i6,i35" audio="a129" video="" fbx=""/>
+      </page>
+    </module>
+  </modules>
+  <resources>
+    <images>
+      <res id="plcholder" src="plcholder.jpg" lang=""/>
+      <res id="i13" src="refresh_icon.png" lang="" name="refresh_icon"/>
+      <res id="i91" src="screen_07_blue_patch_with_circle_8.png" lang="" name="screen_07_blue_patch_with_circle_8"/>
+      <res id="i220" src="pause_normal.png" lang="" name="pause_normal"/>
+      <res id="i221" src="pause_rollover.png" lang="" name="pause_rollover"/>
+      <res id="i222" src="play_normal.png" lang="" name="play_normal"/>
+      <res id="i223" src="play_rollover.png" lang="" name="play_rollover"/>
+      <res id="i224" src="replay_normal.png" lang="" name="replay_normal"/>
+      <res id="i225" src="replay_rollover.png" lang="" name="replay_rollover"/>
+      <res id="i226" src="transcript_normal.png" lang="" name="transcript_normal"/>
+      <res id="i227" src="transcript_rollover.png" lang="" name="transcript_rollover"/>
+      <res id="i229" src="01_opening_screen_1_yellow_board.png" lang="" name="01_opening_screen_1_yellow_board"/>
+      <res id="i233" src="back_btn_normal.png" lang="" name="back_btn_normal"/>
+      <res id="i234" src="back_btn_rollover.png" lang="" name="back_btn_rollover"/>
+      <res id="i235" src="next_btn_normal.png" lang="" name="next_btn_normal"/>
+      <res id="i236" src="next_btn_rollover.png" lang="" name="next_btn_rollover"/>
+      <res id="i248" src="next_ready_close_btn.png" lang="" name="next_ready_close_btn"/>
+      <res id="i249" src="next_ready_close_hover.png" lang="" name="next_ready_close_hover"/>
+      <res id="i250" src="next_ready_popup.png" lang="" name="next_ready_popup"/>
+      <res id="i254" src="01_opening_screen_red_curtain_left.png" lang="" name="01_opening_screen_red_curtain_left"/>
+      <res id="i255" src="01_opening_screen_red_curtain_right.png" lang="" name="01_opening_screen_red_curtain_right"/>
+      <res id="i361" src="screen_03_06_blue_box_8.png" lang="" name="screen_03_06_blue_box_8"/>
+      <res id="i453" src="screen_03_06_orange_box_8.png" lang="" name="screen_03_06_orange_box_8"/>
+      <res id="i455" src="next_btn_disable.png" lang="" name="next_btn_disable"/>
+      <res id="i456" src="back_btn_disable.png" lang="" name="back_btn_disable"/>
+      <res id="i458" src="transcriptcross.png" lang="" name="transcriptcross"/>
+      <res id="i23" src="screen_04_01_bg_8.png" lang="" name="screen_04_01_bg_8"/>
+      <res id="i36" src="intro_ahmed.png" lang="" name="intro_ahmed"/>
+      <res id="i62" src="lessionobjective.png" lang="" name="lessionobjective"/>
+      <res id="i113" src="hint_btn_1_8.png" lang="" name="hint_btn_1_8"/>
+      <res id="i197" src="sc01_robo_build_animation_start.png" lang="" name="sc01_robo_build_animation_start"/>
+      <res id="i201" src="sc01_number_line.png" lang="" name="sc01_number_line"/>
+      <res id="i210" src="sc03_chart_feedbac.png" lang="" name="sc03_chart_feedbac"/>
+      <res id="i215" src="asset_8.png" lang="" name="asset_8"/>
+      <res id="i217" src="titel_bar_blue.png" lang="" name="titel_bar_blue"/>
+      <res id="i218" src="black_line_sc02.png" lang="" name="black_line_sc02"/>
+      <res id="i20" src="curly_bracket_large.png" lang="" name="curly_bracket_large"/>
+      <res id="i21" src="curly_bracket_small.png" lang="" name="curly_bracket_small"/>
+      <res id="i24" src="lable.png" lang="" name="lable"/>
+      <res id="i25" src="option_box.png" lang="" name="option_box"/>
+      <res id="i26" src="up_arrow.png" lang="" name="up_arrow"/>
+      <res id="i27" src="sc_02_02_asset_13.png" lang="" name="sc_02_02_asset_13"/>
+      <res id="i31" src="hint_hover.png" lang="" name="hint_hover"/>
+      <res id="i33" src="play_button.png" lang="" name="play_button"/>
+      <res id="i34" src="play_button_hover.png" lang="" name="play_button_hover"/>
+      <res id="i35" src="screen_01_bg_board.png" lang="" name="screen_01_bg_board"/>
+      <res id="i39" src="screen_01_mathbot_02.png" lang="" name="screen_01_mathbot_02"/>
+      <res id="i46" src="screen_02_numberline_01.png" lang="" name="screen_02_numberline_01"/>
+      <res id="i48" src="screen_02_pvc_01.png" lang="" name="screen_02_pvc_01"/>
+      <res id="i49" src="screen_02_pvc_02.png" lang="" name="screen_02_pvc_02"/>
+      <res id="i50" src="sc03_hint_2.png" lang="" name="sc03_hint_2"/>
+      <res id="i51" src="sc03_hint_1.png" lang="" name="sc03_hint_1"/>
+      <res id="i57" src="screen_04_pvcbox_01.png" lang="" name="screen_04_pvcbox_01"/>
+      <res id="i58" src="sc04_01_number_line.png" lang="" name="sc04_01_number_line"/>
+      <res id="i69" src="screen_04_01_.png" lang="" name="screen_04_01_"/>
+      <res id="i70" src="screen_05_pvcbox_01.png" lang="" name="screen_05_pvcbox_01"/>
+      <res id="i71" src="screen_05_pvcbox_02.png" lang="" name="screen_05_pvcbox_02"/>
+      <res id="i72" src="01.png" lang="" name="01"/>
+      <res id="i1" src="feedback_patch.png" lang="" name="feedback_patch"/>
+      <res id="i2" src="hint_patch.png" lang="" name="hint_patch"/>
+      <res id="i3" src="ahmed_looking_robot_reading_book_01.png" lang="" name="ahmed_looking_robot_reading_book_01"/>
+      <res id="i4" src="happy_ahmed_inset.png" lang="" name="happy_ahmed_inset"/>
+      <res id="i5" src="power_up_patch.png" lang="" name="power_up_patch"/>
+      <res id="i6" src="robot_happy_trophy.png" lang="" name="robot_happy_trophy"/>
+      <res id="i7" src="robot_normal_side_view.png" lang="" name="robot_normal_side_view"/>
+      <res id="i8" src="ahmed_holding_award_chears.png" lang="" name="ahmed_holding_award_chears"/>
+      <res id="i9" src="ahamad_inset.png" lang="" name="ahamad_inset"/>
+      <res id="i10" src="robo_normal1_2x.png" lang="" name="robo_normal1_2x"/>
+      <res id="i11" src="ahamad_inset_small.png" lang="" name="ahamad_inset_small"/>
+      <res id="i12" src="robot_norma_inset_small.png" lang="" name="robot_norma_inset_small"/>
+      <res id="i14" src="power_up_hover_bg.png" lang="" name="power_up_hover_bg"/>
+      <res id="i15" src="screen_04_power_up_btn.png" lang="" name="screen_04_power_up_btn"/>
+      <res id="i16" src="i_qcross.png" lang="" name="i_qcross"/>
+      <res id="i17" src="i_qtick.png" lang="" name="i_qtick"/>
+    </images>
+    <audio>
+      <res id="a7" src="s01_a.mp3" lang="" name="s01_a"/>
+      <res id="a8" src="s01_b.mp3" lang="" name="s01_b"/>
+      <res id="a10" src="s01_c.mp3" lang="" name="s01_c"/>
+      <res id="a11" src="s01_d.mp3" lang="" name="s01_d"/>
+      <res id="a12" src="s01_t01_a.mp3" lang="" name="s01_t01_a"/>
+      <res id="a13" src="s01_t01_b.mp3" lang="" name="s01_t01_b"/>
+      <res id="a14" src="s01_t01_c.mp3" lang="" name="s01_t01_c"/>
+      <res id="a15" src="s01_t01_d.mp3" lang="" name="s01_t01_d"/>
+      <res id="a16" src="s01_t01_e.mp3" lang="" name="s01_t01_e"/>
+      <res id="a22" src="s01_t01_f.mp3" lang="" name="s01_t01_f"/>
+      <res id="a23" src="s01_t01_g.mp3" lang="" name="s01_t01_g"/>
+      <res id="a24" src="s01_t01_h.mp3" lang="" name="s01_t01_h"/>
+      <res id="a25" src="s01_t01_i.mp3" lang="" name="s01_t01_i"/>
+      <res id="a26" src="s01_t01_j.mp3" lang="" name="s01_t01_j"/>
+      <res id="a28" src="s01_t01_k.mp3" lang="" name="s01_t01_k"/>
+      <res id="a29" src="s01_t01_l.mp3" lang="" name="s01_t01_l"/>
+      <res id="a30" src="s01_t01_m.mp3" lang="" name="s01_t01_m"/>
+      <res id="a31" src="s01_t01_n.mp3" lang="" name="s01_t01_n"/>
+      <res id="a32" src="s01_t02_a.mp3" lang="" name="s01_t02_a"/>
+      <res id="a33" src="s02_a.mp3" lang="" name="s02_a"/>
+      <res id="a34" src="s02_b.mp3" lang="" name="s02_b"/>
+      <res id="a35" src="s02_c.mp3" lang="" name="s02_c"/>
+      <res id="a36" src="s02_d.mp3" lang="" name="s02_d"/>
+      <res id="a37" src="s02_e.mp3" lang="" name="s02_e"/>
+      <res id="a38" src="s02_f.mp3" lang="" name="s02_f"/>
+      <res id="a39" src="s02_g.mp3" lang="" name="s02_g"/>
+      <res id="a40" src="s02_h.mp3" lang="" name="s02_h"/>
+      <res id="a41" src="s02_i.mp3" lang="" name="s02_i"/>
+      <res id="a65" src="s02_j.mp3" lang="" name="s02_j"/>
+      <res id="a70" src="s02_k.mp3" lang="" name="s02_k"/>
+      <res id="a71" src="s02_l.mp3" lang="" name="s02_l"/>
+      <res id="a75" src="s02_m.mp3" lang="" name="s02_m"/>
+      <res id="a80" src="s02_n.mp3" lang="" name="s02_n"/>
+      <res id="a81" src="s02_o.mp3" lang="" name="s02_o"/>
+      <res id="a82" src="s02_p.mp3" lang="" name="s02_p"/>
+      <res id="a83" src="s02_q.mp3" lang="" name="s02_q"/>
+      <res id="a84" src="s02_r.mp3" lang="" name="s02_r"/>
+      <res id="a85" src="s02_s.mp3" lang="" name="s02_s"/>
+      <res id="a86" src="s03_a.mp3" lang="" name="s03_a"/>
+      <res id="a87" src="s03_b.mp3" lang="" name="s03_b"/>
+      <res id="a88" src="s03_c.mp3" lang="" name="s03_c"/>
+      <res id="a89" src="s03_d.mp3" lang="" name="s03_d"/>
+      <res id="a90" src="s03_e.mp3" lang="" name="s03_e"/>
+      <res id="a91" src="s03_f.mp3" lang="" name="s03_f"/>
+      <res id="a92" src="s03_f_a.mp3" lang="" name="s03_f_a"/>
+      <res id="a93" src="s03_f_b.mp3" lang="" name="s03_f_b"/>
+      <res id="a94" src="s03_f_c.mp3" lang="" name="s03_f_c"/>
+      <res id="a95" src="s03_f_d.mp3" lang="" name="s03_f_d"/>
+      <res id="a96" src="s03_f_e.mp3" lang="" name="s03_f_e"/>
+      <res id="a98" src="s03_h.mp3" lang="" name="s03_h"/>
+      <res id="a99" src="s03_h1.mp3" lang="" name="s03_h1"/>
+      <res id="a100" src="s03_h2_a.mp3" lang="" name="s03_h2_a"/>
+      <res id="a101" src="s03_h2_b.mp3" lang="" name="s03_h2_b"/>
+      <res id="a102" src="s04_a.mp3" lang="" name="s04_a"/>
+      <res id="a103" src="s04_b.mp3" lang="" name="s04_b"/>
+      <res id="a104" src="s04_c.mp3" lang="" name="s04_c"/>
+      <res id="a105" src="s04_t01__a.mp3" lang="" name="s04_t01__a"/>
+      <res id="a106" src="s04_t01__b.mp3" lang="" name="s04_t01__b"/>
+      <res id="a107" src="s04_t01__c.mp3" lang="" name="s04_t01__c"/>
+      <res id="a108" src="s04_t01__d.mp3" lang="" name="s04_t01__d"/>
+      <res id="a109" src="s04_t01__e.mp3" lang="" name="s04_t01__e"/>
+      <res id="a110" src="s04_t01__f.mp3" lang="" name="s04_t01__f"/>
+      <res id="a111" src="s04_t01__g.mp3" lang="" name="s04_t01__g"/>
+      <res id="a112" src="s04_t01__h.mp3" lang="" name="s04_t01__h"/>
+      <res id="a113" src="s04_t01__i.mp3" lang="" name="s04_t01__i"/>
+      <res id="a114" src="s05_a.mp3" lang="" name="s05_a"/>
+      <res id="a115" src="s05_b.mp3" lang="" name="s05_b"/>
+      <res id="a116" src="s05_c.mp3" lang="" name="s05_c"/>
+      <res id="a117" src="s05_d.mp3" lang="" name="s05_d"/>
+      <res id="a119" src="s05_f.mp3" lang="" name="s05_f"/>
+      <res id="a120" src="s05_f_a.mp3" lang="" name="s05_f_a"/>
+      <res id="a121" src="s05_f_b.mp3" lang="" name="s05_f_b"/>
+      <res id="a122" src="s05_f_c.mp3" lang="" name="s05_f_c"/>
+      <res id="a123" src="s05_f_d.mp3" lang="" name="s05_f_d"/>
+      <res id="a124" src="s05_f_e.mp3" lang="" name="s05_f_e"/>
+      <res id="a125" src="s05_f_f.mp3" lang="" name="s05_f_f"/>
+      <res id="a126" src="s05_h1_a.mp3" lang="" name="s05_h1_a"/>
+      <res id="a127" src="s05_h2_a.mp3" lang="" name="s05_h2_a"/>
+      <res id="a128" src="s05_h2_b.mp3" lang="" name="s05_h2_b"/>
+      <res id="a129" src="s06_a.mp3" lang="" name="s06_a"/>
+    </audio>
+    <video>
+      <res id="v1" src="robo_build_animation_02.mp4" lang="" name="robo_build_animation_02"/>
+      <res id="v2" src="robo_build_animation_03.mp4" lang="" name="robo_build_animation_03"/>
+      <res id="v3" src="robo_build_animation_04.mp4" lang="" name="robo_build_animation_04"/>
+    </video>
+    <fonts>
+      <res id="fontawesome" src="fontawesome.otf" lang=""/>
+      <res id="opensans_bold_0" src="opensans_bold_0.ttf" lang=""/>
+      <res id="opensans_bolditalic_0" src="opensans_bolditalic_0.ttf" lang=""/>
+      <res id="opensans_condensedlight" src="opensans_condensedlight.ttf" lang=""/>
+      <res id="opensans_extrabold_0" src="opensans_extrabold_0.ttf" lang=""/>
+      <res id="opensans_extrabolditalic_0" src="opensans_extrabolditalic_0.ttf" lang=""/>
+      <res id="opensans_italic_0" src="opensans_italic_0.ttf" lang=""/>
+      <res id="opensans_light_0" src="opensans_light_0.ttf" lang=""/>
+      <res id="opensans_lightitalic_0" src="opensans_lightitalic_0.ttf" lang=""/>
+      <res id="opensans_regular_0" src="opensans_regular_0.ttf" lang=""/>
+      <res id="opensans_semibold_0" src="opensans_semibold_0.ttf" lang=""/>
+      <res id="opensans_semibolditalic_0" src="opensans_semibolditalic_0.ttf" lang=""/>
+      <res id="__frutiger_2" src="__frutiger_2.ttf" lang=""/>
+      <res id="__frutiger_bold" src="__frutiger_bold.ttf" lang=""/>
+      <res id="frutiger_2" src="frutiger_2.ttf" lang=""/>
+      <res id="frutiger_bold" src="frutiger_bold.ttf" lang=""/>
+      <res id="digiface" src="digiface.ttf" lang=""/>
+      <res id="frutiger_1" src="frutiger_1.ttf" lang=""/>
+    </fonts>
+  </resources>
+  <clone>
+    <roles/>
+    <module id="" lock_on="" hidden="" type="CONTENT">
+      <page id="p01" nxt="" bck="" trk="0" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="0" tfrm="l_pages" bfrm="l_pages"/>
+    </module>
+    <module id="" lock_on="" hidden="" type="ASSESSMENT">
+      <settings fdbck="1" buttons="0,0,1" tries="1" random="1" option_random="1" score="80" certificate="1" asmnttries="3" showans="0">
+        <node ids="p01,p02" pick="2"/>
+      </settings>
+      <page id="p_intro" nxt="" bck="" trk="1" indx="1" images="" audio="" video="" navigbar="0" bgimg="" scrollbar="1" tfrm="l_pages" bfrm="l_pages"/>
+      <page id="p_scorepass" nxt="" bck="" trk="1" indx="1" images="certificate" audio="" video="" navigbar="0" bgimg="" scrollbar="1" tfrm="l_pages" bfrm="l_pages"/>
+      <page id="p_scorefail" nxt="" bck="" trk="1" indx="1" images="" audio="" video="" navigbar="0" bgimg="" scrollbar="1" tfrm="l_pages" bfrm="l_pages"/>
+      <page id="p01" nxt="" bck="" trk="0" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="1" tfrm="l_pages" bfrm="l_pages"/>
+      <page id="p02" nxt="" bck="" trk="0" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="1" tfrm="l_pages" bfrm="l_pages"/>
+    </module>
+    <page id="" nxt="" bck="" trk="0" indx="1" images="" audio="" video="" navigbar="1" bgimg="" scrollbar="1" tfrm="l_pages" bfrm="l_pages"/>
+    <res id="" src="" lang=""/>
+    <docs/>
+    <fonts/>
+    <fbx/>
+    <node/>
+  </clone>
+</root>

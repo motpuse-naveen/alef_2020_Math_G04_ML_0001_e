@@ -1,0 +1,1626 @@
+﻿<?xml version="1.0"?>
+<root>
+  <elements>
+    <object id="B1" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_a_submit_btn_D" n_styl="btn_a_submit_btn_A" t_styl="btn_a_submit_btn_T" s_styl="btn_a_submit_btn_S" v_styl="" r_styl="btn_a_submit_btn_R" x_styl="btn_a_submit_btn_X" alt="Submit" aV="1">
+      <i_content>
+        <node><![CDATA[Submit]]></node>
+      </i_content>
+    </object>
+    <object id="i4" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i91" style="-webkit-user-drag: none; width: 77px; height: 77px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/i91?rnd=1600788393296" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L10" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Do it!]]></node>
+      </i_content>
+    </object>
+    <object id="B6" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_a_navigation_btn_D" n_styl="btn_a_navigation_btn_A" t_styl="btn_a_navigation_btn_T" s_styl="btn_a_navigation_btn_S" v_styl="" r_styl="btn_a_navigation_btn_R" x_styl="btn_a_navigation_btn_X" b_typ="1" h="68" w="205" n_istyl="i235" r_istyl="i236" aV="1" alt="next ">
+      <i_content>
+        <node><![CDATA[Next&nbsp;]]></node>
+      </i_content>
+    </object>
+    <object id="i13" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i1" style="-webkit-user-drag: none; width: 565px; height: 103px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/feedback_patch.png?rnd=1627033156979" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="H1" template="SHAPE" hTab="0"/>
+    <object id="L8" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[There is no whole number.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="L3" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Write the fraction thirty-two over hundred as a decimal number. Choose the correct option.<br>You did it! Let’s look. Try again, use the hint. Try again, use the hint.<br>That’s not right. Let’s look. Use the place value chart. There is no whole number. Put zero in the ones place.<br>Use the place value chart.<br>In thirty-two over hundred, there is no whole number. So, there are zero ones, three tenths, and two hundredths. <br>Zero in the ones place. Three in the tenths place. Two in the hundredths place.<br>Thirty-two over hundred is equal to thirty-two hundredths.]]></node>
+      </i_content>
+    </object>
+    <object id="i3" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i23" style="-webkit-user-drag: none; width: 1920px; height: 1080px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/screen_04_01_bg_8.png?rnd=1626260428977" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L21" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold;">Feedback</span>]]></node>
+      </i_content>
+    </object>
+    <object id="A17" template="AUDIO" src="a114" hTab="0" tts=""/>
+    <object id="H2" template="SHAPE" hTab="0"/>
+    <object id="B3" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_a_feedback_close_btn_D" n_styl="btn_a_feedback_close_btn_A" t_styl="btn_a_feedback_close_btn_T" s_styl="btn_a_feedback_close_btn_S" v_styl="" r_styl="btn_a_feedback_close_btn_R" x_styl="btn_a_feedback_close_btn_X" b_typ="1" h="68" w="185" n_istyl="i361" r_istyl="i453" hTab="1" alt="Close" aV="1">
+      <i_content>
+        <node><![CDATA[Close]]></node>
+      </i_content>
+    </object>
+    <object id="i2" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i250" style="-webkit-user-drag: none; width: 77px; height: 77px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/i250?rnd=1601995393050" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L5" template="CONTENT">
+      <i_content>
+        <node><![CDATA[Move to the next screen when you are ready.]]></node>
+      </i_content>
+    </object>
+    <object id="B8" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_a_next_ready_close_btn_D" n_styl="btn_a_next_ready_close_btn_A" t_styl="btn_a_next_ready_close_btn_T" s_styl="btn_a_next_ready_close_btn_S" v_styl="" b_typ="1" r_styl="btn_a_next_ready_close_btn_R" x_styl="btn_a_next_ready_close_btn_X" h="22" w="23" n_istyl="i248" r_istyl="i249" aV="1" alt="Close Tooltip">
+      <i_content>
+        <node><![CDATA[<br>]]></node>
+      </i_content>
+    </object>
+    <object id="H7" template="SHAPE" hTab="0"/>
+    <object id="H9" template="SHAPE" hTab="0"/>
+    <object id="B5" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_a_feedback_close_btn_D" n_styl="btn_a_feedback_close_btn_A" t_styl="btn_a_feedback_close_btn_T" s_styl="btn_a_feedback_close_btn_S" v_styl="" r_styl="btn_a_feedback_close_btn_R" x_styl="btn_a_feedback_close_btn_X" b_typ="1" h="68" w="185" n_istyl="i361" r_istyl="i453" alt="Close">
+      <i_content>
+        <node><![CDATA[Close]]></node>
+      </i_content>
+    </object>
+    <object id="Q1" _ver="2" template="QUIZ" type="Radio" random="0" cor="0,0,1,0" buttons="0,0,B1" tries="3" quest="1" showbg="1" scored="0" fdbck="2" showans="1" onlms="0" sradio="1" en_reset="0" reveal="0" qlt="1" qow="340" qoh="" t_clip="6,1" en_submit="1" en_weight="0" fbclip="C1" l_indi="0" opL="1" qra="1" pub="1">
+      <i_question>
+        <node><![CDATA[]]></node>
+      </i_question>
+      <i_instruction>
+        <node><![CDATA[]]></node>
+      </i_instruction>
+      <i_corfdbck>
+        <node><![CDATA[Correct!]]></node>
+      </i_corfdbck>
+      <i_incorfdbck>
+        <node><![CDATA[That's not correct.]]></node>
+      </i_incorfdbck>
+      <i_partialfdbck>
+        <node><![CDATA[That's partially correct.]]></node>
+      </i_partialfdbck>
+      <i_triesfdbck>
+        <node><![CDATA[You have exhausted all tries.]]></node>
+      </i_triesfdbck>
+      <i_showfdbck>
+        <node><![CDATA[The correct answer is highlighted above.]]></node>
+      </i_showfdbck>
+      <i_option>
+        <node alt="Option 1 is 32.0"><![CDATA[<span style="font-size:40px;">32.0</span><br>]]></node>
+        <node alt="Option 2 is 3.2"><![CDATA[<span style=" font-size:40px;">3.2</span><br>]]></node>
+        <node alt="Option 3 is 0.32"><![CDATA[<span style="font-size:40px;">0.32</span><br>]]></node>
+        <node alt="Option 4 is 0.0.32"><![CDATA[<span style="font-size:40px;">0.032</span><br>]]></node>
+      </i_option>
+    </object>
+    <object id="L6" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-size:40px;">Choose the correct option.</span><br>]]></node>
+      </i_content>
+    </object>
+    <object id="A3" template="AUDIO" src="a115" hTab="0" tts=""/>
+    <object id="L28" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Put 0 in the ones place.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="L29" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Hint<br>]]></node>
+      </i_content>
+    </object>
+    <object id="i12" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i2" style="-webkit-user-drag: none; width: 566px; height: 103px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/hint_patch.png?rnd=1627033156979" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="H6" template="SHAPE" hTab="0"/>
+    <object id="A4" template="AUDIO" src="a127" hTab="0" tts=""/>
+    <object id="A2" template="AUDIO" src="a120" hTab="0" tts=""/>
+    <object id="H15" template="SHAPE" hTab="0"/>
+    <object id="L4" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Write the fraction&nbsp; &nbsp; &nbsp;as a decimal number.]]></node>
+      </i_content>
+    </object>
+    <object id="L24" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;">32</div>]]></node>
+      </i_content>
+    </object>
+    <object id="i11" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i218" style="-webkit-user-drag: none; width: 77px; height: 77px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/black_line_sc02.png?rnd=1624875751900" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L26" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;">100<br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="B9" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_Hint_Button_D" n_styl="btn_Hint_Button_A" t_styl="btn_Hint_Button_T" s_styl="btn_Hint_Button_S" v_styl="" r_styl="btn_Hint_Button_R" x_styl="btn_Hint_Button_X" b_typ="1" h="89" w="219" n_istyl="i113" r_istyl="i31" alt="Hint">
+      <i_content>
+        <node><![CDATA[Hint]]></node>
+      </i_content>
+    </object>
+    <object id="A11" template="AUDIO" src="a116" hTab="0" tts=""/>
+    <object id="A7" template="AUDIO" src="a117" hTab="0" tts=""/>
+    <object id="A1" template="AUDIO" src="a119" hTab="0" tts=""/>
+    <object id="i10" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i70" style="-webkit-user-drag: none; width: 1590px; height: 348px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/screen_05_pvcbox_01.png?rnd=1626365253964" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L22" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:35px;">Hundreds</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L1" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;"><span style="font-family: frutiger_bold; font-size:40px;">100</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L2" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;"><span style="font-family: frutiger_bold; font-size:40px;">10</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L7" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="font-family: frutiger_bold; font-size:40px;">1</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L25" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 1  }{ 10  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_bold;"><span class="mord mathrm">1</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped"><span class="mord mathrm" style="font-family: frutiger_bold;">1</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L27" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 1  }{ 10  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_bold;"><span class="mord mathrm">10</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped"><span class="mord mathrm" style="font-family: frutiger_bold;">1</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L30" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 1  }{ 10  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_bold;"><span class="mord mathrm">1,00</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped"><span class="mord mathrm" style="font-family: frutiger_bold;">1</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L32" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Tens</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L31" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Ones</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L33" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Place Value Chart</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L59" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Tenths</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L60" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Hundredths</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L61" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Thousandths</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L62" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:80px;">.</span>]]></node>
+      </i_content>
+    </object>
+    <object id="H3" template="SHAPE" hTab="0"/>
+    <object id="H5" template="SHAPE" hTab="0"/>
+    <object id="i41" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i2" style="-webkit-user-drag: none; width: 566px; height: 103px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/hint_patch.png?rnd=1627033156979" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L63" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Hint<br>]]></node>
+      </i_content>
+    </object>
+    <object id="B4" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_a_feedback_close_btn_D" n_styl="btn_a_feedback_close_btn_A" t_styl="btn_a_feedback_close_btn_T" s_styl="btn_a_feedback_close_btn_S" v_styl="" r_styl="btn_a_feedback_close_btn_R" x_styl="btn_a_feedback_close_btn_X" b_typ="1" h="68" w="185" n_istyl="i361" r_istyl="i453" alt="Close">
+      <i_content>
+        <node><![CDATA[Close]]></node>
+      </i_content>
+    </object>
+    <object id="L64" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Use the place value chart.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="i42" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i20" style="-webkit-user-drag: none; width: 77px; height: 77px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/curly_bracket_large.png?rnd=1624896009070" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i43" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i26" style="-webkit-user-drag: none; width: 494px; height: 66px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/up_arrow.png?rnd=1624896078250" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L65" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;"><b style="color: rgb(4, 85, 164); font-size:30px;">Decimal Part</b><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L66" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;"><b style="color: rgb(4, 85, 164); font-size:30px;">Decimal Point</b><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L67" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;"><span style="color: rgb(4, 85, 164); font-weight: bold; font-size:30px;">Whole Part</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="i45" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i24" style="-webkit-user-drag: none; width: 708px; height: 93px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/lable.png?rnd=1624896009071" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i46" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i24" style="-webkit-user-drag: none; width: 708px; height: 93px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/lable.png?rnd=1624896009071" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i47" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i24" style="-webkit-user-drag: none; width: 708px; height: 93px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/lable.png?rnd=1624896009071" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i48" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i20" style="-webkit-user-drag: none; width: 77px; height: 77px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/curly_bracket_large.png?rnd=1624896009070" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L68" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:80px;">.</span>]]></node>
+      </i_content>
+    </object>
+    <object id="A5" template="AUDIO" src="a126" hTab="0" tts=""/>
+    <object id="L15" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Use the place value chart.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="L16" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Place Value Chart</span>]]></node>
+      </i_content>
+    </object>
+    <object id="i7" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i71" style="-webkit-user-drag: none; width: 1590px; height: 298px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/screen_05_pvcbox_02.png?rnd=1626365253965" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L17" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:35px;">Hundreds</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L18" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;"><span style="font-family: frutiger_bold; font-size:40px;">100</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L19" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="font-family: frutiger_bold; font-size:40px;">1</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L20" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;"><span style="font-family: frutiger_bold; font-size:40px;">10</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L36" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 1  }{ 10  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_bold;"><span class="mord mathrm">1</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped"><span class="mord mathrm" style="font-family: frutiger_bold;">1</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L37" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 1  }{ 10  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_bold;"><span class="mord mathrm">10</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped"><span class="mord mathrm" style="font-family: frutiger_bold;">1</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L38" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 1  }{ 10  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_bold;"><span class="mord mathrm">1,00</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped"><span class="mord mathrm" style="font-family: frutiger_bold;">1</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L69" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Tens</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L70" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Ones</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L71" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Tenths</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L72" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Hundredths</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L73" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Thousandths</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L77" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:80px;">.</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L78" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:80px;">.</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L9" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="font-family: frutiger_bold; font-size:40px;">0</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L12" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:80px;">.</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L13" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="font-family: frutiger_bold; font-size:40px;">3</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L14" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="font-family: frutiger_bold; font-size:40px;">2</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L23" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>3</mn><mn>2</mn></mrow><mrow><mn>1</mn><mn>0</mn><mn>0</mn></mrow></mfrac><mo>=</mo><mn>0</mn><mi mathvariant="normal">.</mi><mn>3</mn><mn>2</mn></mrow><annotation encoding="application/x-tex">\dfrac{32}{100} = 0.32</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_1;"><span class="mord mathrm">1</span><span class="mord mathrm">0</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5" style="font-family: frutiger_bold;"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped" style=""><span class="mord textstyle uncramped" style="font-family: frutiger_1;"><span class="mord mathrm" style="">3</span><span class="mord mathrm" style="">2</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span></span><span class="mrel" style=" font-family: frutiger_bold;">=<span style="font-size:20px;">&nbsp;</span></span><span style="font-family: frutiger_bold;"><span class="mord mathrm">0</span><span class="mord mathrm">.</span><span class="mord mathrm">32</span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L74" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[In<span style="font-size:20px;">&nbsp;</span><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>3</mn><mn>2</mn></mrow><mrow><mn>1</mn><mn>0</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 32  }{ 100  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_1;"><span class="mord mathrm">1</span><span class="mord mathrm">0</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped" style="font-family: frutiger_1;"><span class="mord mathrm">3</span><span class="mord mathrm">2</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><span style="font-size:15px;">&nbsp;</span>, there is no whole number. So, there are 0 ones, 3 tenths, and 2 hundredths.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="A6" template="AUDIO" src="a121" hTab="0" tts=""/>
+    <object id="A8" template="AUDIO" src="a122" hTab="0" tts=""/>
+    <object id="A9" template="AUDIO" src="a125" hTab="0" tts=""/>
+    <object id="H8" template="SHAPE" hTab="0"/>
+    <object id="H10" template="SHAPE" hTab="0"/>
+    <object id="H11" template="SHAPE" hTab="0"/>
+    <object id="A15" template="AUDIO" src="a128" hTab="0" tts=""/>
+    <object id="A16" template="AUDIO" src="a123" hTab="0" tts=""/>
+    <object id="A18" template="AUDIO" src="a124" hTab="0" tts=""/>
+    <object id="A19" template="AUDIO" src="a120" hTab="0" tts=""/>
+    <object id="H12" template="SHAPE" hTab="0"/>
+    <object id="i6" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i1" style="-webkit-user-drag: none; width: 565px; height: 103px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/feedback_patch.png?rnd=1627033156979" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L75" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold;">Feedback</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L76" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[Use the place value chart.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="A20" template="AUDIO" src="a121" hTab="0" tts=""/>
+    <object id="L79" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[In<span style="font-size:20px;">&nbsp;</span><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>3</mn><mn>2</mn></mrow><mrow><mn>1</mn><mn>0</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 32  }{ 100  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_1;"><span class="mord mathrm">1</span><span class="mord mathrm">0</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped" style="font-family: frutiger_1;"><span class="mord mathrm">3</span><span class="mord mathrm">2</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><span style="font-size:15px;">&nbsp;</span>, there is no whole number. So, there are 0 ones, 3 tenths, and 2 hundredths.<br>]]></node>
+      </i_content>
+    </object>
+    <object id="i8" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i71" style="-webkit-user-drag: none; width: 1590px; height: 298px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/screen_05_pvcbox_02.png?rnd=1626365253965" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L80" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Place Value Chart</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L81" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:35px;">Hundreds</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L82" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;"><span style="font-family: frutiger_bold; font-size:40px;">100</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L83" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="font-family: frutiger_bold; font-size:40px;">1</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L84" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center;"><span style="font-family: frutiger_bold; font-size:40px;">10</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L85" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 1  }{ 10  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_bold;"><span class="mord mathrm">1</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped"><span class="mord mathrm" style="font-family: frutiger_bold;">1</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L86" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 1  }{ 10  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_bold;"><span class="mord mathrm">10</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped"><span class="mord mathrm" style="font-family: frutiger_bold;">1</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L87" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>1</mn></mrow><mrow><mn>1</mn><mn>0</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\dfrac{ 1  }{ 10  }</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_bold;"><span class="mord mathrm">1,00</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped"><span class="mord textstyle uncramped"><span class="mord mathrm" style="font-family: frutiger_bold;">1</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L88" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Tens</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L89" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Ones</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L90" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Tenths</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L91" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Hundredths</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L92" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size: 35px; ">Thousandths</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L93" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:80px;">.</span>]]></node>
+      </i_content>
+    </object>
+    <object id="L94" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:80px;">.</span>]]></node>
+      </i_content>
+    </object>
+    <object id="B7" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_a_feedback_close_btn_D" n_styl="btn_a_feedback_close_btn_A" t_styl="btn_a_feedback_close_btn_T" s_styl="btn_a_feedback_close_btn_S" v_styl="" r_styl="btn_a_feedback_close_btn_R" x_styl="btn_a_feedback_close_btn_X" b_typ="1" h="68" w="185" n_istyl="i361" r_istyl="i453" hTab="1" alt="Close" aV="1">
+      <i_content>
+        <node><![CDATA[Close]]></node>
+      </i_content>
+    </object>
+    <object id="L95" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-size:80px;">.</span>]]></node>
+      </i_content>
+    </object>
+    <object id="A21" template="AUDIO" src="a122" hTab="0" tts=""/>
+    <object id="A22" template="AUDIO" src="a123" hTab="0" tts=""/>
+    <object id="A23" template="AUDIO" src="a124" hTab="0" tts=""/>
+    <object id="L96" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="font-family: frutiger_bold; font-size:40px;">0</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L97" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="font-family: frutiger_bold; font-size:40px;">3</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="L98" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="font-family: frutiger_bold; font-size:40px;">2</span></div>]]></node>
+      </i_content>
+    </object>
+    <object id="A24" template="AUDIO" src="a125" hTab="0" tts=""/>
+    <object id="L99" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span class="katex"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mfrac><mrow><mn>3</mn><mn>2</mn></mrow><mrow><mn>1</mn><mn>0</mn><mn>0</mn></mrow></mfrac><mo>=</mo><mn>0</mn><mi mathvariant="normal">.</mi><mn>3</mn><mn>2</mn></mrow><annotation encoding="application/x-tex">\dfrac{32}{100} = 0.32</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:1.32144em;"></span><span class="strut bottom" style="height:2.00744em;vertical-align:-0.686em;"></span><span class="base textstyle uncramped"><span class="mord reset-textstyle displaystyle textstyle uncramped"><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span><span class="mfrac"><span class="vlist"><span style="top:0.686em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle cramped"><span class="mord textstyle cramped" style="font-family: frutiger_1;"><span class="mord mathrm">1</span><span class="mord mathrm">0</span><span class="mord mathrm">0</span></span></span></span><span style="top:-0.22999999999999998em;"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped frac-line"></span></span><span style="top:-0.677em;"><span class="fontsize-ensurer reset-size5 size5" style="font-family: frutiger_bold;"><span style="font-size:0em;">​</span></span><span class="reset-textstyle textstyle uncramped" style=""><span class="mord textstyle uncramped" style="font-family: frutiger_1;"><span class="mord mathrm" style="">3</span><span class="mord mathrm" style="">2</span></span></span></span><span class="baseline-fix"><span class="fontsize-ensurer reset-size5 size5"><span style="font-size:0em;">​</span></span>​</span></span></span><span class="sizing reset-size5 size5 reset-textstyle textstyle uncramped nulldelimiter"></span></span><span class="mrel" style=" font-family: frutiger_bold;">=<span style="font-size:20px;">&nbsp;</span></span><span style="font-family: frutiger_bold;"><span class="mord mathrm">0</span><span class="mord mathrm">.</span><span class="mord mathrm">32</span></span></span></span></span></span><br></div>]]></node>
+      </i_content>
+    </object>
+  </elements>
+  <timeline fps="15">
+    <label>
+      <frm num="147" name="nxt"/>
+      <frm num="109" name="correct_feedback"/>
+      <frm num="97" name="l_question"/>
+      <frm num="156" name="tooltip"/>
+      <frm num="125" name="incorrect_feedback"/>
+    </label>
+    <layer id="L0" type="ACTIONS">
+      <span ac="CUSTOM:a_disablePlayBtn:;" xreg="left" yreg="top">
+        <frm num="95"/>
+        <frm num="95"/>
+      </span>
+      <span ac="stop;" xreg="left" yreg="top">
+        <frm num="107"/>
+        <frm num="107"/>
+      </span>
+      <span ac="stop;" xreg="left" yreg="top">
+        <frm num="124"/>
+        <frm num="124"/>
+      </span>
+      <span ac="stop;" xreg="left" yreg="top">
+        <frm num="144"/>
+        <frm num="144"/>
+      </span>
+      <span ac="stop;" xreg="left" yreg="top">
+        <frm num="154"/>
+        <frm num="154"/>
+      </span>
+      <span ac="Stop;" xreg="left" yreg="top">
+        <frm num="164"/>
+        <frm num="164"/>
+      </span>
+    </layer>
+    <layer id="L3" type="CONTENT" lb="Transcript" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+        <frm num="1" x="-487" y="-34" o="1" rX="0" rY="0" sX="1" sY="1" w="437" h="1482"/>
+        <frm num="164" x="-487" y="-34" o="1" rX="0" rY="0" sX="1" sY="1" w="437" h="1482"/>
+      </span>
+    </layer>
+    <layer id="i3" type="IMAGE" lb="BG" lock="0" hide="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1920" h="1080" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="164" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i4" type="IMAGE" hide="0" lock="0" lb="doItImg">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="196" h="74" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="860" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="164" x="860" y="20" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L10" type="CONTENT" hide="0" lock="0" lb="Doit">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="int_whiteColor" imgs="50" w="150" fl="0" yreg="top" hFcs="0" frmt=";f:frutiger_bold;s:34">
+        <frm num="1" x="866" y="37" o="1" rX="0" rY="0" sX="1" sY="1" w="245" h=""/>
+        <frm num="164" x="866" y="37" o="1" rX="0" rY="0" sX="1" sY="1" w="245" h=""/>
+      </span>
+    </layer>
+    <layer id="C3" type="CLIP" clipid="C3" lb="OST1" lock="0" hide="0">
+      <span an="0" ease="0" hd="0" xreg="left" w="150" h="150" fl="0" yreg="top">
+        <frm num="10" x="-2" y="164" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="164" x="-2" y="164" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="A17" type="AUDIO" lock="0" lb="Audio1">
+      <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="6.07" sATL="0">
+        <frm num="9" x="24" y="132"/>
+        <frm num="53" x="24" y="132"/>
+      </span>
+    </layer>
+    <layer id="A3" type="AUDIO">
+      <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="2.93" sATL="0">
+        <frm num="61" x="50" y="140"/>
+        <frm num="87" x="50" y="140"/>
+      </span>
+    </layer>
+    <layer id="L6" type="CONTENT" lb="You can use the place value chart for help.">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:36;a:center">
+        <frm num="63" x="548" y="469" o="1" rX="0" rY="0" sX="1" sY="1" w="824" h=""/>
+        <frm num="72" x="548" y="469" o="1" rX="0" rY="0" sX="1" sY="1" w="824" h=""/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:36;a:center">
+        <frm num="73" x="548" y="469" o="1" rX="0" rY="0" sX="1" sY="1" w="824" h=""/>
+        <frm num="164" x="548" y="469" o="1" rX="0" rY="0" sX="1" sY="1" w="824" h=""/>
+      </span>
+    </layer>
+    <layer id="Q1" type="QUIZ" hide="0" lock="0" pub="1">
+      <span an="fade-in" ease="0" hd="0" xreg="left" w="1430" h="" imgs="50" fl="0" yreg="top" aO="0% 0%" hFcs="0" frmt=";s:34">
+        <frm num="63" x="245" y="540" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="72" x="245" y="540" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="0" ease="0" hd="0" xreg="left" w="1430" h="" imgs="50" fl="0" yreg="top" aO="0% 0%" hFcs="0" frmt=";s:34">
+        <frm num="73" x="245" y="540" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="164" x="245" y="540" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="H7" type="SHAPE" lock="0">
+      <span an="0" ease="0" ac="" hd="0" xreg="left" w="1672" h="250" class="" fl="0" shp="0" rds="22" yreg="top" mBlk="1">
+        <frm num="63" x="132" y="448" o="0" rX="0" rY="0" sX="1" sY="1" bgC="rgba(64, 64, 64, 1)"/>
+        <frm num="90" x="132" y="448" o="0" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="B1" type="BUTTON" hide="0" lock="0" lb="submitBtn">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="200" h="66" class="" imgs="50" fl="0" yreg="top" frmt="" i_state="0">
+        <frm num="80" x="1686" y="996" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="144" x="1686" y="996" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="C1" type="CLIP" clipid="C1" lock="0" hide="1" lb="feedbackmc">
+      <span an="0" ease="0" hd="0" xreg="left" w="1920" fl="0" h="1080" yreg="top" bgI="" bgA="" bgR="" bgC="" class="">
+        <frm num="92" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        <frm num="144" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+      </span>
+    </layer>
+    <layer id="C2" type="CLIP" clipid="C2" lb="hintmc" hide="1" lock="0">
+      <span an="0" ease="0" hd="0" xreg="left" w="1801" h="497" fl="0" yreg="top" class="">
+        <frm num="92" x="59" y="475" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="144" x="59" y="475" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i2" type="IMAGE" lb="Popup Overlay">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="356" h="125" imgs="50" fl="0" yreg="top" aO="353% 25%">
+        <frm num="149" x="1516" y="867" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="154" x="1516" y="867" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L5" type="CONTENT">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";f:opensans_regular_0;s:25;c:rgb(255, 255, 255)">
+        <frm num="149" x="1540" y="883" o="1" rX="0" rY="0" sX="1" sY="1" w="314" h="59"/>
+        <frm num="154" x="1540" y="883" o="1" rX="0" rY="0" sX="1" sY="1" w="314" h="59"/>
+      </span>
+    </layer>
+    <layer id="B8" type="BUTTON" lb="Close Button">
+      <span an="0" ease="0" ac="root.GoToLabel:tooltip:0;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="23" h="" class="" imgs="50" fl="0" yreg="top">
+        <frm num="149" x="1838" y="870" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="154" x="1838" y="870" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="B6" type="BUTTON" hide="0" lock="0" lb="Next Button">
+      <span an="0" ease="0" ac="BehaveAsNext;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="203" h="66" class="" imgs="50" fl="0" yreg="top" aO="446% 257%" bnd="0">
+        <frm num="145" x="1687" y="996" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="164" x="1687" y="996" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="H1" type="SHAPE" lock="0" hide="0" lb="Overlay_Correct_feedback">
+      <span an="fade-in" ease="0" ac="" hd="0" xreg="left" w="1920" h="1080" class="int_overlay_bg" fl="0" shp="0" rds="22" yreg="top" bgI="" bgA="" bgR="" bgC="" mBlk="1">
+        <frm num="109" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        <frm num="119" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+      </span>
+      <span an="0" ease="0" ac="" hd="0" xreg="left" w="1920" h="1080" class="int_overlay_bg" fl="0" shp="0" rds="22" yreg="top" bgI="" bgA="" bgR="" bgC="" mBlk="1">
+        <frm num="120" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        <frm num="124" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+      </span>
+    </layer>
+    <layer id="C4" type="CLIP" clipid="C4" lock="0" hide="0" lb="Correct_feedback">
+      <span an="0" ease="0" hd="0" xreg="left" w="1920" fl="0" h="1080" yreg="top" bgI="" bgA="" bgR="" bgC="" class="">
+        <frm num="109" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        <frm num="124" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+      </span>
+    </layer>
+    <layer id="H15" type="SHAPE" lock="0" hide="0" lb="Overlay_Incorrect_feedback">
+      <span an="fade-in" ease="0" ac="" hd="0" xreg="left" w="1920" h="1080" class="int_overlay_bg" fl="0" shp="0" rds="22" yreg="top" bgI="" bgA="" bgR="" bgC="" mBlk="1">
+        <frm num="125" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        <frm num="135" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+      </span>
+      <span an="0" ease="0" ac="" hd="0" xreg="left" w="1920" h="1080" class="int_overlay_bg" fl="0" shp="0" rds="22" yreg="top" bgI="" bgA="" bgR="" bgC="" mBlk="1">
+        <frm num="136" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        <frm num="144" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+      </span>
+    </layer>
+    <layer id="C6" type="CLIP" clipid="C6" lock="0" hide="0" lb="Incorrect_feedback">
+      <span an="0" ease="0" hd="0" xreg="left" w="1920" fl="0" h="1080" yreg="top" bgI="" bgA="" bgR="" bgC="" class="">
+        <frm num="125" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        <frm num="144" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+      </span>
+    </layer>
+  </timeline>
+  <clips>
+    <clip id="C2">
+      <label>
+        <frm num="11" name="h1"/>
+        <frm num="52" name="h2"/>
+        <frm num="1" name="nohint"/>
+      </label>
+      <layer id="L0" type="ACTIONS">
+        <span ac="stop;" xreg="left" yreg="top">
+          <frm num="7"/>
+          <frm num="7"/>
+        </span>
+        <span ac="CUSTOM:bottomBarState:0;SetModalWindow:C2:1;" xreg="left" yreg="top">
+          <frm num="11"/>
+          <frm num="11"/>
+        </span>
+        <span ac="Stop;" xreg="left" yreg="top">
+          <frm num="50"/>
+          <frm num="50"/>
+        </span>
+        <span ac="CUSTOM:bottomBarState:0;SetModalWindow:C2:1;" xreg="left" yreg="top">
+          <frm num="52"/>
+          <frm num="52"/>
+        </span>
+        <span ac="stop;" xreg="left" yreg="top">
+          <frm num="91"/>
+          <frm num="91"/>
+        </span>
+      </layer>
+      <layer id="A5" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="">
+          <frm num="11" x="62" y="-328"/>
+          <frm num="47" x="62" y="-328"/>
+        </span>
+      </layer>
+      <layer id="H3" type="SHAPE" lock="0">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="1920" h="1080" class="int_overlay_bg" fl="0" shp="0" rds="22" yreg="top" mBlk="1" bgI="" bgA="" bgR="" bgC="">
+          <frm num="11" x="-58" y="-474" o="1" rX="0" rY="0" sX="1" sY="1" bgC="" bgT="0,0"/>
+          <frm num="50" x="-58" y="-474" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        </span>
+      </layer>
+      <layer id="H5" type="SHAPE" hide="0">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="1746" h="834" class="int_hint_base" fl="0" shp="1" rds="12" yreg="top" brds="4" brdC="#C86E03">
+          <frm num="11" x="28" y="-361" o="1" rX="0" rY="0" sX="1" sY="1" bgC="rgba(223, 248, 241, 1)" bgT="0,0"/>
+          <frm num="50" x="28" y="-361" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="i41" type="IMAGE">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="380" h="101" imgs="50" fl="0" yreg="top">
+          <frm num="11" x="710" y="-364" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="50" x="710" y="-364" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L63" type="CONTENT" lock="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;f:frutiger_bold;c:rgb(255, 255, 255)">
+          <frm num="11" x="756" y="-343" o="1" rX="0" rY="0" sX="1" sY="1" w="291" h=""/>
+          <frm num="50" x="756" y="-343" o="1" rX="0" rY="0" sX="1" sY="1" w="291" h=""/>
+        </span>
+      </layer>
+      <layer id="i10" type="IMAGE" lb="Chart" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1590" h="298" imgs="50" fl="0" yreg="top">
+          <frm num="11" x="110" y="-177" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="50" x="110" y="-177" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L64" type="CONTENT" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="11" x="484" y="-243" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+          <frm num="50" x="484" y="-243" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+        </span>
+      </layer>
+      <layer id="L22" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="11" x="171" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="172" h=""/>
+          <frm num="50" x="171" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="172" h=""/>
+        </span>
+      </layer>
+      <layer id="L1" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="11" x="206" y="25" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="50" x="206" y="25" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L2" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="11" x="446" y="25" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="50" x="446" y="25" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L7" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="11" x="671" y="26" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="50" x="671" y="26" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L25" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="11" x="1049" y="1" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="50" x="1049" y="1" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L27" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="11" x="1274" y="1" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="50" x="1274" y="1" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L30" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="11" x="1507" y="1" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="50" x="1507" y="1" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L32" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="11" x="456" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="82" h=""/>
+          <frm num="50" x="456" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="82" h=""/>
+        </span>
+      </layer>
+      <layer id="L31" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="11" x="676" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="94" h=""/>
+          <frm num="50" x="676" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="94" h=""/>
+        </span>
+      </layer>
+      <layer id="L33" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 84, 166)">
+          <frm num="11" x="761" y="-155" o="1" rX="0" rY="0" sX="1" sY="1" w="288" h=""/>
+          <frm num="50" x="761" y="-155" o="1" rX="0" rY="0" sX="1" sY="1" w="288" h=""/>
+        </span>
+      </layer>
+      <layer id="L59" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="11" x="1041" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="118" h=""/>
+          <frm num="50" x="1041" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="118" h=""/>
+        </span>
+      </layer>
+      <layer id="L60" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="11" x="1219" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="198" h=""/>
+          <frm num="50" x="1219" y="-75" o="1" rX="0" rY="0" sX="1" sY="1" w="198" h=""/>
+        </span>
+      </layer>
+      <layer id="L61" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="11" x="1451" y="-73" o="1" rX="0" rY="0" sX="1" sY="1" w="214" h=""/>
+          <frm num="50" x="1451" y="-73" o="1" rX="0" rY="0" sX="1" sY="1" w="214" h=""/>
+        </span>
+      </layer>
+      <layer id="i42" type="IMAGE">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="708" h="93" imgs="50" fl="0" yreg="top">
+          <frm num="11" x="121" y="128" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="50" x="121" y="128" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="i48" type="IMAGE">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="708" h="93" imgs="50" fl="0" yreg="top">
+          <frm num="11" x="985" y="128" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="50" x="985" y="128" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="i43" type="IMAGE">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="56" h="135" imgs="50" fl="0" yreg="top">
+          <frm num="11" x="872" y="106" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="50" x="872" y="106" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="i45" type="IMAGE">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="237" h="69" imgs="50" fl="0" yreg="top">
+          <frm num="11" x="353" y="264" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="50" x="353" y="264" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="i46" type="IMAGE">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="237" h="69" imgs="50" fl="0" yreg="top">
+          <frm num="11" x="782" y="264" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="50" x="782" y="264" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="i47" type="IMAGE">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="237" h="69" imgs="50" fl="0" yreg="top">
+          <frm num="11" x="1215" y="264" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="50" x="1215" y="264" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L65" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+          <frm num="11" x="1218" y="274" o="1" rX="0" rY="0" sX="1" sY="1" w="232" h=""/>
+          <frm num="50" x="1218" y="274" o="1" rX="0" rY="0" sX="1" sY="1" w="232" h=""/>
+        </span>
+      </layer>
+      <layer id="L66" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+          <frm num="11" x="784" y="274" o="1" rX="0" rY="0" sX="1" sY="1" w="232" h=""/>
+          <frm num="50" x="784" y="274" o="1" rX="0" rY="0" sX="1" sY="1" w="232" h=""/>
+        </span>
+      </layer>
+      <layer id="L67" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+          <frm num="11" x="355" y="274" o="1" rX="0" rY="0" sX="1" sY="1" w="232" h=""/>
+          <frm num="50" x="355" y="274" o="1" rX="0" rY="0" sX="1" sY="1" w="232" h=""/>
+        </span>
+      </layer>
+      <layer id="L62" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;c:rgb(255, 255, 255);f:frutiger_bold;s:60">
+          <frm num="11" x="896" y="-115" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+          <frm num="50" x="896" y="-115" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+        </span>
+      </layer>
+      <layer id="L68" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;c:rgb(0, 0, 0);f:frutiger_bold;s:60">
+          <frm num="11" x="896" y="-20" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+          <frm num="50" x="896" y="-20" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+        </span>
+      </layer>
+      <layer id="B4" type="BUTTON">
+        <span an="0" ease="0" ac="SetModalWindow:C2:0;CUSTOM:bottomBarState:1;C2.GoToLabel:nohint:0;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="226" h="84" class="" imgs="50" fl="0" yreg="top" frmt=";s:35">
+          <frm num="11" x="783" y="372" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="50" x="783" y="372" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="A4" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="2.96" sATL="0">
+          <frm num="52" x="50" y="50"/>
+          <frm num="71" x="50" y="50"/>
+        </span>
+      </layer>
+      <layer id="A15" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="0" sATL="0">
+          <frm num="73" x="70" y="50"/>
+          <frm num="88" x="70" y="50"/>
+        </span>
+      </layer>
+      <layer id="H9" type="SHAPE" lock="0">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="1920" h="1080" class="int_overlay_bg" fl="0" shp="0" rds="22" yreg="top" mBlk="1" bgI="" bgA="" bgR="" bgC="">
+          <frm num="52" x="-60" y="-474" o="1" rX="0" rY="0" sX="1" sY="1" bgC="" bgT="0,0"/>
+          <frm num="91" x="-60" y="-474" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        </span>
+      </layer>
+      <layer id="H6" type="SHAPE" hide="0">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="636" h="450" class="int_hint_base" fl="0" shp="1" rds="12" yreg="top" brds="4" brdC="#C86E03">
+          <frm num="52" x="581" y="-161" o="1" rX="0" rY="0" sX="1" sY="1" bgC="rgba(223, 248, 241, 1)" bgT="0,0"/>
+          <frm num="91" x="581" y="-161" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L8" type="CONTENT" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="52" x="484" y="7" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+          <frm num="91" x="484" y="7" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+        </span>
+      </layer>
+      <layer id="L28" type="CONTENT" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="52" x="484" y="67" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+          <frm num="91" x="484" y="67" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+        </span>
+      </layer>
+      <layer id="i12" type="IMAGE">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="380" h="101" imgs="50" fl="0" yreg="top">
+          <frm num="52" x="710" y="-165" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="91" x="710" y="-165" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L29" type="CONTENT" lock="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;f:frutiger_bold;c:rgb(255, 255, 255)">
+          <frm num="52" x="756" y="-144" o="1" rX="0" rY="0" sX="1" sY="1" w="291" h=""/>
+          <frm num="91" x="756" y="-144" o="1" rX="0" rY="0" sX="1" sY="1" w="291" h=""/>
+        </span>
+      </layer>
+      <layer id="B5" type="BUTTON">
+        <span an="0" ease="0" ac="SetModalWindow:C2:0;CUSTOM:bottomBarState:1;C2.GoToLabel:nohint:0;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="226" h="84" class="" imgs="50" fl="0" yreg="top" frmt=";s:35">
+          <frm num="52" x="783" y="178" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="91" x="783" y="178" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+    </clip>
+    <clip id="C4">
+      <label>
+        <frm num="1" name="feed"/>
+      </label>
+      <layer id="L0" type="ACTIONS">
+        <span ac="CUSTOM:bottomBarState:0;SetModalWindow:C4:1;" xreg="left" yreg="top">
+          <frm num="1"/>
+          <frm num="1"/>
+        </span>
+        <span ac="stop;" xreg="left" yreg="top">
+          <frm num="197"/>
+          <frm num="197"/>
+        </span>
+      </layer>
+      <layer id="A2" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="" sATL="0">
+          <frm num="3" x="50" y="130"/>
+          <frm num="19" x="50" y="130"/>
+        </span>
+      </layer>
+      <layer id="H2" type="SHAPE" lock="0" hide="0">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="1730" h="873" class="" fl="0" shp="1" rds="22" yreg="top" brds="4" brdC="#6D4197">
+          <frm num="3" x="96" y="83" o="1" rX="0" rY="0" sX="1" sY="1" bgC="rgba(223, 248, 241, 1)" bgT="0,0"/>
+          <frm num="197" x="96" y="83" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="i13" type="IMAGE" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="446" h="104" imgs="50" fl="0" yreg="top">
+          <frm num="3" x="737" y="78" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="197" x="737" y="78" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L21" type="CONTENT" hide="0" lock="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="int_whiteColor" imgs="50" w="150" fl="0" yreg="top">
+          <frm num="3" x="851" y="94" o="1" rX="0" rY="0" sX="1" sY="1" w="228" h=""/>
+          <frm num="197" x="851" y="94" o="1" rX="0" rY="0" sX="1" sY="1" w="228" h=""/>
+        </span>
+      </layer>
+      <layer id="L15" type="CONTENT" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="3" x="545" y="210" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+          <frm num="197" x="545" y="210" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+        </span>
+      </layer>
+      <layer id="A6" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="12.31" sATL="0">
+          <frm num="23" x="70" y="130"/>
+          <frm num="39" x="70" y="130"/>
+        </span>
+      </layer>
+      <layer id="L74" type="CONTENT" lock="0" hide="0">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="26" x="195" y="280" o="1" rX="0" rY="0" sX="1" sY="1" w="1549" h=""/>
+          <frm num="34" x="195" y="280" o="1" rX="0" rY="0" sX="1" sY="1" w="1549" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="35" x="195" y="280" o="1" rX="0" rY="0" sX="1" sY="1" w="1549" h=""/>
+          <frm num="197" x="195" y="280" o="1" rX="0" rY="0" sX="1" sY="1" w="1549" h=""/>
+        </span>
+      </layer>
+      <layer id="i7" type="IMAGE" lb="Chart" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1590" h="349" imgs="50" fl="0" yreg="top">
+          <frm num="3" x="171" y="386" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="197" x="171" y="386" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L16" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 84, 166)">
+          <frm num="3" x="822" y="408" o="1" rX="0" rY="0" sX="1" sY="1" w="288" h=""/>
+          <frm num="197" x="822" y="408" o="1" rX="0" rY="0" sX="1" sY="1" w="288" h=""/>
+        </span>
+      </layer>
+      <layer id="L17" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="232" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="172" h=""/>
+          <frm num="197" x="232" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="172" h=""/>
+        </span>
+      </layer>
+      <layer id="L18" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="267" y="588" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="267" y="588" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L19" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="732" y="589" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="732" y="589" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L20" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="507" y="588" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="507" y="588" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L36" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="1110" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1110" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L37" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="1335" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1335" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L38" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="1568" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1568" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L69" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="517" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="82" h=""/>
+          <frm num="197" x="517" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="82" h=""/>
+        </span>
+      </layer>
+      <layer id="L70" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="737" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="94" h=""/>
+          <frm num="197" x="737" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="94" h=""/>
+        </span>
+      </layer>
+      <layer id="L71" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="1102" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="118" h=""/>
+          <frm num="197" x="1102" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="118" h=""/>
+        </span>
+      </layer>
+      <layer id="L72" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="1280" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="198" h=""/>
+          <frm num="197" x="1280" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="198" h=""/>
+        </span>
+      </layer>
+      <layer id="L73" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="1512" y="490" o="1" rX="0" rY="0" sX="1" sY="1" w="214" h=""/>
+          <frm num="197" x="1512" y="490" o="1" rX="0" rY="0" sX="1" sY="1" w="214" h=""/>
+        </span>
+      </layer>
+      <layer id="L77" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;c:rgb(255, 255, 255);f:frutiger_bold;s:60">
+          <frm num="3" x="957" y="448" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+          <frm num="197" x="957" y="448" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+        </span>
+      </layer>
+      <layer id="L78" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;c:rgb(0, 0, 0);f:frutiger_bold;s:60">
+          <frm num="3" x="957" y="543" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+          <frm num="197" x="957" y="543" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+        </span>
+      </layer>
+      <layer id="B3" type="BUTTON" hide="0" lock="0">
+        <span an="0" ease="0" ac="CUSTOM:bottomBarState:1;SetModalWindow:C4:0;root.GoToLabel:nxt:0;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="226" h="102" class="" imgs="50" fl="0" yreg="top" aO="371% 930%" frmt=";s:40;f:opensans_regular_0" hFcs="0">
+          <frm num="3" x="848" y="854" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="197" x="848" y="854" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L12" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;c:rgb(0, 0, 0);f:frutiger_bold;s:60">
+          <frm num="3" x="957" y="623" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+          <frm num="197" x="957" y="623" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+        </span>
+      </layer>
+      <layer id="A8" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="3.19" sATL="0">
+          <frm num="48" x="50" y="140"/>
+          <frm num="75" x="50" y="140"/>
+        </span>
+      </layer>
+      <layer id="A16" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="3.56" sATL="0">
+          <frm num="80" x="70" y="140"/>
+          <frm num="104" x="70" y="140"/>
+        </span>
+      </layer>
+      <layer id="A18" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="0" sATL="0">
+          <frm num="109" x="90" y="140"/>
+          <frm num="136" x="90" y="140"/>
+        </span>
+      </layer>
+      <layer id="L9" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="50" x="732" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="59" x="732" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="60" x="732" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="732" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L13" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="83" x="1112" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="92" x="1112" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="93" x="1112" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1112" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L14" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="113" x="1332" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="122" x="1332" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="123" x="1332" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1332" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="A9" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="">
+          <frm num="145" x="50" y="130"/>
+          <frm num="185" x="50" y="130"/>
+        </span>
+      </layer>
+      <layer id="L23" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt="">
+          <frm num="150" x="858" y="755" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="159" x="858" y="755" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt="">
+          <frm num="160" x="858" y="755" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="858" y="755" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+    </clip>
+    <clip id="C3">
+      <layer id="L0" type="ACTIONS">
+        <span ac="stop;">
+          <frm num="20"/>
+          <frm num="20"/>
+        </span>
+      </layer>
+      <layer id="L4" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="1" x="546" y="178" o="1" rX="0" rY="0" sX="1" sY="1" w="858" h=""/>
+          <frm num="10" x="546" y="178" o="1" rX="0" rY="0" sX="1" sY="1" w="858" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="11" x="546" y="178" o="1" rX="0" rY="0" sX="1" sY="1" w="858" h=""/>
+          <frm num="20" x="546" y="178" o="1" rX="0" rY="0" sX="1" sY="1" w="858" h=""/>
+        </span>
+      </layer>
+      <layer id="L24" type="CONTENT" hide="0" lock="0">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+          <frm num="1" x="905" y="156" o="1" rX="0" rY="0" sX="1" sY="1" w="76" h=""/>
+          <frm num="10" x="905" y="156" o="1" rX="0" rY="0" sX="1" sY="1" w="76" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+          <frm num="11" x="905" y="156" o="1" rX="0" rY="0" sX="1" sY="1" w="76" h=""/>
+          <frm num="20" x="905" y="156" o="1" rX="0" rY="0" sX="1" sY="1" w="76" h=""/>
+        </span>
+      </layer>
+      <layer id="i11" type="IMAGE" lock="0">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="69" h="4" imgs="50" fl="0" yreg="top">
+          <frm num="1" x="908" y="201" o="1" rX="0" rY="0" sX="0.9" sY="1"/>
+          <frm num="10" x="908" y="201" o="1" rX="0" rY="0" sX="0.9" sY="1"/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="69" h="4" imgs="50" fl="0" yreg="top">
+          <frm num="11" x="908" y="201" o="1" rX="0" rY="0" sX="0.9" sY="1"/>
+          <frm num="20" x="908" y="201" o="1" rX="0" rY="0" sX="0.9" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L26" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+          <frm num="1" x="905" y="204" o="1" rX="0" rY="0" sX="1" sY="1" w="76" h=""/>
+          <frm num="10" x="905" y="204" o="1" rX="0" rY="0" sX="1" sY="1" w="76" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+          <frm num="11" x="905" y="204" o="1" rX="0" rY="0" sX="1" sY="1" w="76" h=""/>
+          <frm num="20" x="905" y="204" o="1" rX="0" rY="0" sX="1" sY="1" w="76" h=""/>
+        </span>
+      </layer>
+    </clip>
+    <clip id="C1">
+      <label>
+        <frm num="2" name="l_start"/>
+        <frm num="4" name="l_correct"/>
+        <frm num="39" name="l_incorrect"/>
+        <frm num="38" name="l_partial"/>
+        <frm num="59" name="l_triesexhaust"/>
+        <frm num="73" name="l_showanswer"/>
+        <frm num="114" name="l_feedbtn"/>
+      </label>
+      <layer id="L0" type="ACTIONS">
+        <span ac="stop;" xreg="left" yreg="top">
+          <frm num="3"/>
+          <frm num="3"/>
+        </span>
+        <span ac="C2.GoToLabel:nohint:0;root.GoToLabel:correct_feedback:0;" xreg="left" yreg="top">
+          <frm num="30"/>
+          <frm num="30"/>
+        </span>
+        <span ac="stop;" xreg="left" yreg="top">
+          <frm num="36"/>
+          <frm num="36"/>
+        </span>
+        <span ac="Show:B9;" xreg="left" yreg="top">
+          <frm num="50"/>
+          <frm num="50"/>
+        </span>
+        <span ac="stop;" xreg="left" yreg="top">
+          <frm num="56"/>
+          <frm num="56"/>
+        </span>
+        <span ac="C2.GoToLabel:nohint:0;root.GoToLabel:incorrect_feedback:0;" xreg="left" yreg="top">
+          <frm num="103"/>
+          <frm num="103"/>
+        </span>
+        <span ac="stop;" xreg="left" yreg="top">
+          <frm num="111"/>
+          <frm num="111"/>
+        </span>
+        <span ac="stop;" xreg="left" yreg="top">
+          <frm num="115"/>
+          <frm num="115"/>
+        </span>
+      </layer>
+      <layer id="B9" type="BUTTON" lb="Hint Button">
+        <span an="0" ease="0" ac="CUSTOM:checkHint:Q1;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="205" h="72" class="" imgs="50" fl="0" yreg="top" frmt="" ih="1">
+          <frm num="1" x="1696" y="876" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="56" x="1696" y="876" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="A11" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="">
+          <frm num="4" x="70" y="160"/>
+          <frm num="13" x="70" y="160"/>
+        </span>
+      </layer>
+      <layer id="H11" type="SHAPE">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="220" h="108" class="" fl="0" shp="0" rds="22" yreg="top" mBlk="1" bgI="" bgA="" bgR="" bgC="">
+          <frm num="4" x="1686" y="856" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+          <frm num="30" x="1686" y="856" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        </span>
+      </layer>
+      <layer id="A7" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="">
+          <frm num="39" x="50" y="160"/>
+          <frm num="50" x="50" y="160"/>
+        </span>
+      </layer>
+      <layer id="H8" type="SHAPE">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="1470" h="182" class="" fl="0" shp="0" rds="22" yreg="top" mBlk="1" bgI="" bgA="" bgR="" bgC="">
+          <frm num="39" x="228" y="532" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+          <frm num="50" x="228" y="532" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        </span>
+      </layer>
+      <layer id="A1" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="">
+          <frm num="73" x="70" y="160"/>
+          <frm num="84" x="70" y="160"/>
+        </span>
+      </layer>
+      <layer id="H10" type="SHAPE">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="1470" h="182" class="" fl="0" shp="0" rds="22" yreg="top" mBlk="1" bgI="" bgA="" bgR="" bgC="">
+          <frm num="73" x="228" y="532" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+          <frm num="84" x="228" y="532" o="1" rX="0" rY="0" sX="1" sY="1" bgC=""/>
+        </span>
+      </layer>
+    </clip>
+    <clip id="C6">
+      <label>
+        <frm num="1" name="feed"/>
+      </label>
+      <layer id="L0" type="ACTIONS">
+        <span ac="CUSTOM:bottomBarState:0;SetModalWindow:C6:1;" xreg="left" yreg="top">
+          <frm num="1"/>
+          <frm num="1"/>
+        </span>
+        <span ac="stop;" xreg="left" yreg="top">
+          <frm num="197"/>
+          <frm num="197"/>
+        </span>
+      </layer>
+      <layer id="A19" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="0" sATL="0">
+          <frm num="3" x="50" y="130"/>
+          <frm num="19" x="50" y="130"/>
+        </span>
+      </layer>
+      <layer id="H12" type="SHAPE" lock="0" hide="0">
+        <span an="0" ease="0" ac="" hd="0" xreg="left" w="1730" h="873" class="" fl="0" shp="1" rds="22" yreg="top" brds="4" brdC="#6D4197">
+          <frm num="3" x="96" y="83" o="1" rX="0" rY="0" sX="1" sY="1" bgC="rgba(223, 248, 241, 1)" bgT="0,0"/>
+          <frm num="197" x="96" y="83" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="i6" type="IMAGE" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="446" h="104" imgs="50" fl="0" yreg="top">
+          <frm num="3" x="737" y="78" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="197" x="737" y="78" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L75" type="CONTENT" hide="0" lock="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="int_whiteColor" imgs="50" w="150" fl="0" yreg="top">
+          <frm num="3" x="851" y="94" o="1" rX="0" rY="0" sX="1" sY="1" w="228" h=""/>
+          <frm num="197" x="851" y="94" o="1" rX="0" rY="0" sX="1" sY="1" w="228" h=""/>
+        </span>
+      </layer>
+      <layer id="L76" type="CONTENT" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="3" x="545" y="210" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+          <frm num="197" x="545" y="210" o="1" rX="0" rY="0" sX="1" sY="1" w="833" h=""/>
+        </span>
+      </layer>
+      <layer id="A20" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="0" sATL="0">
+          <frm num="23" x="70" y="130"/>
+          <frm num="39" x="70" y="130"/>
+        </span>
+      </layer>
+      <layer id="L79" type="CONTENT" lock="0" hide="0">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="26" x="195" y="280" o="1" rX="0" rY="0" sX="1" sY="1" w="1549" h=""/>
+          <frm num="34" x="195" y="280" o="1" rX="0" rY="0" sX="1" sY="1" w="1549" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center">
+          <frm num="35" x="195" y="280" o="1" rX="0" rY="0" sX="1" sY="1" w="1549" h=""/>
+          <frm num="197" x="195" y="280" o="1" rX="0" rY="0" sX="1" sY="1" w="1549" h=""/>
+        </span>
+      </layer>
+      <layer id="i8" type="IMAGE" lb="Chart" lock="0" hide="0">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1590" h="349" imgs="50" fl="0" yreg="top">
+          <frm num="3" x="171" y="386" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="197" x="171" y="386" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L80" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 84, 166)">
+          <frm num="3" x="822" y="408" o="1" rX="0" rY="0" sX="1" sY="1" w="288" h=""/>
+          <frm num="197" x="822" y="408" o="1" rX="0" rY="0" sX="1" sY="1" w="288" h=""/>
+        </span>
+      </layer>
+      <layer id="L81" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="232" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="172" h=""/>
+          <frm num="197" x="232" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="172" h=""/>
+        </span>
+      </layer>
+      <layer id="L82" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="267" y="588" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="267" y="588" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L83" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="732" y="589" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="732" y="589" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L84" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="507" y="588" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="507" y="588" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L85" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="1110" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1110" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L86" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="1335" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1335" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L87" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="3" x="1568" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1568" y="564" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L88" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="517" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="82" h=""/>
+          <frm num="197" x="517" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="82" h=""/>
+        </span>
+      </layer>
+      <layer id="L89" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="737" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="94" h=""/>
+          <frm num="197" x="737" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="94" h=""/>
+        </span>
+      </layer>
+      <layer id="L90" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="1102" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="118" h=""/>
+          <frm num="197" x="1102" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="118" h=""/>
+        </span>
+      </layer>
+      <layer id="L91" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="1280" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="198" h=""/>
+          <frm num="197" x="1280" y="488" o="1" rX="0" rY="0" sX="1" sY="1" w="198" h=""/>
+        </span>
+      </layer>
+      <layer id="L92" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(255, 255, 255)">
+          <frm num="3" x="1512" y="490" o="1" rX="0" rY="0" sX="1" sY="1" w="214" h=""/>
+          <frm num="197" x="1512" y="490" o="1" rX="0" rY="0" sX="1" sY="1" w="214" h=""/>
+        </span>
+      </layer>
+      <layer id="L93" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;c:rgb(255, 255, 255);f:frutiger_bold;s:60">
+          <frm num="3" x="957" y="448" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+          <frm num="197" x="957" y="448" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+        </span>
+      </layer>
+      <layer id="L94" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;c:rgb(0, 0, 0);f:frutiger_bold;s:60">
+          <frm num="3" x="957" y="543" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+          <frm num="197" x="957" y="543" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+        </span>
+      </layer>
+      <layer id="B7" type="BUTTON" hide="0" lock="0">
+        <span an="0" ease="0" ac="CUSTOM:bottomBarState:1;SetModalWindow:C6:0;root.GoToLabel:nxt:0;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="226" h="102" class="" imgs="50" fl="0" yreg="top" aO="371% 930%" frmt=";s:40;f:opensans_regular_0" hFcs="0">
+          <frm num="3" x="848" y="854" o="1" rX="0" rY="0" sX="1" sY="1"/>
+          <frm num="197" x="848" y="854" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        </span>
+      </layer>
+      <layer id="L95" type="CONTENT">
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;c:rgb(0, 0, 0);f:frutiger_bold;s:60">
+          <frm num="3" x="957" y="623" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+          <frm num="197" x="957" y="623" o="1" rX="0" rY="0" sX="1" sY="1" w="22" h=""/>
+        </span>
+      </layer>
+      <layer id="A21" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="0" sATL="0">
+          <frm num="48" x="50" y="140"/>
+          <frm num="75" x="50" y="140"/>
+        </span>
+      </layer>
+      <layer id="A22" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="0" sATL="0">
+          <frm num="80" x="70" y="140"/>
+          <frm num="104" x="70" y="140"/>
+        </span>
+      </layer>
+      <layer id="A23" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="0" sATL="0">
+          <frm num="109" x="90" y="140"/>
+          <frm num="136" x="90" y="140"/>
+        </span>
+      </layer>
+      <layer id="L96" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="50" x="732" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="59" x="732" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="60" x="732" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="732" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L97" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="83" x="1112" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="92" x="1112" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="93" x="1112" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1112" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="L98" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="113" x="1332" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="122" x="1332" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";c:rgb(0, 0, 0)">
+          <frm num="123" x="1332" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="1332" y="669" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+      <layer id="A24" type="AUDIO">
+        <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="0">
+          <frm num="145" x="50" y="130"/>
+          <frm num="185" x="50" y="130"/>
+        </span>
+      </layer>
+      <layer id="L99" type="CONTENT">
+        <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt="">
+          <frm num="150" x="858" y="755" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="159" x="858" y="755" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+        <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt="">
+          <frm num="160" x="858" y="755" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+          <frm num="197" x="858" y="755" o="1" rX="0" rY="0" sX="1" sY="1" w="84" h=""/>
+        </span>
+      </layer>
+    </clip>
+  </clips>
+</root>

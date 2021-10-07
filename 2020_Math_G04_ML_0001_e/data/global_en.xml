@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <course_title><![CDATA[2020_Math_G04_ML_0001_e]]></course_title>
+  <clone>
+    <module id="" type="CONTENT">
+      <modttl><![CDATA[]]></modttl>
+      <page id="p01"><![CDATA[Page 1]]></page>
+    </module>
+    <module id="" type="ASSESSMENT">
+      <modttl><![CDATA[]]></modttl>
+      <settings>
+        <node><![CDATA[Pool 1]]></node>
+      </settings>
+      <page id="p_intro"><![CDATA[Intro Page]]></page>
+      <page id="p_scorepass"><![CDATA[Score - Passed]]></page>
+      <page id="p_scorefail"><![CDATA[Score - Failed]]></page>
+      <page id="p01"><![CDATA[Question 1]]></page>
+      <page id="p02"><![CDATA[Question 2]]></page>
+    </module>
+    <page id=""><![CDATA[Page title]]></page>
+  </clone>
+  <labels>
+    <node id="ok"><![CDATA[Ok]]></node>
+    <node id="yes"><![CDATA[Yes]]></node>
+    <node id="no"><![CDATA[No]]></node>
+    <node id="cancel"><![CDATA[Cancel]]></node>
+    <node id="submit"><![CDATA[Submit]]></node>
+    <node id="reset"><![CDATA[Reset]]></node>
+    <node id="retake"><![CDATA[Retake]]></node>
+    <node id="showanswer"><![CDATA[Show Answer]]></node>
+    <node id="msg_inactivenext"><![CDATA[Please complete all the interactions on this page.]]></node>
+    <node id="month_0"><![CDATA[January]]></node>
+    <node id="month_1"><![CDATA[February]]></node>
+    <node id="month_2"><![CDATA[March]]></node>
+    <node id="month_3"><![CDATA[April]]></node>
+    <node id="month_4"><![CDATA[May]]></node>
+    <node id="month_5"><![CDATA[June]]></node>
+    <node id="month_6"><![CDATA[July]]></node>
+    <node id="month_7"><![CDATA[August]]></node>
+    <node id="month_8"><![CDATA[September]]></node>
+    <node id="month_9"><![CDATA[October]]></node>
+    <node id="month_10"><![CDATA[November]]></node>
+    <node id="month_11"><![CDATA[December]]></node>
+    <node id="page_counter" name="Page Counter separater"><![CDATA[of]]></node>
+  </labels>
+  <modules>
+    <module id="menu" type="MENU">
+      <modttl><![CDATA[Menu]]></modttl>
+      <page id="p01"><![CDATA[Menu Page]]></page>
+      <page id="p02"><![CDATA[Edit Interface and Widgets]]></page>
+      <page id="p03"><![CDATA[Top Bar]]></page>
+      <page id="p04"><![CDATA[Bottom Bar]]></page>
+      <page id="p05"><![CDATA[Splash Page]]></page>
+    </module>
+    <module id="module01" type="CONTENT">
+      <modttl><![CDATA[Grade_4B Module]]></modttl>
+      <page id="p02"><![CDATA[Screen01_01]]></page>
+      <page id="p06"><![CDATA[Screen06]]></page>
+      <page id="p01"><![CDATA[Screen01_03]]></page>
+      <page id="p09"><![CDATA[Screen_03_DO_IT]]></page>
+      <page id="p12"><![CDATA[Screen_05_Do_IT]]></page>
+      <page id="p11"><![CDATA[Screen_01_02_Alpha FIB APK Interactvity]]></page>
+      <page id="p04"><![CDATA[Screen02_02]]></page>
+      <page id="p07"><![CDATA[Screen02_01_DND]]></page>
+      <page id="p08"><![CDATA[Screen_04_01]]></page>
+      <page id="p10"><![CDATA[Screen_04_02_Intractivity]]></page>
+      <page id="p13"><![CDATA[Screen_04_03]]></page>
+    </module>
+  </modules>
+  <vo_assist>
+    <node id="vo_of" name="PopUp"><![CDATA[of]]></node>
+    <node id="vo_link" name="PopUp"><![CDATA[link]]></node>
+    <node id="vo_module" name="Module"><![CDATA[Module]]></node>
+    <node id="vo_page" name="Page"><![CDATA[Page]]></node>
+    <node id="vo_pageload" name="Page"><![CDATA[Loaded Page,]]></node>
+    <node id="vo_radio" name="Page"><![CDATA[Radio Button]]></node>
+    <node id="vo_chkbox" name="Page"><![CDATA[Checkbox]]></node>
+    <node id="vo_popup" name="PopUp"><![CDATA[Popup,]]></node>
+    <node id="vo_poptitle" name="PopUp Title"><![CDATA[Popup Title,]]></node>
+    <node id="vo_popcontent" name="PopUp Content"><![CDATA[Popup Content,]]></node>
+    <node id="vo_popclose" name="PopUp Close"><![CDATA[Popup Closed]]></node>
+    <node id="vo_popclsbtn" name="PopUp Close Button"><![CDATA[Close Button]]></node>
+    <node id="vo_popimg" name="Image PopUp"><![CDATA[Image Popup displayed, press escape key or Tap anywhere to close the popup.]]></node>
+    <node id="vo_modbtn" name="Module Button"><![CDATA[Module Button,]]></node>
+    <node id="vo_mindxbtn0" name="Module Button - Disabled"><![CDATA[Disabled Button Module]]></node>
+    <node id="vo_mindxbtn1" name="Module Button - Normal"><![CDATA[Button, Module]]></node>
+    <node id="vo_mindxbtn2" name="Module Button - Visited"><![CDATA[, you have completed this Module.]]></node>
+    <node id="vo_mindxbtn3" name="Module Button - Selected"><![CDATA[, you are in this Module.]]></node>
+    <node id="vo_indx" name="Index Displayed"><![CDATA[Page Index Displayed]]></node>
+    <node id="vo_indxbtn0" name="Index Button - Disabled"><![CDATA[Disabled Button Page]]></node>
+    <node id="vo_indxbtn1" name="Index Button - Normal"><![CDATA[Button, Page]]></node>
+    <node id="vo_indxbtn2" name="Index Button - Visited"><![CDATA[, you have completed this page.]]></node>
+    <node id="vo_indxbtn3" name="Index Button - Selected"><![CDATA[, you are viewing this page.]]></node>
+    <node id="vo_select" name="Selected"><![CDATA[selected]]></node>
+    <node id="vo_deselect" name="Selected"><![CDATA[de selected]]></node>
+    <node id="vo_drplist_e" name=""><![CDATA[. Press up or down arrow keys to select other options.]]></node>
+    <node id="vo_radio_chk0" name="radio button not checked"><![CDATA[not checked]]></node>
+    <node id="vo_radio_chk1" name="Radio button checked"><![CDATA[checked]]></node>
+    <node id="vo_txtbox" name="Input Box"><![CDATA[Input box, value]]></node>
+    <node id="vo_spchbubl" name=""><![CDATA[Speech Bubble]]></node>
+    <node id="vo_btn" name="Button"><![CDATA[Button]]></node>
+    <node id="vo_btn_sel" name="Button selected"><![CDATA[, is selected]]></node>
+    <node id="vo_btn_dis" name="Button disabled"><![CDATA[, is disabled]]></node>
+    <node id="vo_expbtn" name="Button for Interactive"><![CDATA[Content for Button]]></node>
+    <node id="vo_inter" name="Interactive selected"><![CDATA[Interactive with multiple buttons. Press Tab key to select a button. Press Enter to read out its content.]]></node>
+    <node id="vo_quiz_inp" name=""><![CDATA[Enter answer for Statement]]></node>
+    <node id="vo_quiz_drp" name=""><![CDATA[Select answer for Statement]]></node>
+    <node id="vo_quiz_sel" name=""><![CDATA[Press Space bar to select this option.]]></node>
+    <node id="vo_quiz_cor" name=""><![CDATA[is correct,]]></node>
+    <node id="vo_quiz_incor" name=""><![CDATA[is not correct,]]></node>
+    <node id="vo_quiz_issel" name=""><![CDATA[You selected this option.]]></node>
+    <node id="vo_quiz_nosel" name=""><![CDATA[You did not select this option.]]></node>
+    <node id="vo_quiz_show1" name=""><![CDATA[The correct answer is,]]></node>
+    <node id="vo_quiz_show1" name=""><![CDATA[The correct answer is,]]></node>
+    <node id="vo_quiz_show2" name=""><![CDATA[You entered,]]></node>
+    <node id="vo_quiz_show3" name=""><![CDATA[You selected,]]></node>
+    <node id="vo_quiz_fdbck" name=""><![CDATA[Feedback,]]></node>
+    <node id="vo_quiz_btn" name=""><![CDATA[Button,]]></node>
+    <node id="vo_quiz_stmnt" name=""><![CDATA[Statement]]></node>
+    <node id="vo_quiz_optn" name=""><![CDATA[Option]]></node>
+    <node id="vo_scr_qst" name=""><![CDATA[Question]]></node>
+    <node id="vo_scr_qst1" name=""><![CDATA[press enter to review this question.]]></node>
+    <node id="vo_drplist_v" name="Dropdown list"><![CDATA[, Value is]]></node>
+    <node id="vo_drplist_s" name="Dropdown list"><![CDATA[Dropdown List]]></node>
+    <node id="vo_seek_play" name="Seekbar Play Button"><![CDATA[Play]]></node>
+    <node id="vo_seek_pause" name="Seekbar Pause Button"><![CDATA[Pause]]></node>
+    <node id="vo_seek_replay" name="Seekbar Replay Button"><![CDATA[Replay]]></node>
+    <node id="vo_seek_sec1" name="Seekbar Previous Button"><![CDATA[Previous Scene]]></node>
+    <node id="vo_seek_sec2" name="Seekbar Next Button"><![CDATA[Next Scene]]></node>
+    <node id="vo_seek_cc" name="Seekbar CC Button"><![CDATA[Closed Caption]]></node>
+    <node id="vo_popimg1" name="Image PopUp Instruction"><![CDATA[Tap anywhere to close the popup.]]></node>
+  </vo_assist>
+</root>

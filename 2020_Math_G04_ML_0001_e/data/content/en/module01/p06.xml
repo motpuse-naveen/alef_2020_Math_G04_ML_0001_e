@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<root>
+  <elements>
+    <object id="L1" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold;  font-size:40px;">You Did It!</span><br>]]></node>
+      </i_content>
+    </object>
+    <object id="i4" template="IMAGE" hTab="0" pub="1">
+      <i_content>
+        <node><![CDATA[<img id="i197" style="-webkit-user-drag: none; width: 1920px; height: 1080px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/sc01_robo_build_animation_start.png?rnd=1627982075821" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i7" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i217" style="-webkit-user-drag: none; width: 918px; height: 99px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/titel_bar_blue.png?rnd=1626861736829" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i5" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i8" style="-webkit-user-drag: none; width: 431px; height: 543px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/ahmed_holding_award_chears.png?rnd=1627042070404" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i10" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i7" style="-webkit-user-drag: none; width: 485px; height: 752px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/robot_normal_side_view.png?rnd=1627042027027" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="A1" template="AUDIO" src="a129" tts=""/>
+    <object id="L5" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[You can write fractions as decimal numbers.]]></node>
+      </i_content>
+    </object>
+    <object id="L3" template="CONTENT" hTab="0">
+      <i_content>
+        <node><![CDATA[<div style="text-align: center; "><span style="color: rgb(253, 253, 253);">You can write fractions as decimal numbers.</span><br></div>]]></node>
+      </i_content>
+    </object>
+    <object id="i2" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i215" style="-webkit-user-drag: none; width: 431px; height: 543px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/asset_8.png?rnd=1624860774040" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i3" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i6" style="-webkit-user-drag: none; width: 390px; height: 758px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/robot_happy_trophy.png?rnd=1627042466033" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i6" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i35" style="-webkit-user-drag: none; width: 880px; height: 750px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/screen_01_bg_board.png?rnd=1626344770647" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+  </elements>
+  <timeline fps="15">
+    <label/>
+    <layer id="L0" type="ACTIONS">
+      <span ac="Stop;" xreg="left" yreg="top">
+        <frm num="68"/>
+        <frm num="68"/>
+      </span>
+    </layer>
+    <layer id="L5" type="CONTENT" lb="Transcript" hide="0" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top">
+        <frm num="1" x="-310" y="50" o="1" rX="0" rY="0" sX="1" sY="1" w="286" h=""/>
+        <frm num="68" x="-310" y="50" o="1" rX="0" rY="0" sX="1" sY="1" w="286" h=""/>
+      </span>
+    </layer>
+    <layer id="i4" type="IMAGE" lock="0" hide="0" lb="BG" pub="1">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1920" h="1080" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="68" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i6" type="IMAGE" hide="0" lock="0" lb="Board">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="890" h="747" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="517" y="-21" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="68" x="517" y="-21" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i7" type="IMAGE" hide="0" lb="BlueTitlePatch" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1240" h="98" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="340" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="68" x="340" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L1" type="CONTENT" hide="0" lb="Title" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";a:center;s:35;c:rgb(255, 255, 255);b:1" aS="1000">
+        <frm num="1" x="735" y="13" o="1" rX="0" rY="0" sX="1" sY="1" w="450" h="55"/>
+        <frm num="68" x="735" y="13" o="1" rX="0" rY="0" sX="1" sY="1" w="450" h="55"/>
+      </span>
+    </layer>
+    <layer id="A1" type="AUDIO" lb="Audio1" hide="0" lock="0">
+      <span an="0" ease="0" hd="0" xreg="left" w="" h="" sA="1" fl="0" yreg="top" sE="" sATL="0">
+        <frm num="5" x="20" y="100"/>
+        <frm num="52" x="20" y="100"/>
+      </span>
+    </layer>
+    <layer id="L3" type="CONTENT" lb="You helped Mathbot read 2 and 3-digit numbers!" hide="0" lock="0">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:60">
+        <frm num="5" x="606" y="373" o="1" rX="0" rY="0" sX="1" sY="1" w="708" h=""/>
+        <frm num="15" x="606" y="373" o="1" rX="0" rY="0" sX="1" sY="1" w="708" h=""/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";s:60">
+        <frm num="16" x="606" y="373" o="1" rX="0" rY="0" sX="1" sY="1" w="708" h=""/>
+        <frm num="68" x="606" y="373" o="1" rX="0" rY="0" sX="1" sY="1" w="708" h=""/>
+      </span>
+    </layer>
+    <layer id="i5" type="IMAGE" lb="Ahmed2" hide="0" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="431" h="543" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="112" y="488" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="32" x="112" y="488" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i10" type="IMAGE" lb="Robot1" hide="0" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="485" h="752" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="1378" y="256" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="32" x="1378" y="256" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i2" type="IMAGE" lb="Ahmed2" hide="0" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="412" h="549" imgs="50" fl="0" yreg="top">
+        <frm num="33" x="112" y="482" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="68" x="112" y="482" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i3" type="IMAGE" lb="Robot1" hide="0" lock="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="500" h="758" imgs="50" fl="0" yreg="top">
+        <frm num="33" x="1350" y="251" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="68" x="1350" y="251" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+  </timeline>
+  <clips/>
+</root>

@@ -1,0 +1,232 @@
+﻿<?xml version="1.0"?>
+<root>
+  <elements>
+    <object id="B1" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_Start_btn_D" n_styl="btn_Start_btn_A" t_styl="btn_Start_btn_T" s_styl="btn_Start_btn_S" v_styl="" r_styl="btn_Start_btn_R" x_styl="btn_Start_btn_X" aV="1" alt="Play" b_typ="1" h="108" w="108" n_istyl="i33" r_istyl="i34">
+      <i_content>
+        <node><![CDATA[<br>]]></node>
+      </i_content>
+    </object>
+    <object id="i3" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i255" style="-webkit-user-drag: none; width: 77px; height: 77px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/01_opening_screen_red_curtain_right.png?rnd=1603380066955" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i7" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i254" style="-webkit-user-drag: none; width: 882px; height: 822px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/01_opening_screen_red_curtain_left.png?rnd=1603380016762" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i5" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i229" style="-webkit-user-drag: none; width: 77px; height: 77px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/01_opening_screen_1_yellow_board.png?rnd=1603376304194" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L2" template="CONTENT" hTab="1">
+      <i_content>
+        <node><![CDATA[<span style="font-weight: normal; font-family: frutiger_bold;">Sports Day Decimals</span><span style=""><br></span>]]></node>
+      </i_content>
+    </object>
+    <object id="i2" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i36" style="-webkit-user-drag: none; width: 345px; height: 578px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/intro_ahmed.png?rnd=1627038530710" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i4" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i72" style="-webkit-user-drag: none; width: 485px; height: 752px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/01.png?rnd=1626368741151" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i1" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i197" style="-webkit-user-drag: none; width: 1920px; height: 1080px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/sc01_robo_build_animation_start.png?rnd=1626340976618" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i9" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i254" style="-webkit-user-drag: none; width: 882px; height: 822px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/01_opening_screen_red_curtain_left.png?rnd=1603380016762" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i10" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i255" style="-webkit-user-drag: none; width: 77px; height: 77px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/01_opening_screen_red_curtain_right.png?rnd=1603380066955" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i12" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i72" style="-webkit-user-drag: none; width: 485px; height: 752px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/01.png?rnd=1626368741151" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i13" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i229" style="-webkit-user-drag: none; width: 77px; height: 77px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/01_opening_screen_1_yellow_board.png?rnd=1603376304194" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="L1" template="CONTENT" hTab="1">
+      <i_content>
+        <node><![CDATA[<span style="font-family: frutiger_bold; font-weight: normal;">Sports Day Decimals</span><span style=""><br></span>]]></node>
+      </i_content>
+    </object>
+    <object id="B3" type="1" template="BUTTON" btn_ver="2" i_state="1" d_styl="btn_Start_btn_D" n_styl="btn_Start_btn_A" t_styl="btn_Start_btn_T" s_styl="btn_Start_btn_S" v_styl="" r_styl="btn_Start_btn_R" x_styl="btn_Start_btn_X" aV="1" alt="Play" b_typ="1" h="108" w="108" n_istyl="i33" r_istyl="i34">
+      <i_content>
+        <node><![CDATA[<br>]]></node>
+      </i_content>
+    </object>
+    <object id="i14" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i36" style="-webkit-user-drag: none; width: 412px; height: 549px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/intro_ahmed.png?rnd=1623852324502" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+    <object id="i6" template="IMAGE" hTab="0">
+      <i_content>
+        <node><![CDATA[<img id="i197" style="-webkit-user-drag: none; width: 1920px; height: 1080px; box-sizing: border-box; pointer-events: auto;  user-select: none;" src="../data/media/common/sc01_robo_build_animation_start.png?rnd=1626340976618" alt="" class="" contenteditable="false">]]></node>
+      </i_content>
+    </object>
+  </elements>
+  <timeline fps="15">
+    <label>
+      <frm num="49" name="curtain_open"/>
+    </label>
+    <layer id="L0" type="ACTIONS">
+      <span ac="stop;" xreg="left" yreg="top">
+        <frm num="30"/>
+        <frm num="30"/>
+      </span>
+      <span ac="LoadModule:module01;" xreg="left" yreg="top">
+        <frm num="82"/>
+        <frm num="82"/>
+      </span>
+    </layer>
+    <layer id="i6" type="IMAGE" lb="BG" hide="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1920" h="1080" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="30" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i3" type="IMAGE" hide="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1068" h="986" imgs="50" fl="0" yreg="top">
+        <frm num="1" x="889" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="30" x="889" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i7" type="IMAGE" hide="0">
+      <span an="0" ease="1" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1010" h="986" imgs="50" fl="0" yreg="top" aS="1000">
+        <frm num="1" x="-56" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="30" x="-56" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i5" type="IMAGE" hide="0">
+      <span an="fade-in-top" ease="1" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="882" h="822" imgs="50" fl="0" yreg="top" aS="1000">
+        <frm num="1" x="516" y="-2" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="9" x="516" y="-2" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="0" ease="1" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="882" h="822" imgs="50" fl="0" yreg="top" aS="1000">
+        <frm num="10" x="516" y="-2" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="30" x="516" y="-2" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L2" type="CONTENT" hide="0" lb="Text">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";b:1;s:70;a:center" aS="1000">
+        <frm num="10" x="374" y="456" o="1" rX="0" rY="0" sX="1" sY="1" w="1171" h="-2"/>
+        <frm num="19" x="374" y="456" o="1" rX="0" rY="0" sX="1" sY="1" w="1171" h="-2"/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";b:1;s:70;a:center" aS="1000">
+        <frm num="20" x="374" y="456" o="1" rX="0" rY="0" sX="1" sY="1" w="1171" h="-2"/>
+        <frm num="30" x="374" y="456" o="1" rX="0" rY="0" sX="1" sY="1" w="1171" h="-2"/>
+      </span>
+    </layer>
+    <layer id="i2" type="IMAGE" hide="0" lock="0" lb="Ahmed">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="412" h="549" imgs="50" fl="0" yreg="top" aS="">
+        <frm num="10" x="143" y="466" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="19" x="143" y="466" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="412" h="549" imgs="50" fl="0" yreg="top" aS="">
+        <frm num="20" x="143" y="466" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="30" x="143" y="466" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i4" type="IMAGE" hide="0" lock="0" lb="Robot">
+      <span an="fade-in" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="485" h="752" imgs="50" fl="0" yreg="top" aS="1000">
+        <frm num="10" x="1356" y="254" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="19" x="1356" y="254" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="485" h="752" imgs="50" fl="0" yreg="top" aS="1000">
+        <frm num="20" x="1356" y="254" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="30" x="1356" y="254" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="B1" type="BUTTON" lock="0">
+      <span an="0" ease="0" ac="root.GoToLabel:curtain_open:0;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="190" h="122" class="" imgs="50" fl="0" aO="255% 94%" yreg="top" frmt=";s:35">
+        <frm num="20" x="862" y="602" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="30" x="862" y="602" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i1" type="IMAGE" lb="BG" hide="0">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1920" h="1080" imgs="50" fl="0" yreg="top">
+        <frm num="31" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="82" x="0" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i10" type="IMAGE">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1068" h="986" imgs="50" fl="0" yreg="top">
+        <frm num="31" x="889" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="59" x="889" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="1" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1068" h="986" imgs="50" fl="0" yreg="top" aS="1500">
+        <frm num="60" x="889" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="80" x="1751" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i9" type="IMAGE" hide="0">
+      <span an="0" ease="1" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1010" h="986" imgs="50" fl="0" yreg="top" aS="1000">
+        <frm num="31" x="-56" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="59" x="-56" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="1" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="1010" h="986" imgs="50" fl="0" yreg="top" aS="1500">
+        <frm num="60" x="-56" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="80" x="-831" y="0" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i14" type="IMAGE" hide="0" lock="0" lb="Ahmed">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="412" h="549" imgs="50" fl="0" yreg="top" aS="">
+        <frm num="31" x="143" y="466" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="82" x="143" y="466" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i12" type="IMAGE" hide="0" lock="0" lb="Robot">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="485" h="752" imgs="50" fl="0" yreg="top" aS="1000">
+        <frm num="31" x="1356" y="254" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="82" x="1356" y="254" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="i13" type="IMAGE" hide="0">
+      <span an="0" ease="1" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="882" h="822" imgs="50" fl="0" yreg="top" aS="1000">
+        <frm num="31" x="516" y="-2" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="54" x="516" y="-2" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="1" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" w="882" h="822" imgs="50" fl="0" yreg="top" aS="2000">
+        <frm num="55" x="516" y="-2" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="74" x="516" y="-962" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+    <layer id="L1" type="CONTENT" hide="0" lb="Text">
+      <span an="0" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";b:1;s:70;a:center" aS="1000">
+        <frm num="31" x="374" y="456" o="1" rX="0" rY="0" sX="1" sY="1" w="1171" h="-2"/>
+        <frm num="44" x="374" y="456" o="1" rX="0" rY="0" sX="1" sY="1" w="1171" h="-2"/>
+      </span>
+      <span an="fade-out" ease="0" ac="" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" class="" imgs="50" w="150" fl="0" yreg="top" frmt=";b:1;s:70;a:center" aS="1000">
+        <frm num="45" x="374" y="456" o="1" rX="0" rY="0" sX="1" sY="1" w="1171" h="-2"/>
+        <frm num="54" x="374" y="456" o="1" rX="0" rY="0" sX="1" sY="1" w="1171" h="-2"/>
+      </span>
+    </layer>
+    <layer id="B3" type="BUTTON" lock="0">
+      <span an="0" ease="0" ac="root.GoToLabel:curtain_open:0;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="190" h="122" class="" imgs="50" fl="0" aO="255% 94%" yreg="top" frmt=";s:35">
+        <frm num="31" x="862" y="602" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="44" x="862" y="602" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+      <span an="fade-out" ease="0" ac="root.GoToLabel:curtain_open:0;" bgI="" hd="0" xreg="left" bgA="center" bgR="no-repeat" w="190" h="122" class="" imgs="50" fl="0" aO="255% 94%" yreg="top" frmt=";s:35">
+        <frm num="45" x="862" y="602" o="1" rX="0" rY="0" sX="1" sY="1"/>
+        <frm num="54" x="862" y="602" o="1" rX="0" rY="0" sX="1" sY="1"/>
+      </span>
+    </layer>
+  </timeline>
+</root>

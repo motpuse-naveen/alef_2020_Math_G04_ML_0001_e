@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<template type="CONTENT">
+		<data_tag tags="i_content"><![CDATA[<div></div><div style="position:relative"><i_content></i_content></div>]]></data_tag>
+	</template>
+	<template type="TIMER">
+		<data_tag><![CDATA[<div></div>
+		<div style="position:relative"><table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%" role="presentation"><tr><td align="center" valign="middle">00:00</td></tr></table></div>
+		]]></data_tag>
+	</template>
+	<template type="SHAPE">
+		<data_tag><![CDATA[<div></div>
+		<div style="position:relative"></div>
+		]]></data_tag>
+	</template>
+	<template type="SVG">
+		<data_tag><![CDATA[<div></div>
+		<svg style="position:relative;">
+  			<polygon></polygon>
+		</svg>
+		]]></data_tag>
+	</template>
+	<template type="ELLIPSE">
+		<data_tag><![CDATA[<div></div>
+		<svg style="position:relative;">
+  			<ellipse></ellipse>
+		</svg>
+		]]></data_tag>
+	</template>
+	<template type="SPEECHBUBBLE">
+		<data_tag tags="i_content"><![CDATA[<div></div>
+		<div style="position:relative"><div style=""><div style=""><div style=""></div></div></div><div style="height:100%;position:relative;box-sizing:border-box;"><i_content></i_content></div></div>
+		
+		]]></data_tag>
+	</template>
+	<template type="TABLE">
+		<data_tag tags="i_content"><![CDATA[<div></div>
+		<div style="position:relative"><i_content></i_content></div>
+		]]></data_tag>
+	</template>
+	<template type="HOLDER">
+		<data_tag tags="i_content"><![CDATA[<div></div>
+		<div style="position:relative"><i_content></i_content></div>
+		]]></data_tag>
+	</template>
+	<template type="SEEKBAR">
+		<data_tag><![CDATA[<div></div>
+		<div style="position:relative;">
+			<table cellspacing="0" cellpadding="5" class="" width="100%" style="position:relative" role="presentation">
+              <tr>
+              <td width="1"><div id="playbtn" role="button" class="" onClick="_GT(this,event)" onkeydown="_GT(this,event)" style="cursor:pointer;">
+                <table style="width:100%;height:100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr>
+                <td valign="middle">&#xf04b;</td></tr></table>
+              </div></td>
+               <td width="100%" style="cursor:pointer;pointer-events:auto;position:relative">
+              <div id="plbarbg" class="" style="width:100%;overflow:hidden;box-sizing:content-box;cursor:pointer;position:relative;">
+                  <div id="blbar" style="position:absolute;left:0px;top:0px;" class=""></div>
+                  <div id="plbar" class=""></div>
+              </div>
+              <div id="sthmb" style="position:absolute;" class=""></div>
+              </td>
+              <td width="1"><div id="sbbtn" role="button" class="" onClick="_GT(this,event)" onkeydown="_GT(this,event)" style="cursor:pointer;">
+                <table style="width:100%;height:100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr>
+                <td valign="middle">&#xf04a;</td></tr></table>
+              </div></td>
+              <td width="1"><div id="sfbtn" role="button" class="" onClick="_GT(this,event)" onkeydown="_GT(this,event)" style="cursor:pointer;">
+                <table style="width:100%;height:100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr>
+                <td valign="middle">&#xf04e;</td></tr></table>
+              </div></td>
+              <td width="1"><div id="ccbtn" role="button" class="" onClick="_GT(this,event)" onkeydown="_GT(this,event)" style="cursor:pointer;">
+                <table style="width:100%;height:100%;cursor:pointer;" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr>
+                <td valign="middle"></td></tr></table>
+              </div></td>
+              <td width="1"><div id="replaybtn" role="button" class="" onClick="_GT(this,event)" onkeydown="_GT(this,event)" style="cursor:pointer;">
+                <table style="width:100%;height:100%;cursor:pointer;" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr>
+                <td valign="middle"></td></tr></table>
+              </div></td>
+              </tr>
+              </table></div>
+		]]></data_tag>
+	</template>
+	<template type="BUTTON">
+		<data_tag tags="i_content"><![CDATA[<div></div><div style="position:relative"><div><table role="presentation" width="100%" height="100%" cellpadding="0" cellspacing="0" border="0"><tbody>$btntype</tbody></table></div></div><div style="position:absolute;width:100%;height:100%;left:0px;top:0px;"></div>]]></data_tag>
+		<btntype1><![CDATA[<tr><td valign="middle"><i_content></i_content></td></tr>]]></btntype1>
+		<btntype2><![CDATA[<tr><td align="left"><i_content></i_content></td><td valign="middle" width="90%"><i_content></i_content></td></tr>]]></btntype2>
+		<btntype3><![CDATA[<tr><td valign="middle" width="90%"><i_content></i_content></td><td align="right"><i_content></i_content></td></tr>]]></btntype3>
+		<btntype4><![CDATA[
+			<tr style="height:80%"><td align="center" valign="middle"><i_content></i_content></td></tr>
+			<tr><td valign="middle"><i_content></i_content></td></tr>
+			]]>
+		</btntype4>
+		<btntype5><![CDATA[
+			<tr style="height:80%"><td align="center" valign="top"><i_content></i_content></td></tr>
+			<tr><td valign="middle"><i_content></i_content></td></tr>
+			]]>
+		</btntype5>
+	</template>
+	<template type="FORM">
+		<data_tag vars="option"><![CDATA[<div></div>
+			<div style="position:relative">$option</div>
+		]]></data_tag>
+		<optionFIB tags="i_option"><![CDATA[<input id="mchld" type="text" style="width:100%; position:relative;" onfocus="_GE(this)"/><div id="fbtick" style="visibility:hidden;display:block;position:absolute;text-align:center;"><img src="skin0/i_qtick.png" class="c_optick"/></div>]]></optionFIB>
+		<optionArea tags="i_option"><![CDATA[<textarea id="mchld" style="width:100%; height:100%; resize:none; position:relative;" onfocus="_GE(this)"></textarea><div id="fbtick" style="visibility:hidden;display:block;position:absolute;text-align:center;"><img src="skin0/i_qtick.png" class="c_optick"/></div>]]></optionArea>
+		<optionDrp tags="i_option"><![CDATA[<select id="mchld" style="width:100%; position:relative;" onfocus="_GE(this)">$options</select><div id="fbtick" style="visibility:hidden;display:block;position:absolute;text-align:center;"><img src="skin0/i_qtick.png" class="c_optick"/></div>]]></optionDrp>
+		<optionDrpI tags="i_option"><![CDATA[<div id="mchld" style="width:100%; position:relative;cursor:pointer;overflow:hidden" onClick="_BI(this)" onKeydown="_BI(this,event)"><div>$defvalue</div><div class="c_drparrow"></div></div>
+		<div tabIndex="-1" style="width:100%;max-height:400px;overflow-y:auto;overflow-x:hidden;display:none;">
+			$options
+		</div>
+		<div id="fbtick" style="visibility:hidden;display:block;position:absolute;text-align:center;"><img src="skin0/i_qtick.png" class="c_optick"/></div>
+		]]></optionDrpI>
+		<optionRadio tags="i_option"><![CDATA[<div style="display:table-cell; position:relative; float:left;cursor:pointer;" role="radio" onclick="_A6(event,this)" onkeydown="_A6(event,this)"><table cellpadding="0" cellspacing="0" border="0" style="pointer" role="presentation"><tr><td valign="top"><div style="display:block;text-align:center;"><input type="radio" style="display:none"/><img src="skin0/i_radio1.png" style="vertical-align:middle;"/></div></td><td width="5"></td><td><i_option></i_option></td></tr></table><div id="fbtick" style="visibility:hidden;display:block;position:absolute;text-align:center;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>]]></optionRadio>
+		<optionChkbox tags="i_option"><![CDATA[<div style="display:table-cell; position:relative; float:left;cursor:pointer;" role="checkbox" onclick="_A6(event,this)" onkeydown="_A6(event,this)"><table cellpadding="0" cellspacing="0" border="0" role="presentation"><tr><td valign="top"><div style="display:block;text-align:center;"><input type="checkbox" style="display:none"/><img src="skin0/i_checkbox1.png" style="vertical-align:middle;"/></div></td><td width="5"></td><td><i_option></i_option></td></tr></table><div id="fbtick" style="visibility:hidden;display:block;position:absolute;text-align:center;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>]]></optionChkbox>
+	</template>
+	
+	<template type="IMAGE">
+		<data_tag tags="i_content"><![CDATA[<div></div><div style="position:relative"><i_content></i_content></div>]]></data_tag>
+	</template>
+	<template type="IMAGEASBG">
+		<data_tag tags="i_content"><![CDATA[<div></div>
+		<div style="position:relative"><i_content></i_content></div>
+		]]></data_tag>
+	</template>
+	<template type="MODULELIST">
+		<data_tag vars="buttons"><![CDATA[<div></div>
+			 <div>$buttons</div>
+		]]></data_tag>
+		<buttons><![CDATA[
+			<table width="100%" cellpadding="0" cellspacing="0" class="c_modbtndiv" role="presentation">
+			  <tr>
+				<td valign="middle" class="c_modulebtn$bstat" id="$mid" onclick="_FC(this)" onkeydown="_CB(event,this)" tabIndex="-1">$mtitle</td>
+				<td width="1" valign="middle" align="center"><div class="c_modstat$mstat">$img</div></td>
+			  </tr>
+			</table>			
+		]]></buttons>
+	</template>
+	<template type="INDEX">
+		<data_tag><![CDATA[
+			<div class="c_indxbtn$bstat" type="page" mid="$mid" pid="$pid" id="$id" onclick="_C5(this)" onkeydown="_AW(event,this)" role="button">
+				<table cellpadding="5" cellspacing="0" class="c_indxbtndiv" role="presentation">
+				  <tr>
+					<td width="20" align="right">$num.</td>
+					<td valign="middle">$ptitle</td>
+				  </tr>
+				</table>			
+			</div>
+		]]></data_tag>
+		<mod_tag><![CDATA[
+			<div class="c_mindxbtn$bstat" type="module" id="$id" style="position:relative">
+				<table cellpadding="5" cellspacing="0" class="c_mindxbtndiv" role="presentation">
+				  <tr>
+					<td width="20" align="right" artab="" onclick="_D5(this,1,event)" onkeydown="_BG(event,this,1)">$num</td>
+					<td valign="middle" tb="" onclick="_D5(this)" onkeydown="_BG(event,this,0)" role="button">$ptitle</td>
+				  </tr>
+				</table>
+				<div style="width:$perc%;position:absolute;bottom:1px" class="c_modprogress">
+					$perc
+				</div>		
+			</div>
+		]]></mod_tag>
+	</template>
+	
+	<template type="TRACKER">
+		<data_tag vars=""><![CDATA[
+			<div style="display:table-cell;position:relative;">
+			</div>
+		]]></data_tag>
+	</template>
+	
+	<template type="TRACKABLE">
+		<data_tag vars=""><![CDATA[
+			<div style="display:table-cell;position:relative;">
+				<div id="trktick_n" class="c_tick"></div>
+			</div>
+		]]></data_tag>
+	</template>
+	
+	<template type="AUDIO">
+		<data_tag vars="src"><![CDATA[
+			<div style="display:table-cell;position:relative;">
+				<audio id="$src" sV="1" oncanplaythrough="_A0(this)" onplay="_FO(this)" aria-hidden="true">
+				  <source src="$src" type="audio/mpeg">
+				</audio>
+			</div>
+		]]></data_tag>
+	</template>
+	
+	<template type="VIDEO">
+		<data_tag vars="src"><![CDATA[
+			<video id="$src" width="100%" height="100%" preload="auto" controls playsinline aria-hidden="true">
+			  <source src="$src" type="video/mp4">
+			</video>
+			<div></div>
+			<table cellpading="0" cellspacing="0" border="0" style="pointer-events:none;display:none;height: 100%;font-family: fontawesome;width: 100%;position: absolute;top: 0px;left: 0px;font-size: 50px;text-shadow: 1px 1px 5px #ffffff;" role="presentation"><tr><td align="center" valign="middle"><div style="display:inline-block"></div></td></tr></table>
+			<table cellpading="0" cellspacing="0" border="0" style="pointer-events:auto;display:none;height: 100%;font-family: fontawesome;width: 100%;position: absolute;top: 0px;left: 0px;font-size: 60px;color:#ffffff;background-color:rgba(0,0,0,.7);cursor:pointer;" role="presentation"><tr><td align="center" valign="middle"><div style="display:inline-block"></div></td></tr></table>
+		]]></data_tag>
+	</template>
+	
+	<template type="CANVAS">
+		<data_tag vars="src"><![CDATA[
+			<canvas></canvas>
+		]]></data_tag>
+	</template>
+
+	<template type="TBI" switch="EXPANDO">
+		<data_tag vars="tabs,content"><![CDATA[
+		<div id="trktick_n" class="c_tick" style="display:none;"></div>
+		<div id="i_tab" class="c_tbi" type="TBI" role="presentation" type="Expando" alt="Interactive with multiple buttons" aria-label="Interactive with multiple buttons">
+			<div class="c_tabbuttons">
+				$tabs
+			</div>
+			<div style="clear:both;"></div>
+			<div class="c_tabcontholder">
+				$content
+			</div>
+		</div>
+		]]></data_tag>
+		<tabs tags="i_button"><![CDATA[
+			<div class="c_tab">
+				<div class="c_tabbtn" onclick="_GN(this,event)" onkeydown="_GN(this,event)" $i_balttext tabIndex="-1" style="position:relative" role="button"><i_button></i_button>
+					<div id="trktick_n" class="c_tick"></div>
+				</div>
+			</div>
+		]]></tabs>
+		<content tags="i_content"><![CDATA[
+			<div class="c_tabcontent" style="position:relative" tabIndex="-1" $i_calttext>
+				<i_content></i_content>
+			</div>
+		]]></content>
+	</template>
+	
+	<template type="TBIVERT" switch="POPUP">
+		<data_tag vars="tabs,content"><![CDATA[
+			<div id="trktick_n" class="c_tick" style="display:none;"></div>
+			<div id="i_tab" class="c_tbi" type="TBI" role="presentation" type="Expando" alt="Interactive with multiple buttons" aria-label="Interactive with multiple buttons">
+				<div class="c_tabbuttonsV">
+					$tabs
+				</div>
+				<div class="c_tabcontholderV">
+					$content
+				</div>
+			</div>
+		]]></data_tag>
+		<tabs tags="i_button"><![CDATA[
+			<div class="c_tabV">
+				<div class="c_tabbtn" onclick="_GN(this,event)" onkeydown="_GN(this,event)" $i_balttext tabIndex="-1" style="position:relative" role="button"><i_button></i_button>
+					<div id="trktick_n" class="c_tick"></div>
+				</div>
+			</div>
+		]]></tabs>
+		<content tags="i_content"><![CDATA[
+			<div class="c_tabcontentV" style="position:relative" tabIndex="-1" $i_calttext>
+				<i_content></i_content>
+			</div>
+		]]></content>
+	</template>
+	
+	<template type="EXPANDO">
+		<data_tag vars="content"><![CDATA[<div id="trktick_n" class="c_tick" style="display:none;"></div><div id="i_expando" role="presentation" type="Expando" alt="Interactive with multiple buttons" aria-label="Interactive with multiple buttons" class="c_expando">$content</div>]]></data_tag>
+		<content tags="i_button,i_content"><![CDATA[
+			<div>
+				<div class="c_expbutton" onClick='_GA(this, event)' onkeydown='_GA(this, event)' $i_balttext tabIndex="-1" style="position:relative" role="button"><div class="c_expclosed"><table style="width:100%;height:100%" border="0" cellspacing="0" cellpadding="0" role="presentation"><tr><td valign="middle" align="center"><img src="skin0/i_expando0.png"/></td></tr></table></div><i_button></i_button><div id="trktick_n" class="c_tick"></div></div>
+				<div class="c_expcontent" $i_calttext><div style="position:relative;"><i_content></i_content></div></div>
+			</div>
+		]]></content>
+	</template>
+	
+	<template type="POPUP">
+		<data_tag tags="i_button,i_content"><![CDATA[
+		<div>
+			<table id="i_popup" role="presentation" width="100%" cellpadding="0" cellspacing="0" role="presentation">
+			  <tr class="c_poptitlebg">
+				<td><div id="dlg_title" class="c_poptitle" tabIndex="-1" style="position:relative" $i_balttext><i_button></i_button></div></td>
+			  </tr>
+			  <tr><td><div id="dlg_desc" class="c_popcontent" tabIndex="-1" style="position:relative;" $i_calttext><i_content></i_content></div></td>
+			  </tr>
+			</table>
+			<div onClick="_EY(null,this)" onkeydown="_EY(event,this)" aria-label="Close" alt="Close" title="Close" class="c_popclose" role="button" tabIndex="-1" style="position:absolute;right:0px;top:0px;text-align:center;vertical-align:middle;display:table-cell;">X</div>
+		</div>
+		]]></data_tag>
+	</template>
+	
+	<template type="SCORE">
+		<data_tag tags="i_score" vars="i_button" global=""><![CDATA[
+			<div id="i_passmarks"><i_score></i_score></div><br>
+			<div>$i_button</div>
+			<div style="clear:both;"><br>
+		]]></data_tag>
+		<i_button><![CDATA[
+			<table cellpadding="10" cellspacing="0" class="c_qreview" role="presentation"><tr id='$id' onClick="_GI(this.id,true)" onkeydown="_DS(this.id,event)"><td valign="middle">Q. $qnum</td><td align="center" valign="middle"><div class="c_qreview$stat"></div></td></tr></table>
+		]]></i_button>
+	</template>
+	
+	<template type="QUIZ_CUSTOM">
+		<data_tag vars=""><![CDATA[<div id="trktick_n" class="c_tick" style="display:none;"></div>
+			<div style="display:table-cell;position:relative;">
+			</div>
+		]]></data_tag>
+	</template>
+
+	<template type="QUIZ_DRAG">
+		<data_tag vars=""><![CDATA[<div id="trktick_n" class="c_tick" style="display:none;"></div>
+			<div style="display:table-cell;position:relative;">
+			</div>
+		]]></data_tag>
+	</template>
+
+	<template type="QUIZ">
+		<data_tag vars="option" tags="i_question,i_instruction,i_corfdbck,i_incorfdbck,i_partialfdbck,i_triesfdbck,i_showfdbck" global="submit,reset,showanswer"><![CDATA[<div id="trktick_n" class="c_tick" style="display:none;"></div>
+			<div id="i_quiz" class="c_quizbox" $i_qalttext>
+			  <div class="c_question"><div style="position:relative" $tindx><i_question></i_question></div><div class="c_instruction" $tindx><div style="position:relative"><i_instruction></i_instruction></div></div></div>
+			  <div class="c_optionslist">
+				$option
+			  </div>
+			  <table width="100%" cellpadding="0" cellspacing="0" class="c_quizbtn_holder" role="presentation">
+				<tr>
+					<td width="100%" class="c_quizbtn_align">
+						<input $tindx type="button" onClick="_GJ(this)" class="c_quizbtn c_quizbtn_disabled" aria-disabled="true" disabled="true" value="$showanswer" alt="Show Answer"/>
+						<input $tindx type="button" onClick="_FP(this)" class="c_quizbtn c_quizbtn_disabled" value="$reset" aria-disabled="true" disabled="true" alt="Reset"/>
+						<input $tindx type="button" onClick="_EZ(this)" class="c_quizbtn c_quizbtn_disabled" value="$submit" aria-disabled="true" disabled="true" alt="Submit"/>
+					</td>
+				</tr>
+			  </table>
+			  <div class="c_fdbck" $tindx>
+				<div id="q_corfdbck" $i_calttext><table role="presentation"><tr><td valign="top"><div class="c_quizcorimg"></div></td><td style="position:relative"><i_corfdbck></i_corfdbck></td></tr></table></div>
+				<div id="q_incorfdbck" $i_ialttext><table role="presentation"><tr><td valign="top"><div class="c_quizincorimg"></div></td><td style="position:relative"><i_incorfdbck></i_incorfdbck></td></tr></table></div>
+				<div id="q_partialfdbck" $i_palttext><table role="presentation"><tr><td valign="top"><div class="c_quizincorimg"></div></td><td style="position:relative"><i_partialfdbck></i_partialfdbck></td></tr></table></div>
+				<div id="q_triesfdbck" $i_talttext><table role="presentation"><tr><td valign="top"><div class="c_quizincorimg"></div></td><td style="position:relative"><i_triesfdbck></i_triesfdbck></td></tr></table></div>
+				<div id="q_showfdbck" $i_salttext><table role="presentation"><tr><td valign="top"></td><td style="position:relative"><i_showfdbck></i_showfdbck></td></tr></table></div>
+			  </div>
+		  </div>
+		]]></data_tag>
+		<optionForm tags="i_option"><![CDATA[
+		]]></optionForm>
+		<optionRadio tags="i_option"><![CDATA[<div style="position:relative">
+		  <div $tindx class="c_option" role="radio" onclick="_AG(this)" onkeydown="_DB(event, this)" style="position:relative" $i_oalttext><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><span style="display:inline-block;"><input class="c_input" type="radio" onclick="_AG(this.parentNode)" style="display:none"/><img src="skin0/i_radio1.png" style="vertical-align:middle;"/></span></td><td width="8"></td><td><i_option></i_option></td></tr></table></div><div style="visibility:hidden;display:block;position:absolute;top:0px;left:0px;text-align:center;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>
+		]]></optionRadio>
+		<optionRadioH tags="i_option"><![CDATA[<div style="position:relative;display:inline-block;margin:10px">
+		  <div $tindx class="c_optionH" role="radio" onclick="_AG(this)" onkeydown="_DB(event, this)" style="position:relative" $i_oalttext><i_option></i_option><br><span style="display:inline-block;"><input type="radio" onclick="_AG(this.parentNode)" style="display:none"/><img src="skin0/i_radio1.png" style="vertical-align:middle;"/></span></div><div style="visibility:hidden;display:block;position:absolute;top:0px;left:0px;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>
+		]]></optionRadioH>
+		<optionChkbox tags="i_option"><![CDATA[<div style="position:relative">
+		  <div $tindx class="c_option" role="checkbox" onclick="_AG(this)" onkeydown="_DB(event, this)" style="position:relative" $i_oalttext><table border="0" cellpadding="0" cellspacing="0" role="presentation"><tr><td valign="top"><span style="display:inline-block;"><input class="c_input" type="checkbox" onclick="_AG(this.parentNode)" style="display:none"/><img src="skin0/i_checkbox1.png" style="vertical-align:middle;"/></span></td><td width="8"></td><td><i_option></i_option></td></tr></table></div><div style="visibility:hidden;display:block;position:absolute;text-align:center;top:0px;left:0px;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>
+		]]></optionChkbox>
+		<optionChkboxH tags="i_option"><![CDATA[<div style="position:relative;display:inline-block;margin:10px">
+		  <div $tindx class="c_optionH" role="checkbox" onclick="_AG(this)" onkeydown="_DB(event, this)" style="position:relative" $i_oalttext><i_option></i_option><br><span style="display:inline-block;"><input type="checkbox" onclick="_AG(this.parentNode)" style="display:none"/><img src="skin0/i_checkbox1.png" style="vertical-align:middle;"/><span></div><div style="visibility:hidden;display:block;position:absolute;top:0px;left:0px;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>
+		]]></optionChkboxH>
+		<optionDrp tags="i_option"><![CDATA[<div style="position:relative" $i_oalttext>
+		  <div $ftindx class="c_option" style="position:relative"><i_option></i_option><select $tindx class="c_inputDrp" style="max-width:100%" onChange="_AG(this)">$options</select></div><div style="visibility:hidden;display:block;position:absolute;text-align:center;top:0px;left:0px;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>
+		]]></optionDrp>
+		<optionDrpH tags="i_option"><![CDATA[<div style="position:relative;display:inline-block;margin:10px" $i_oalttext>
+		  <div $ftindx class="c_optionH" style="position:relative;"><i_option></i_option><br><select $tindx class="c_inputDrpH" style="max-width:100%" onChange="_AG(this)">$options</select></div><div style="visibility:hidden;display:block;position:absolute;top:0px;left:0px;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>
+		]]></optionDrpH>
+		<optionFIB tags="i_option"><![CDATA[<div style="position:relative" $i_oalttext>
+		  <div $ftindx class="c_option" style="position:relative"><i_option></i_option><input $tindx class="c_inputDrp" type="text" oninput="_AG(this)" onChange="_AG(this)"/></div><div style="visibility:hidden;display:block;position:absolute;text-align:center;top:0px;left:0px;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>
+		]]></optionFIB>
+		<optionFIBH tags="i_option"><![CDATA[<div style="position:relative;display:inline-block;margin:10px" $i_oalttext>
+		  <div $ftindx class="c_optionH" style="position:relative"><i_option></i_option><br><input $tindx class="c_inputDrpH" type="text" oninput="_AG(this)" onChange="_AG(this)"/></div><div style="visibility:hidden;display:block;position:absolute;top:0px;left:0px;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>
+		]]></optionFIBH>
+		<optionSpeech tags="i_option"><![CDATA[<div style="position:relative" $i_oalttext>
+		  <div $ftindx class="c_option" onclick="_BQ(this)" style="position:relative"><div class="c_inputspeech"></div><input $tindx class="c_inputDrp" type="text" disabled="true"/><i_option></i_option></div><div style="visibility:hidden;display:block;position:absolute;text-align:center;top:0px;left:0px;"><img src="skin0/i_qtick.png" class="c_optick"/></div></div>
+		]]></optionSpeech>
+	</template>
+</root>

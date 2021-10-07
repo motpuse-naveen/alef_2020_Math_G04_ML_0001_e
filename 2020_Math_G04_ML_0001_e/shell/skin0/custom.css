@@ -1,0 +1,1302 @@
+.int_contentbox {
+	 box-shadow: rgba(50, 50, 50, 0.4) 0px 0px 9px 1px;
+	 padding: 10px;
+	 font-size: 16px;
+	 text-align: left;
+	 color: rgb(51, 51, 51);
+	 background: padding-box rgb(255, 255, 255);
+}
+.int_image_margin {
+	 margin: 5px;
+}
+.int_QuizFIB {
+	 background: padding-box rgb(255, 255, 255);
+	 box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 15px 4px inset;
+	 border-image-source: url("../..i");
+	 border-image-slice: 0 fill;
+	 border-style: solid;
+	 border-color: rgb(147, 147, 147);
+	 border-width: 2px;
+	 border-radius: 0px;
+	 padding: 5px;
+	 font-size: 16px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(0, 0, 0);
+}
+.int_QuizFIB:focus {
+	 background: padding-box rgb(255, 255, 255);
+	 padding: 5px;
+	 font-size: 16px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(0, 0, 0);
+}
+.int_QuizFIB_Correct {
+	 border: 2px solid rgb(0, 180, 75);
+}
+.int_QuizFIB_Incorrect {
+	 border: 2px solid rgb(225, 52, 0);
+}
+.int_QuizRadioChk {
+	 border: 2px solid rgb(255, 255, 255);
+	 border-radius: 5px;
+	 padding: 10px 15px 10px 10px;
+	 margin: auto 40px 5px auto;
+	 font-size: 16px;
+	 text-align: left;
+	 color: rgb(0, 0, 0);
+	 background: rgb(255, 255, 255);
+}
+.int_QuizRadioChk_Correct {
+	 border: 2px solid rgb(0, 180, 75);
+	 border-radius: 5px;
+}
+.int_QuizRadioChk_Incorrect {
+	 border: 2px solid rgb(238, 16, 0);
+	 border-radius: 5px;
+}
+.int_QuizDrag_Cor {
+	 background: padding-box rgb(255, 255, 255) !important;
+	 border-style: solid !important;
+	 border-color: rgb(22, 183, 145) !important;
+	 border-width: 2px !important;
+	 border-radius: 10px !important;
+	 font-size: 34px !important;
+	 text-decoration: none !important;
+	 color: rgb(0, 0, 0) !important;
+}
+.int_QuizDrag_Cor::after {
+	 display: inline-block;
+	 position: absolute;
+	 right: 0px;
+	 bottom: 0px;
+	 background-clip: padding-box;
+}
+.int_QuizDrag_Incor {
+	 background: padding-box rgb(255, 255, 255) !important;
+	 border-style: solid !important;
+	 border-color: rgb(185, 3, 48) !important;
+	 border-width: 2px !important;
+	 border-radius: 10px !important;
+	 font-size: 34px !important;
+	 text-decoration: none !important;
+	 color: rgb(0, 0, 0) !important;
+}
+.int_QuizDrag_Incor::after {
+	 display: inline-block;
+	 position: absolute;
+	 right: 0px;
+	 bottom: 0px;
+	 background-clip: padding-box;
+}
+.int_QuizFdbckCorrect {
+	 padding: 10px;
+	 font-size: 18px;
+	 text-align: center;
+	 font-family: Calibri;
+	 color: rgb(255, 255, 255);
+	 background: padding-box rgb(0, 137, 123);
+}
+.int_QuizFdbckIncorrect {
+	 box-shadow: rgba(50, 50, 50, 0.498) 0px 0px 10px 1px;
+	 padding: 10px;
+	 font-size: 18px;
+	 text-align: center;
+	 color: rgb(255, 255, 255);
+	 background: padding-box rgb(244, 66, 54);
+}
+.int_speechBubble {
+	 border: 0px solid rgb(0, 77, 64);
+	 border-radius: 5px;
+	 padding: 4px 10px;
+	 font-size: 14px;
+	 color: rgb(51, 51, 51);
+	 background: padding-box rgb(255, 255, 255);
+}
+.btn_Button_A {
+	 padding: 0px;
+	 font-size: 40px;
+	 font-family: frutiger_1;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_Button_D {
+	 background-clip: padding-box;
+}
+.btn_Button_R {
+}
+.btn_Button_S {
+	 background-clip: padding-box;
+}
+.btn_Button_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_Button_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_Button_Navig_A {
+	 border-style: solid;
+	 border-color: rgb(73, 151, 223);
+	 border-width: 0px;
+	 border-radius: 8px;
+	 font-size: 16px;
+	 text-align: center;
+	 font-family: fontawesome;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_Button_Navig_D {
+	 opacity: 0.25;
+}
+.btn_Button_Navig_R {
+}
+.btn_Button_Navig_S {
+	 background-clip: padding-box;
+}
+.btn_Button_Navig_T {
+	 transform: scaleX(0.9) scaleY(0.9) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_Button_Navig_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_Button_Radio_A {
+	 background: padding-box rgb(255, 255, 255);
+	 border-style: solid;
+	 border-color: rgb(13, 71, 161);
+	 border-width: 0px;
+	 border-radius: 50px;
+	 font-size: 18px;
+	 text-align: center;
+	 font-weight: bold;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(8, 90, 163);
+}
+.btn_Button_Radio_D {
+	 opacity: 0.5;
+	 text-decoration: none;
+	 color: rgb(183, 183, 183);
+	 background-clip: padding-box;
+}
+.btn_Button_Radio_R {
+}
+.btn_Button_Radio_S {
+	 background: radial-gradient(at center center, rgb(13, 71, 161) 0%, rgb(30, 136, 229) 32%, rgb(255, 255, 255) 40%) padding-box;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_Button_Radio_T {
+	 transform: scaleX(0.9) scaleY(0.9) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 background-clip: padding-box;
+}
+.btn_Button_Radio_V {
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_Seekbar_BG {
+	 padding: 0px 5px;
+	 background-clip: padding-box;
+}
+.int_Seekbar_ldbar {
+	 background: padding-box rgb(13, 71, 161);
+}
+.int_Seekbar_plbar {
+	 background: padding-box rgb(255, 0, 42);
+}
+.int_Seekbar_plbtn {
+	 padding: 2px;
+	 font-size: 20px;
+	 text-align: center;
+	 font-family: fontawesome;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.int_seek_thumb {
+	 background: padding-box rgb(13, 71, 161);
+	 border-style: solid;
+	 border-color: rgb(254, 254, 254);
+	 border-width: 0px;
+	 border-radius: 12px;
+	 padding: 4px;
+	 margin: 7px auto auto;
+}
+.int_Page_Counter {
+	 font-size: 20px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.int_TopBar_BgColor {
+	 background: padding-box rgb(13, 71, 161);
+}
+.int_BottomBar_BgColor {
+	 background: padding-box rgb(13, 71, 161);
+}
+.int_Image_Frame {
+	 box-shadow: rgba(106, 106, 106, 0.72) 0px 0px 16px 0px;
+	 border: 8px solid rgb(254, 254, 254);
+	 border-radius: 0px;
+	 background-clip: padding-box;
+}
+.int_Title_Module {
+	 font-size: 16px;
+	 font-weight: bold;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.int_Title_Course {
+	 font-size: 17px;
+	 font-weight: bold;
+	 text-decoration: none;
+	 text-transform: uppercase;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.int_DD_Style01 {
+	 padding: 5px 10px !important;
+	 color: rgb(255, 255, 255) !important;
+	 background: padding-box rgb(187, 187, 187) !important;
+}
+.int_DD_Target {
+	 padding: 5px 10px !important;
+	 color: rgb(255, 255, 255) !important;
+	 background: padding-box rgb(224, 224, 224) !important;
+}
+.int_DD_Subjects {
+	 color: rgb(255, 255, 255) !important;
+	 background: padding-box rgb(66, 66, 66) !important;
+}
+.int_QuizDD_Wrong {
+	 padding: 10px !important;
+	 color: rgb(255, 255, 255) !important;
+	 background: padding-box rgb(239, 83, 80) !important;
+}
+.int_QuizDD_Partial {
+	 padding: 10px !important;
+	 color: rgb(255, 255, 255) !important;
+	 background: padding-box rgb(136, 136, 136) !important;
+}
+.int_logo_bg {
+	 background: padding-box rgb(255, 255, 255);
+	 box-shadow: rgb(135, 135, 135) 0px 0px 11px 1px;
+	 padding: 10px;
+}
+.int_Title_Page {
+	 font-size: 14px;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_3_dot_btn_A {
+	 background: padding-box rgba(255, 255, 255, 0.2);
+	 border-width: 0px;
+	 border-radius: 286px;
+	 font-size: 18px;
+	 text-align: center;
+	 font-weight: bold;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_3_dot_btn_D {
+	 opacity: 0.25;
+}
+.btn_3_dot_btn_R {
+}
+.btn_3_dot_btn_S {
+	 background: padding-box rgba(209, 209, 209, 0.5);
+}
+.btn_3_dot_btn_T {
+	 background-clip: padding-box;
+}
+.btn_3_dot_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_txt_box_border {
+	 background: padding-box rgb(239, 239, 239);
+	 border-style: solid;
+	 border-color: rgb(222, 222, 222);
+	 border-width: 0px 1px 1px;
+	 border-radius: 0px;
+	 padding: 20px 10px 10px;
+	 font-size: 16px;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(50, 50, 50);
+}
+.btn_glossary_btn_A {
+	 background: padding-box rgb(30, 136, 229);
+	 border-style: solid;
+	 border-color: rgb(152, 152, 152);
+	 border-width: 0px;
+	 border-radius: 50px;
+	 font-size: 16px;
+	 text-align: center;
+	 font-weight: bold;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_glossary_btn_D {
+	 opacity: 0.25;
+}
+.btn_glossary_btn_R {
+}
+.btn_glossary_btn_S {
+	 background: padding-box rgb(13, 71, 161);
+	 border-width: 0px;
+	 border-radius: 50px;
+	 font-size: 16px;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_glossary_btn_T {
+	 transform: scaleX(0.9) scaleY(0.9) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_glossary_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_glosarry_term_btn_A {
+	 background: padding-box rgb(30, 136, 229);
+	 border-style: solid;
+	 border-color: rgb(240, 240, 240);
+	 border-width: 0px;
+	 border-radius: 0px;
+	 font-size: 16px;
+	 text-align: center;
+	 font-weight: bold;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_glosarry_term_btn_D {
+	 opacity: 0.25;
+}
+.btn_glosarry_term_btn_R {
+}
+.btn_glosarry_term_btn_S {
+	 background: padding-box rgb(13, 71, 161);
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_glosarry_term_btn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_glosarry_term_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_txt_bg {
+	 background: padding-box rgb(13, 71, 161);
+	 box-shadow: rgb(161, 161, 161) 0px 5px 10px 1px;
+	 border-width: 0px;
+	 border-radius: 10px 10px 0px 0px;
+	 padding: 15px 20px;
+	 font-size: 16px;
+	 text-align: left;
+	 font-weight: bold;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.int_running_text {
+	 font-size: 16px;
+	 letter-spacing: 1px;
+	 line-height: 15px;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(86, 85, 85);
+	 background-clip: padding-box;
+}
+.int_instruction_text {
+	 font-size: 16px;
+	 font-weight: bold;
+	 font-style: italic;
+	 text-decoration: none;
+	 color: rgb(13, 71, 161);
+	 background-clip: padding-box;
+}
+.int_container_shadow {
+	 background: padding-box rgb(255, 255, 255) !important;
+	 box-shadow: rgba(50, 50, 50, 0.4) -1px -1px 11px 1px !important;
+}
+.int_paragraph_text {
+	 padding: 5px;
+	 font-size: 16px;
+	 letter-spacing: 1px;
+	 line-height: 18px;
+	 text-align: left;
+	 text-decoration: none;
+	 color: rgb(95, 94, 94);
+	 background-clip: padding-box;
+}
+.int_heading_1 {
+	 font-size: 20px;
+	 letter-spacing: 1px;
+	 font-weight: bold;
+	 text-decoration: none;
+	 color: rgb(13, 71, 161);
+	 background-clip: padding-box;
+}
+.int_round_img {
+	 border-width: 0px;
+	 border-radius: 150px;
+	 background-clip: padding-box;
+}
+.int_box_text {
+	 background: padding-box rgb(240, 240, 240);
+	 border-style: solid;
+	 border-color: rgb(205, 205, 205);
+	 border-width: 1px;
+	 border-radius: 0px;
+	 font-size: 15px;
+	 line-height: 26px;
+	 text-align: center;
+	 font-weight: bold;
+	 text-decoration: none;
+	 color: rgb(2, 2, 2);
+}
+.int_table_border {
+	 border-style: solid;
+	 border-color: rgb(222, 222, 222);
+	 border-width: 1px;
+	 border-radius: 10px 10px 0px 0px;
+	 background-clip: padding-box;
+}
+.int_transcript_heading_border {
+	 background: linear-gradient(0deg, rgb(13, 71, 161) 0%, rgb(30, 136, 229) 96%) padding-box;
+	 box-shadow: rgb(161, 161, 161) 0px 5px 10px 1px;
+	 border-width: 0px;
+	 border-radius: 10px 10px 0px 0px;
+	 padding: 5px 10px;
+	 font-size: 16px;
+	 font-weight: bold;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_Button_Navig1_A {
+	 background: padding-box rgb(13, 71, 161);
+	 border-style: solid;
+	 border-color: rgb(73, 151, 223);
+	 border-width: 0px;
+	 border-radius: 8px;
+	 font-size: 16px;
+	 text-align: center;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_Button_Navig1_D {
+	 opacity: 0.25;
+}
+.btn_Button_Navig1_R {
+}
+.btn_Button_Navig1_S {
+}
+.btn_Button_Navig1_T {
+	 transform: scaleX(0.9) scaleY(0.9) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_Button_Navig1_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_flash_page_grd {
+	 background: linear-gradient(0deg, rgb(13, 71, 161) 0%, rgb(30, 136, 229) 95%) padding-box;
+	 box-shadow: rgb(128, 128, 128) 0px 5px 10px -1px;
+	 border-width: 0px;
+	 border-radius: 5px;
+}
+.int__theme_dropdownstyle {
+	 background: padding-box rgb(255, 255, 255);
+	 border-width: 0px;
+	 border-radius: 0px;
+	 padding: 5px;
+	 font-size: 22px;
+	 text-align: left;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(13, 71, 161);
+}
+.int_progress_bar {
+	 background: padding-box rgb(30, 136, 229);
+}
+.int_page_counter_bg {
+	 background: linear-gradient(rgb(13, 71, 161) 0%, rgb(30, 136, 229) 50%, rgb(13, 71, 161) 100%) padding-box;
+	 border-style: solid;
+	 border-color: rgb(30, 136, 229);
+	 border-width: 1px;
+	 border-radius: 10px;
+}
+.int_tpbar_bg_light {
+	 background: padding-box rgb(30, 136, 229);
+	 border-width: 0px;
+	 border-radius: 0px 0px 175px;
+}
+.int_custom {
+	 background: padding-box rgb(215, 215, 215);
+	 box-shadow: rgb(42, 42, 42) 0px 0px 8px 7px;
+	 text-shadow: 0px 0px 0px;
+	 -webkit-text-stroke: 1px;
+	 border-width: 0px;
+	 border-radius: 0px;
+	 padding: 0px;
+	 margin: auto;
+}
+.int_style15 {
+	 background: padding-box rgb(96, 244, 0);
+	 box-shadow: 0px 0px 24px 1px;
+	 text-decoration: none;
+	 color: rgb(0, 51, 221);
+}
+.btn_Mod_btn_style_A {
+	 background: padding-box rgb(14, 112, 211);
+	 border-image-source: url("../..i");
+	 border-image-slice: 0 fill;
+	 border-style: solid;
+	 border-color: rgb(8, 67, 126);
+	 border-width: 1px;
+	 border-radius: 4px;
+	 font-size: 18px;
+	 letter-spacing: 1px;
+	 line-height: 18px;
+	 text-align: center;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_Mod_btn_style_D {
+	 opacity: 0.25;
+}
+.btn_Mod_btn_style_S {
+	 background: padding-box rgb(14, 112, 211);
+}
+.btn_Mod_btn_style_T {
+	 background: padding-box rgb(10, 85, 160);
+	 transform: scaleX(0.9) scaleY(0.9) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 font-size: 18px;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.int_quict_instruction_txt {
+	 background: padding-box rgb(14, 112, 211);
+	 box-shadow: rgb(5, 47, 88) 0px 7px 10px 0px inset;
+	 padding: 15px 20px 10px;
+	 font-size: 15px;
+	 letter-spacing: 1px;
+	 line-height: 20px;
+	 text-align: left;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.int_DND_drag_shape1 {
+	 background: padding-box rgb(14, 112, 211);
+	 font-size: 18px;
+	 letter-spacing: 2px;
+	 line-height: 20px;
+	 text-align: center;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.int_DND_tar_area {
+	 background: padding-box rgb(255, 255, 255);
+	 box-shadow: rgb(240, 240, 240) 0px 0px 20px 1px inset;
+	 border-style: solid;
+	 border-color: rgb(222, 222, 222);
+	 border-width: 1px;
+	 border-radius: 0px;
+	 letter-spacing: 1px;
+	 line-height: 20px;
+	 text-align: center;
+	 font-weight: bold;
+	 text-decoration: none;
+	 color: rgb(0, 0, 0);
+}
+.int_table_shadow {
+	 background: padding-box rgb(255, 255, 255);
+}
+.int_feedback_text {
+	 margin: 10px 20px;
+	 font-size: 16px;
+	 text-decoration: none;
+	 color: rgb(51, 51, 51);
+	 background-clip: padding-box;
+}
+.int_Style {
+}
+.int_Label {
+	 background-clip: padding-box;
+}
+.int_textShadow {
+	 text-shadow: rgb(15, 0, 84) 1px 1px 1px;
+	 -webkit-text-stroke: 1px;
+	 background-clip: padding-box;
+}
+.btn_Begin_A {
+	 background: linear-gradient(0deg, rgb(0, 246, 60) 0%, rgb(30, 136, 229) 94%) padding-box;
+	 box-shadow: rgb(0, 0, 0) 0px 3px 10px 0px;
+	 border-style: solid;
+	 border-color: rgb(73, 151, 223);
+	 border-width: 0px;
+	 border-radius: 0px;
+	 font-size: 18px;
+	 text-align: center;
+	 font-weight: bold;
+	 text-decoration: none;
+	 color: rgb(10, 82, 254);
+}
+.btn_Begin_D {
+	 opacity: 0.25;
+}
+.btn_Begin_R {
+}
+.btn_Begin_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_Begin_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_Begin_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+._A {
+	 padding: 0px 0px 10px 50px;
+	 font-size: 35px;
+	 text-align: center;
+	 font-family: opensans_bold_0;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_Next_A {
+	 background: padding-box rgb(180, 223, 38);
+	 box-shadow: rgb(0, 0, 0) 0px 3px 10px 0px;
+	 border-style: solid;
+	 border-color: rgb(73, 151, 223);
+	 border-width: 0px;
+	 border-radius: 20px;
+	 padding: 5px;
+	 font-size: 40px;
+	 text-align: center;
+	 font-weight: bold;
+	 text-decoration: none;
+	 color: rgb(72, 92, 0);
+}
+.btn_Next_D {
+	 opacity: 0.25;
+}
+.btn_Next_R {
+}
+.btn_Next_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_Next_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_Next_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_ostdefaultStyle {
+	 font-size: 40px;
+	 text-align: center;
+	 font-family: frutiger_2;
+	 text-decoration: none;
+	 color: rgb(0, 0, 0);
+	 background-clip: padding-box;
+}
+.int_whiteColor {
+	 font-size: 40px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.int_hintStyle {
+	 background: padding-box rgb(255, 255, 255);
+	 border-width: 0px;
+	 border-radius: 10px;
+	 padding: 15px 40px 10px 80px;
+}
+.int_overlay_bg {
+	 background: linear-gradient(0deg, rgba(0, 0, 0, 0.7) 0%, rgba(0, 0, 0, 0.7) 48%, rgba(0, 0, 0, 0.7) 100%) padding-box;
+}
+.int_alef_feed_bg {
+	 background: padding-box rgb(223, 248, 241);
+	 border-color: rgb(12, 157, 214);
+	 border-width: 4px;
+	 border-radius: 15px;
+}
+.btn_a_feedbackBtn_A {
+	 padding: 0px 0px 0px 50px;
+	 font-size: 40px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_a_feedbackBtn_D {
+	 opacity: 0.25;
+}
+.btn_a_feedbackBtn_R {
+}
+.btn_a_feedbackBtn_S {
+	 background-clip: padding-box;
+}
+.btn_a_feedbackBtn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_feedbackBtn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_a_play_pause_A {
+	 background: padding-box rgb(72, 92, 0);
+	 border-style: solid;
+	 border-color: rgb(73, 151, 223);
+	 border-width: 0px;
+	 border-radius: 8px;
+	 font-size: 16px;
+	 text-align: center;
+	 font-family: Arial;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_a_play_pause_D {
+	 opacity: 0.25;
+}
+.btn_a_play_pause_R {
+}
+.btn_a_play_pause_S {
+}
+.btn_a_play_pause_T {
+	 transform: scaleX(0.9) scaleY(0.9) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_play_pause_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_a_navigation_btn_A{
+	background: rgb(180, 223, 38);
+	box-shadow:0px 0px 6px 2px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow:0px 0px 6px 2px rgba(0, 0, 0, 0.5);
+	border-style:solid;
+	border-color:rgb(73, 151, 223);
+	border-width:0px 0px 0px 0px;
+	border-radius:15px 15px 15px 15px;
+	padding:10px 20px 10px 30px;
+	font-size:40px;
+	text-align:center;
+	text-decoration: none;
+	color:rgb(72, 92, 0);
+	background-clip: padding-box;
+}
+.btn_a_navigation_btn_D {
+	 background: padding-box rgb(217, 239, 146);
+	 padding: 10px 20px 15px 30px;
+	 font-size: 40px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(163, 173, 127);
+}
+.btn_a_navigation_btn_R {
+}
+.btn_a_navigation_btn_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_a_navigation_btn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_navigation_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_a_nav_middle_btn {
+	 background: padding-box rgb(180, 223, 38) !important;
+	 box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px 2px !important;
+	 border-width: 0px !important;
+	 border-radius: 15px !important;
+}
+.btn_a_nav_replay_btn_A {
+	 background-clip: padding-box;
+}
+.btn_a_nav_replay_btn_D {
+	 opacity: 0.25;
+}
+.btn_a_nav_replay_btn_R {
+}
+.btn_a_nav_replay_btn_S {
+}
+.btn_a_nav_replay_btn_T {
+	 transform: scaleX(0.9) scaleY(0.9) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_nav_replay_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_a_nav_transcript_btn_A {
+	 background-clip: padding-box;
+}
+.btn_a_nav_transcript_btn_D {
+	 opacity: 0.25;
+}
+.btn_a_nav_transcript_btn_R {
+}
+.btn_a_nav_transcript_btn_S {
+}
+.btn_a_nav_transcript_btn_T {
+	 transform: scaleX(0.9) scaleY(0.9) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_nav_transcript_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_a_nav_play_btn_A {
+	 background-clip: padding-box;
+}
+.btn_a_nav_play_btn_D {
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_nav_pause_btn_A {
+	 background: linear-gradient(0deg, rgb(0, 84, 166) 0%, rgb(30, 136, 229) 94%) padding-box;
+	 box-shadow: rgb(0, 0, 0) 0px 5px 5px -3px;
+	 border-style: solid;
+	 border-color: rgb(73, 151, 223);
+	 border-width: 0px;
+	 border-radius: 15px;
+	 font-size: 18px;
+	 text-align: center;
+	 font-weight: bold;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_a_nav_pause_btn_D {
+	 opacity: 0.25;
+}
+.btn_a_nav_pause_btn_R {
+}
+.btn_a_nav_pause_btn_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_a_nav_pause_btn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_nav_pause_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_a_progress_bar {
+	 border-color: rgb(255, 255, 255);
+	 border-width: 2px;
+	 border-radius: 5px;
+	 background-clip: padding-box;
+}
+.btn_a_submit_btn_A {
+	 background: padding-box rgb(180, 223, 38);
+	 box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px 2px;
+	 border-style: solid;
+	 border-color: rgb(73, 151, 223);
+	 border-width: 0px;
+	 border-radius: 15px;
+	 padding: 10px 20px 15px 30px;
+	 font-size: 40px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(72, 92, 0);
+}
+.btn_a_submit_btn_D {
+	 background: padding-box rgb(217, 239, 146);
+	 font-size: 40px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(163, 173, 127);
+}
+.btn_a_submit_btn_R {
+	 text-decoration: none;
+	 color: rgb(0, 0, 0);
+	 background-clip: padding-box;
+}
+.btn_a_submit_btn_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_a_submit_btn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_submit_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_a_transcript_holder {
+	 border-width: 0px;
+	 border-radius: 14px 14px 0px 0px;
+	 background-clip: padding-box;
+}
+.btn_a_transcript_close_btn_A {
+	 background-clip: padding-box;
+}
+.btn_a_transcript_close_btn_D {
+	 opacity: 0.25;
+}
+.btn_a_transcript_close_btn_R {
+}
+.btn_a_transcript_close_btn_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_a_transcript_close_btn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_transcript_close_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_a_transcript_text_box {
+	 padding: 0px 10px 0px 6px;
+	 font-size: 17px;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_a_poweruo_btn_A {
+	 padding: 5px 0px 10px 63px;
+	 font-size: 30px;
+	 text-align: center;
+	 font-family: frutiger_bold;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_a_poweruo_btn_D {
+	 opacity: 0.25;
+}
+.btn_a_poweruo_btn_R {
+}
+.btn_a_poweruo_btn_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_a_poweruo_btn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_poweruo_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_a_left_robt_A {
+	 background-clip: padding-box;
+}
+.btn_a_left_robt_D {
+	 opacity: 0.25;
+}
+.btn_a_left_robt_R {
+}
+.btn_a_left_robt_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_a_left_robt_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_left_robt_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_a_only_text_btn_A {
+	 font-size: 40px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_a_only_text_btn_D {
+	 opacity: 0.25;
+}
+.btn_a_only_text_btn_R {
+}
+.btn_a_only_text_btn_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_a_only_text_btn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_only_text_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_powerupclose_A {
+	 padding: 0px 0px 8px 100px;
+	 font-size: 28px;
+	 font-family: frutiger_bold;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_powerupclose_D {
+	 opacity: 0.25;
+}
+.btn_powerupclose_R {
+}
+.btn_powerupclose_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_powerupclose_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_powerupclose_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_a_next_ready_close_btn_A {
+	 background-clip: padding-box;
+}
+.btn_a_next_ready_close_btn_D {
+	 opacity: 0.25;
+}
+.btn_a_next_ready_close_btn_R {
+}
+.btn_a_next_ready_close_btn_S {
+	 background-clip: padding-box;
+}
+.btn_a_next_ready_close_btn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_next_ready_close_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.btn_a_feedback_close_btn_A {
+	 background-clip: padding-box;
+	 border-width: 0px !important;
+	 border-radius: 25px !important;
+	 padding: 0px 0px 3px !important;
+	 font-size: 40px !important;
+	 text-align: center !important;
+	 font-family: opensans_regular_0 !important;
+	 text-decoration: none !important;
+	 color: rgb(255, 255, 255) !important;
+}
+.btn_a_feedback_close_btn_D {
+	 opacity: 0.25;
+}
+.btn_a_feedback_close_btn_R {
+}
+.btn_a_feedback_close_btn_S {
+	 background-clip: padding-box;
+}
+.btn_a_feedback_close_btn_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_a_feedback_close_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_Drag_Target {
+	 background: padding-box rgb(220, 220, 220);
+	 border-style: dashed;
+	 border-color: rgb(0, 0, 0);
+	 border-width: 3px;
+	 border-radius: 10px;
+	 padding: 5px;
+}
+.int_Drag_Option {
+	 background: padding-box rgb(53, 36, 140);
+	 border-style: solid;
+	 border-color: rgb(99, 82, 175);
+	 border-width: 2px;
+	 border-radius: 10px;
+	 padding: 10px;
+	 font-size: 34px;
+	 text-align: center;
+	 font-family: frutiger_1;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.int_Drag_option_rover {
+	 background: padding-box rgb(109, 65, 151);
+	 border-style: solid;
+	 border-color: rgb(139, 118, 199);
+	 border-width: 2px;
+	 border-radius: 10px;
+	 padding: 10px;
+	 font-size: 34px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+}
+.btn_Start_btn_A {
+	 background-clip: padding-box;
+}
+.btn_Start_btn_D {
+	 opacity: 0.25;
+}
+.btn_Start_btn_R {
+	 font-family: opensans_bold_0;
+	 text-decoration: none;
+	 color: rgb(0, 0, 0);
+	 background-clip: padding-box;
+}
+.btn_Start_btn_S {
+	 background-clip: padding-box;
+}
+.btn_Start_btn_T {
+	 background-clip: padding-box;
+}
+.btn_Start_btn_V {
+	 border: 0px solid rgb(0, 150, 136);
+	 background: padding-box rgb(0, 98, 19);
+}
+.int_page_tittle {
+	 font-size: 40px;
+	 text-align: center;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.int_Fraction_Question {
+	 background: padding-box rgb(207, 234, 249);
+	 box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 5px 1px;
+	 border-style: solid;
+	 border-color: rgba(0, 0, 0, 0);
+	 border-width: 2px;
+	 border-radius: 10px;
+}
+.int_Fraction_question_Right {
+	 background: padding-box rgb(245, 251, 249);
+	 box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px 3px;
+	 border-width: 0px;
+	 border-radius: 25px;
+}
+.int_Fraction_Question_Wrong {
+	 background: padding-box rgb(251, 242, 244);
+	 box-shadow: rgba(0, 0, 0, 0.5) 0px 0px 6px 3px;
+	 border-style: solid;
+	 border-color: rgb(168, 60, 102);
+	 border-width: 3px;
+	 border-radius: 25px;
+}
+.btn_Continue_Button_A {
+	 font-size: 34px;
+	 text-align: center;
+	 font-family: opensans_bold_0;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_Continue_Button_D {
+	 opacity: 0.25;
+}
+.btn_Continue_Button_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_Continue_Button_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.btn_Hint_Button_A {
+	 padding: 0px 0px 7px 60px;
+	 font-size: 35px;
+	 text-align: center;
+	 font-family: opensans_bold_0;
+	 text-decoration: none;
+	 color: rgb(255, 255, 255);
+	 background-clip: padding-box;
+}
+.btn_Hint_Button_D {
+	 opacity: 0.25;
+}
+.btn_Hint_Button_S {
+	 background: padding-box rgb(180, 223, 38);
+	 text-decoration: none;
+	 color: rgb(0, 93, 25);
+}
+.btn_Hint_Button_T {
+	 transform: scaleX(1) scaleY(1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skewX(0deg) skewY(0deg);
+	 opacity: 0.5;
+	 background-clip: padding-box;
+}
+.int_hint_base {
+	 background: padding-box rgb(254, 254, 254);
+	 box-shadow: rgba(33, 33, 33, 0.25) 0px 0px 5px 5px;
+	 border-width: 0px;
+	 border-radius: 10px 0px 0px 10px;
+}
+.int_Overlay_Top_BG {
+	 background: linear-gradient(-180deg, rgba(0, 0, 0, 0.7) 18%, rgba(0, 0, 0, 0) 100%) padding-box;
+}
+.int_Overlya_Bottom_BG {
+	 background: linear-gradient(0deg, rgba(0, 0, 0, 0.7) 13%, rgba(0, 0, 0, 0) 100%) padding-box;
+}
