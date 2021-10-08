@@ -137,25 +137,26 @@ function f_lmsaction(cmd, param, val) {
 				} else if (v_lmsmode == "xAPI") {
 					contentStarted(_course.lcID);
 					console.log("content started")
-				 var lresult = getProgress(_course.lcID);
-					suspenData=""
+					var lresult = getProgress(_course.lcID);
+					suspenData = ""
 					lresult.then(result => {
-			
+
 						// const { foo, bar } = result.data;
-						console.log("getvalue="+result)
-						if(!result){
-							result=""
+						console.log("getvalue=" + JSON.stringify(result))
+						//
+						if (!result) {
+							result = ""
 						}
-						suspenData=result
+						suspenData = result["state_data"]
 						f_datarcvd()
 						// rest of script
-					  }, error => {
+					}, error => {
 						// const { foo, bar } = result.data;
 						console.log(error)
 						f_datarcvd()
 						// rest of script
-					  });
-					  
+					});
+
 				}
 
 				f_geterror("INITIALIZE", lresult)
@@ -214,7 +215,7 @@ function f_lmsaction(cmd, param, val) {
 		return ""
 	}
 }
- function f_getvalue(prop) {
+function f_getvalue(prop) {
 
 	var lprop = datamodel[prop]
 	if (!lprop) lprop = prop
@@ -228,9 +229,9 @@ function f_lmsaction(cmd, param, val) {
 		lresult = datamodel[prop]
 		lprop = prop
 		if (prop == "suspend_data") {
-		
-			lresult=suspenData;
-			
+
+			lresult = suspenData;
+
 		}
 		else {
 			lresult = " "
@@ -238,7 +239,7 @@ function f_lmsaction(cmd, param, val) {
 	}
 	console.log("value=" + lresult);
 	if (prop == "lesson_status" && lresult) lresult = lresult.toLowerCase()
-	
+
 	f_geterror("GET(" + lprop + ")", lresult, lresult)
 	return lresult
 }
@@ -254,15 +255,17 @@ function f_setvalue(prop, val) {
 	} else if (v_lmsmode == "AICC") {
 		AICC_DATA[lprop] = val;
 	} else if (v_lmsmode == "xAPI") {
-	// 	var lcomp = datamodel.lesson_status
-	// 	datamodel[prop] = val
-	// 	x_saveState()
-	// 	if (lcomp != datamodel.lesson_status && datamodel.lesson_status == v_lessonstat[1]) x_updcoursestat(v_lessonstat[1])
-	// 	lprop = prop
+		// 	var lcomp = datamodel.lesson_status
+		// 	datamodel[prop] = val
+		// 	x_saveState()
+		// 	if (lcomp != datamodel.lesson_status && datamodel.lesson_status == v_lessonstat[1]) x_updcoursestat(v_lessonstat[1])
+		// 	lprop = prop
 		if (prop == "suspend_data") {
 			suspenData = val;
-			setProgress(_course.lcID, val);
-			console.log("setvalue="+val)
+			//setProgress(_course.lcID, val);
+			var json_data = {"state_data":val }
+			setProgress(_course.lcID, json_data);
+			console.log("setvalue=" + JSON.stringify(json_data))
 		}
 	}
 	if (!v_debugmode && (lprop.indexOf(".correct_responses") != -1 || lprop.indexOf(".result") != -1)) {
