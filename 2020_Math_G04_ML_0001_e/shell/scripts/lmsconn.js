@@ -193,8 +193,9 @@ function f_lmsaction(cmd, param, val) {
 				if (!isexiting) {
 					if (v_lmsmode == "xAPI") {
 						// x_updcoursestat("suspended")
-						contentFinished(_course.lcID, suspenData);
-						console.log("contentFinished")
+						var finish_json_data = { "state_data": suspenData }
+						contentFinished(_course.lcID, finish_json_data);
+						console.log("contentFinished-" + JSON.stringify(finish_json_data))
 					} else {
 						// f_settime()
 						// f_commit()
@@ -263,7 +264,7 @@ function f_setvalue(prop, val) {
 		if (prop == "suspend_data") {
 			suspenData = val;
 			//setProgress(_course.lcID, val);
-			var json_data = {"state_data":val }
+			var json_data = { "state_data": val }
 			setProgress(_course.lcID, json_data);
 			console.log("setvalue=" + JSON.stringify(json_data))
 		}
